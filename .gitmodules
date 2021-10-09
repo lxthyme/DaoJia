@@ -31,3 +31,6 @@
 [submodule "BLiOSAppImages"]
 	path = BLiOSAppImages
 	url = git@gitlab.bl.com:iOS/BLiOSAppImages.git
+[submodule "BaiLian"]
+	path = BaiLian
+	url = git@gitlab.bl.com:iOS/BaiLian.git
