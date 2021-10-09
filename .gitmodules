@@ -34,3 +34,6 @@
 [submodule "BaiLian"]
 	path = BaiLian
 	url = git@gitlab.bl.com:iOS/BaiLian.git
+[submodule "DJActivityGoodsList"]
+	path = DJActivityGoodsList
+	url = git@gitlab.bl.com:iOS_Business/DJActivityGoodsList.git
