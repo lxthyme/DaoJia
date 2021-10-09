@@ -25,3 +25,6 @@
 [submodule "BLOrderConfirmBottomView"]
 	path = BLOrderConfirmBottomView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmBottomView.git
+[submodule "BLRawAPIManager"]
+	path = BLRawAPIManager
+	url = git@gitlab.bl.com:iOS_Foundation/BLRawAPIManager.git
