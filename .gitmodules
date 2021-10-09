@@ -19,3 +19,6 @@
 [submodule "BLMapModule"]
 	path = BLMapModule
 	url = git@gitlab.bl.com:iOS_Business/BLMapModule.git
+[submodule "BLOrder"]
+	path = BLOrder
+	url = git@gitlab.bl.com:iOS_Business/BLOrder.git
