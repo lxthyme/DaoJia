@@ -10,3 +10,6 @@
 [submodule "BLDaoJia"]
 	path = BLDaoJia
 	url = git@gitlab.bl.com:iOS_Business/BLDaoJia.git
+[submodule "BLHomeDataSource"]
+	path = BLHomeDataSource
+	url = git@gitlab.bl.com:iOS_DataCenters/BLHomeDataSource.git
