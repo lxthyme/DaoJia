@@ -43,3 +43,6 @@
 [submodule "DJClassifyList"]
 	path = DJClassifyList
 	url = git@gitlab.bl.com:iOS_Business/DJClassifyList.git
+[submodule "DJGlobalStoreManager"]
+	path = DJGlobalStoreManager
+	url = git@gitlab.bl.com:iOS_DataCenters/DJGlobalStoreManager.git
