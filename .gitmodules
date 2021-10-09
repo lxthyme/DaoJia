@@ -1,3 +1,6 @@
 [submodule "BLAPIManagers"]
 	path = BLAPIManagers
 	url = git@gitlab.bl.com:iOS_Foundation/BLAPIManagers.git
+[submodule "BLCouponCenterModule"]
+	path = BLCouponCenterModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCouponCenterModule.git
