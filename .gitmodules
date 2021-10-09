@@ -55,3 +55,6 @@
 [submodule "DJNewModuleHome"]
 	path = DJNewModuleHome
 	url = git@gitlab.bl.com:iOS_ViewComponents/DJNewModuleHome.git
+[submodule "DJOrderChooseDeliveryTimeView"]
+	path = DJOrderChooseDeliveryTimeView
+	url = git@gitlab.bl.com:iOS_Business/DJOrderChooseDeliveryTimeView.git
