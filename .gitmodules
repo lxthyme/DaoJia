@@ -52,3 +52,6 @@
 [submodule "DJNavigationView"]
 	path = DJNavigationView
 	url = git@gitlab.bl.com:DaoJia/DJNavigationView.git
+[submodule "DJNewModuleHome"]
+	path = DJNewModuleHome
+	url = git@gitlab.bl.com:iOS_ViewComponents/DJNewModuleHome.git
