@@ -22,3 +22,6 @@
 [submodule "BLOrder"]
 	path = BLOrder
 	url = git@gitlab.bl.com:iOS_Business/BLOrder.git
+[submodule "BLOrderConfirmBottomView"]
+	path = BLOrderConfirmBottomView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmBottomView.git
