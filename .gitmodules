@@ -40,3 +40,6 @@
 [submodule "DJAddressManageModule"]
 	path = DJAddressManageModule
 	url = git@gitlab.bl.com:iOS_Business/DJAddressManageModule.git
+[submodule "DJClassifyList"]
+	path = DJClassifyList
+	url = git@gitlab.bl.com:iOS_Business/DJClassifyList.git
