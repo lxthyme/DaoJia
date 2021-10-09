@@ -82,3 +82,6 @@
 [submodule "DJSearchHistoryManger"]
 	path = DJSearchHistoryManger
 	url = git@gitlab.bl.com:iOS_DataCenters/DJSearchHistoryManger.git
+[submodule "DJShoppingCartModule"]
+	path = DJShoppingCartModule
+	url = git@gitlab.bl.com:xuyunpeng/DJShoppingCartModule.git
