@@ -64,3 +64,6 @@
 [submodule "DJOrderListView"]
 	path = DJOrderListView
 	url = git@gitlab.bl.com:iOS_Business/DJOrderListView.git
+[submodule "DJPaySuccessful"]
+	path = DJPaySuccessful
+	url = git@gitlab.bl.com:iOS_Business/DJPaySuccessful.git
