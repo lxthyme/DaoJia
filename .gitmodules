@@ -4,3 +4,6 @@
 [submodule "BLCouponCenterModule"]
 	path = BLCouponCenterModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCouponCenterModule.git
+[submodule "BLCouponFloatingView"]
+	path = BLCouponFloatingView
+	url = git@gitlab.bl.com:iOS_Business/BLCouponFloatingView.git
