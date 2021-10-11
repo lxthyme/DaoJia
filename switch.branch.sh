@@ -44,7 +44,9 @@ DJNewModuleHome BLDaoJia DJHome DJiOSAppImages)
 
 # BYT-78838-集字浏览任务
 info_BYT_78838=(damon/BYT-78838-集字浏览任务
-BaiLian DJNewModuleHome BLDaoJia DJHome)
+BaiLian DJNewModuleHome BLDaoJia DJHome
+## dependency
+BLHomePageViewComponents BLAPIManagers)
 
 # info=(${info_ALL[@]})
 # info=(${info_NewModuleHome[@]})
