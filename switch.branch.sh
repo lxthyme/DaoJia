@@ -40,15 +40,15 @@ info_ALL=(
 
 # 新首页
 info_NewModuleHome=(damon_dev
-DJNewModuleHome BLDaoJia DJHome)
+DJNewModuleHome BLDaoJia DJHome DJiOSAppImages)
 
 # BYT-78838-集字浏览任务
 info_BYT_78838=(damon/BYT-78838-集字浏览任务
-DJNewModuleHome BLDaoJia DJHome)
+BaiLian DJNewModuleHome BLDaoJia DJHome)
 
 # info=(${info_ALL[@]})
-info=(${info_NewModuleHome[@]})
-# info=(${info_BYT_78838[@]})
+# info=(${info_NewModuleHome[@]})
+info=(${info_BYT_78838[@]})
 branch=${info[0]}
 Components=(${info[@]:1})
 echo -e "\033[37m ########## branch ${branch} \033[0m"
@@ -63,20 +63,20 @@ git checkout $branch
 git pull origin $branch
 done
 
-echo -e "\033[37m ########## $branch END ########## \033[0m\n"
+echo -e "\n\033[37m ########## $branch END ########## \033[0m\n"
 
 # echo -n "是否执行 pod install?(Y | y)"
 read -n1 -p "是否执行 pod install?(Y | y)" needInstall
 case $needInstall in
 (Y | y)
-  echo -e "\033[37m ########## pod install \033[0m"
+  echo -e "\n\033[37m ########## pod install \033[0m"
   cd $ProjectRoot/BaiLian
   pod install
   ;;
 (N | n)
-  echo "Skip to execute pod install!"
+  echo "\n\033[37mSkip to execute pod install!\033[0m\n"
   ;;
 (*)
-  echo "Error choice!"
+  echo -e "\n\033[37mError choice!\033[0m\n"
   ;;
 esac
