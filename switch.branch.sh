@@ -63,6 +63,7 @@ echo -e "\033[33m -->checkout $branch from $comp \033[0m"
 cd $ProjectRoot/$comp
 git checkout $branch
 git pull origin $branch
+git push origin $branch
 done
 
 echo -e "\n\033[37m ########## $branch END ########## \033[0m\n"
