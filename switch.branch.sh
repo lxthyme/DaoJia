@@ -50,47 +50,87 @@ DJNewModuleHome BLDaoJia DJHome
 )
 
 # info=(${info_ALL[@]})
-# info=(${info_NewModuleHome[@]})
-info=(${info_BYT_78838[@]})
+info=(${info_NewModuleHome[@]})
+# info=(${info_BYT_78838[@]})
 branch=${info[0]}
 devBranch=${info[1]}
 Components=(${info[@]:2})
-echo -e "\033[37m ########## branch: \033[43:37m$branch\033[0m devBranch: \033[43:37m$devBranch\033[0m \033[0m"
-echo -e "\033[37m ########## Components \033[43:37m[${#Components[@]}]\033[0m${Components[@]}\n \033[0m"
+
+read -n1 -p "是否将本地代码($branch)合并到开发分支 $devBranch?(Y | y)" needMergeToDevBranch
+case $needMergeToDevBranch in
+(Y | y)
+  echo -e "\n\033[37m$branch => $devBranch\033[0m"
+  ;;
+(*)
+  echo -e "\n\033[37mSkip to 更新本地代码!\033[0m"
+  ;;
+esac
+
+read -n1 -p "是否拉取开发分支($devBranch)代码?(Y | y)" needMergeToBranch
+case $needMergeToBranch in
+(Y | y)
+  echo -e "\n\033[37m$branch => $devBranch\033[0m"
+  ;;
+(*)
+  echo -e "\n\033[37mnSkip to 拉取开发分支($devBranch)代码!\033[0m"
+  ;;
+esac
+
+read -p "最后切换到分支?(default: $branch) " checkoutBranch
+checkoutBranch=${checkoutBranch:-$branch}
+echo -e "\n\033[37m最后切换到分支: $checkoutBranchy\033[0m"
+
+
+echo -e "\033[37m\n########## branch: \033[43:37m$branch\033[0m devBranch: \033[43:37m$devBranch\033[0m\033[0m"
+echo -e "\033[37m########## Components \033[43:37m[${#Components[@]}]\033[0m${Components[@]}\n\033[0m"
 
 for comp in ${Components[@]}
 do
-echo -e "\033[33m -->checkout  from $comp \033[0m"
+echo -e "\033[33m-->checkout  from $comp\033[0m"
 cd $ProjectRoot/$comp
 
 git checkout $branch
 git pull origin $branch
 git push origin $branch
 
-git checkout $devBranch
-git pull origin $devBranch
-git merge $branch
-git push origin $devBranch
+case $needMergeToDevBranch in
+(Y | y)
+  echo -e "\033[37m\n$branch => $devBranch\033[0m"
+  git checkout $devBranch
+  git pull origin $devBranch
+  git merge $branch
+  git push origin $devBranch
+  ;;
+(*)
+  ;;
+esac
 
-git checkout $branch
-git merge $devBranch
-git push origin $branch
-echo -e "\033[33m ########## $comp END ########## \033[0m\n"
+case $needMergeToBranch in
+(Y | y)
+  echo -e "\033[37m\n$devBranch <= $branch\033[0m"
+  git checkout $branch
+  git merge $devBranch
+  git push origin $branch
+  ;;
+(*)
+  ;;
+esac
+
+git checkout $checkoutBranch
+
+echo -e "\033[33m########## $comp END ##########\033[0m"
 done
 
-echo -e "\033[37m ########## Congratulations, All done!!! ########## \033[0m\n"
+echo -e "\033[37m\n########## Congratulations, All done!!!##########\n\033[0m"
 
 read -n1 -p "是否执行 pod install?(Y | y)" needInstall
 case $needInstall in
 (Y | y)
-  echo -e "\n\033[37m ########## pod install \033[0m"
+  echo -e "\n\033[37m########## pod install\033[0m"
   cd $ProjectRoot/BaiLian
   pod install
   ;;
-(N | n)
-  echo "\n\033[37mSkip to execute pod install!\033[0m\n"
-  ;;
 (*)
-  echo -e "\n\033[37mError choice!\033[0m\n"
+  echo -e "\n\033[37mSkip to execute pod install!\033[0m"
   ;;
 esac
