@@ -1,6 +1,9 @@
+#!/usr/local/bin/bash -e
 #!/bin/bash -e
 
 ProjectRoot='/Users/lxthyme/Desktop/Lucky/BL-gitlab/DaoJia'
+
+declare -A dependencyBranch
 
 # 更新 master 分支
 info_ALL=(
@@ -48,6 +51,10 @@ DJNewModuleHome BLDaoJia DJHome
 # dependency
 # BLHomePageViewComponents BLAPIManagers
 )
+dependencyBranch['BaiLian']='develop'
+dependencyBranch['BLHomePageViewComponents']='master'
+dependencyBranch['BLAPIManagers']='master'
+dependencyBranch['BLMapModule']='master'
 
 # info=(${info_ALL[@]})
 info=(${info_NewModuleHome[@]})
@@ -81,12 +88,12 @@ checkoutBranch=${checkoutBranch:-$branch}
 echo -e "\n\033[37m最后切换到分支: $checkoutBranchy\033[0m"
 
 
-echo -e "\033[37m\n########## branch: \033[43:37m$branch\033[0m devBranch: \033[43:37m$devBranch\033[0m\033[0m"
-echo -e "\033[37m########## Components \033[43:37m[${#Components[@]}]\033[0m${Components[@]}\n\033[0m"
+echo -e "\033[37m\n########## branch: \033[43:37m$branch\033[0m devBranch: \033[43:37m$devBranch\033[0m11\033[0m"
+echo -e "\033[37m########## Components \033[43:37m[${#Components[@]}]\033[0m${Components[@]}\033[0m"
 
 for comp in ${Components[@]}
 do
-echo -e "\033[33m-->checkout  from $comp\033[0m"
+echo -e "\n\033[33m-->checkout  from $comp\033[0m"
 cd $ProjectRoot/$comp
 
 git checkout $branch
@@ -95,7 +102,7 @@ git push origin $branch
 
 case $needMergeToDevBranch in
 (Y | y)
-  echo -e "\033[37m\n$branch => $devBranch\033[0m"
+  echo -e "\033[37m\n「${comp}」$branch => $devBranch\033[0m"
   git checkout $devBranch
   git pull origin $devBranch
   git merge $branch
@@ -107,7 +114,7 @@ esac
 
 case $needMergeToBranch in
 (Y | y)
-  echo -e "\033[37m\n$devBranch <= $branch\033[0m"
+  echo -e "\033[37m\n「${comp}」$branch => $devBranch\033[0m"
   git checkout $branch
   git merge $devBranch
   git push origin $branch
@@ -118,8 +125,24 @@ esac
 
 git checkout $checkoutBranch
 
-echo -e "\033[33m########## $comp END ##########\033[0m"
+echo -e "\033[37m\n「${comp}」Done!\033[0m"
+echo -e "\033[33mcheckout $comp Done!\033[0m"
+
 done
+
+n
+for comp in $(echo ${!dependencyBranch[*]})
+do
+  cbranch=${dependencyBranch[$comp]}
+  echo -e "\n\033[37m-->checkout dependency: $comp: $cbranch\033[0m"
+  cd $ProjectRoot/$comp
+  git remote set-branches origin '*'
+  git fetch
+  git checkout $cbranch
+
+  echo -e "\033[37mDone!\033[0m"
+done
+
 
 echo -e "\033[37m\n########## Congratulations, All done!!!##########\n\033[0m"
 
