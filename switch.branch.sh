@@ -1,14 +1,14 @@
 #!/usr/local/bin/bash -e
 #!/bin/bash -e
 
-# ProjectRoot='/Users/lxthyme/Desktop/Lucky/BL-gitlab/DaoJia'
-ProjectRoot='/Users/lxthyme/Desktop/Lucky/Work/BL/DaoJia'
+ProjectRoot='/Users/lxthyme/Desktop/Lucky/BL-gitlab/DaoJia'
+# ProjectRoot='/Users/lxthyme/Desktop/Lucky/Work/BL/DaoJia'
 
 declare -A dependencyBranch
 
 # 更新 master 分支
 info_ALL=(
-  master
+  master master
   BLAPIManagers
   BLCouponCenterModule
   BLCouponFloatingView
@@ -133,7 +133,7 @@ echo -e "\033[33mcheckout $comp Done!\033[0m"
 
 done
 
-n
+
 for comp in $(echo ${!dependencyBranch[*]})
 do
   cbranch=${dependencyBranch[$comp]}
