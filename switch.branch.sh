@@ -1,7 +1,8 @@
 #!/usr/local/bin/bash -e
 #!/bin/bash -e
 
-ProjectRoot='/Users/lxthyme/Desktop/Lucky/BL-gitlab/DaoJia'
+# ProjectRoot='/Users/lxthyme/Desktop/Lucky/BL-gitlab/DaoJia'
+ProjectRoot='/Users/lxthyme/Desktop/Lucky/Work/BL/DaoJia'
 
 declare -A dependencyBranch
 
@@ -95,6 +96,8 @@ for comp in ${Components[@]}
 do
 echo -e "\n\033[33m-->checkout  from $comp\033[0m"
 cd $ProjectRoot/$comp
+git remote set-branches origin '*'
+git fetch
 
 git checkout $branch
 git pull origin $branch
