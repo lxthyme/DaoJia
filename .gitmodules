@@ -85,9 +85,6 @@
 [submodule "DJShoppingCartModule"]
 	path = DJShoppingCartModule
 	url = git@gitlab.bl.com:xuyunpeng/DJShoppingCartModule.git
-[submodule "DJStoreList"]
-	path = DJStoreList
-	url = git@gitlab.bl.com:iOS_Business/DJStoreList.git
 [submodule "DJiOSAppImages"]
 	path = DJiOSAppImages
 	url = git@gitlab.bl.com:iOS_Business/DJiOSAppImages.git
