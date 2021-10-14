@@ -88,3 +88,6 @@
 [submodule "DJiOSAppImages"]
 	path = DJiOSAppImages
 	url = git@gitlab.bl.com:iOS_Business/DJiOSAppImages.git
+[submodule "DJStoreList"]
+	path = DJStoreList
+	url = git@gitlab.bl.com:iOS_Business/DJStoreList.git
