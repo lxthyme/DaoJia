@@ -44,7 +44,8 @@ info_ALL=(
 
 # 新首页
 info_NewModuleHome=(damon_dev master_1015
-DJNewModuleHome BLDaoJia DJHome BLCouponFloatingView DJiOSAppImages BLiOSAppImages)
+DJNewModuleHome BLDaoJia DJHome BLCouponFloatingView DJStoreList
+DJiOSAppImages BLiOSAppImages)
 
 # BYT-78838-集字浏览任务
 info_BYT_78838=(damon/BYT-78838-集字浏览任务 master_1015
