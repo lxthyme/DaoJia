@@ -43,7 +43,7 @@ info_ALL=(
 )
 
 # 新首页
-info_NewModuleHome=(damon_dev master
+info_NewModuleHome=(damon_dev master_1015
 DJNewModuleHome BLDaoJia DJHome BLCouponFloatingView DJStoreList BLRawAPIManager
 DJiOSAppImages BLiOSAppImages)
 
