@@ -1048,3 +1048,6 @@
 [submodule "iOS_Tools/RisoPopViewDismissAnimation"]
 	path = iOS_Tools/RisoPopViewDismissAnimation
 	url = git@gitlab.bl.com:iOS_Tools/RisoPopViewDismissAnimation
+[submodule "iOS_BusinessCategories/BLBusinessCategoryRealNameInfomation"]
+	path = iOS_BusinessCategories/BLBusinessCategoryRealNameInfomation
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryRealNameInfomation
