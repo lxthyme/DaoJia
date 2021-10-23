@@ -688,3 +688,6 @@
 [submodule "iOS_ViewComponents/BLSecurePasswordAlertView"]
 	path = iOS_ViewComponents/BLSecurePasswordAlertView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLSecurePasswordAlertView
+[submodule "iOS_BusinessCategories/BLBusinessCategorySensor"]
+	path = iOS_BusinessCategories/BLBusinessCategorySensor
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySensor
