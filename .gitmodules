@@ -1582,3 +1582,6 @@
 [submodule "iOS_BusinessCategories/BusinessCategoriesSeachResult"]
 	path = iOS_BusinessCategories/BusinessCategoriesSeachResult
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BusinessCategoriesSeachResult
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLFind"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLFind
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLFind
