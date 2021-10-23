@@ -1030,3 +1030,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryReceiveCoupon"]
 	path = iOS_BusinessCategories/BLBusinessCategoryReceiveCoupon
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryReceiveCoupon
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLUnicomFreeFlow"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLUnicomFreeFlow
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLUnicomFreeFlow
