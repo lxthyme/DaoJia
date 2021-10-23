@@ -772,3 +772,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryPanicBuyEveryDay"]
 	path = iOS_BusinessCategories/BLBusinessCategoryPanicBuyEveryDay
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPanicBuyEveryDay
+[submodule "iOS_ViewComponents/EGOBShareModule"]
+	path = iOS_ViewComponents/EGOBShareModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/EGOBShareModule
