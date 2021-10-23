@@ -1294,3 +1294,6 @@
 [submodule "iOS_ViewComponents/BLDateSelectorPickerView"]
 	path = iOS_ViewComponents/BLDateSelectorPickerView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLDateSelectorPickerView
+[submodule "iOS_ViewComponents/BLAutoScrollParallaxImageView"]
+	path = iOS_ViewComponents/BLAutoScrollParallaxImageView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLAutoScrollParallaxImageView
