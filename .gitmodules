@@ -1105,3 +1105,6 @@
 [submodule "iOS_ViewComponents/BLPageView"]
 	path = iOS_ViewComponents/BLPageView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLPageView
+[submodule "iOS_ViewComponents/BLOrderConfirmNormalActionSheet"]
+	path = iOS_ViewComponents/BLOrderConfirmNormalActionSheet
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmNormalActionSheet
