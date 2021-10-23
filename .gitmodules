@@ -742,3 +742,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryLinkedMe"]
 	path = iOS_BusinessCategories/BLBusinessCategoryLinkedMe
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryLinkedMe
+[submodule "iOS_BusinessCategories/BLBusinessCategoryComment"]
+	path = iOS_BusinessCategories/BLBusinessCategoryComment
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryComment
