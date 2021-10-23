@@ -757,3 +757,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLShare"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLShare
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLShare
+[submodule "iOS_ViewComponents/RisoGoodsDetailAttributePopView"]
+	path = iOS_ViewComponents/RisoGoodsDetailAttributePopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailAttributePopView
