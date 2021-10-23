@@ -121,3 +121,6 @@
 [submodule "iOS_Business/RisoShopCarViewController"]
 	path = iOS_Business/RisoShopCarViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoShopCarViewController
+[submodule "iOS_ViewComponents/BLHomePageViewComponents"]
+	path = iOS_ViewComponents/BLHomePageViewComponents
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageViewComponents
