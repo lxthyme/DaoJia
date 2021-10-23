@@ -1267,3 +1267,6 @@
 [submodule "iOS_Business/BLHomePageBoutiqueController"]
 	path = iOS_Business/BLHomePageBoutiqueController
 	url = git@gitlab.bl.com:iOS_Business/BLHomePageBoutiqueController
+[submodule "iOS_Business/BLHomePageMarketController"]
+	path = iOS_Business/BLHomePageMarketController
+	url = git@gitlab.bl.com:iOS_Business/BLHomePageMarketController
