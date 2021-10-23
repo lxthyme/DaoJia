@@ -1288,3 +1288,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryFootMark"]
 	path = iOS_BusinessCategories/BLBusinessCategoryFootMark
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryFootMark
+[submodule "iOS_Foundation/iOSCerts"]
+	path = iOS_Foundation/iOSCerts
+	url = git@gitlab.bl.com:iOS_Foundation/iOSCerts
