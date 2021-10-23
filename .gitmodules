@@ -709,3 +709,6 @@
 [submodule "iOS_Business/RisoSelfServiceOrderDetail"]
 	path = iOS_Business/RisoSelfServiceOrderDetail
 	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceOrderDetail
+[submodule "iOS_ViewComponents/RisoGoodsDetailAddShopCarSKUPopView"]
+	path = iOS_ViewComponents/RisoGoodsDetailAddShopCarSKUPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailAddShopCarSKUPopView
