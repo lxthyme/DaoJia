@@ -976,3 +976,6 @@
 [submodule "iOS_Modulization_Demo/XYPTest"]
 	path = iOS_Modulization_Demo/XYPTest
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/XYPTest
+[submodule "iOS_ViewComponents/RisoOrderDetailGoodsListCell"]
+	path = iOS_ViewComponents/RisoOrderDetailGoodsListCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailGoodsListCell
