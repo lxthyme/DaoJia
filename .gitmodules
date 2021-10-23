@@ -703,3 +703,6 @@
 [submodule "iOS_Business/RisoSensorTrack"]
 	path = iOS_Business/RisoSensorTrack
 	url = git@gitlab.bl.com:iOS_Business/RisoSensorTrack
+[submodule "iOS_ViewComponents/RisoSelfServiceGoodsDetailPopView"]
+	path = iOS_ViewComponents/RisoSelfServiceGoodsDetailPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceGoodsDetailPopView
