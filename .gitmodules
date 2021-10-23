@@ -1249,3 +1249,6 @@
 [submodule "iOS_Tools/BLLog"]
 	path = iOS_Tools/BLLog
 	url = git@gitlab.bl.com:iOS_Tools/BLLog
+[submodule "iOS_ViewComponents/BLOrderConfirmTableViewCells"]
+	path = iOS_ViewComponents/BLOrderConfirmTableViewCells
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmTableViewCells
