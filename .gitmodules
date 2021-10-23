@@ -349,3 +349,6 @@
 [submodule "iOS_ViewComponents/BLRefresh"]
 	path = iOS_ViewComponents/BLRefresh
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLRefresh
+[submodule "iOS_ViewComponents/BLPaySDKFramework"]
+	path = iOS_ViewComponents/BLPaySDKFramework
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPaySDKFramework
