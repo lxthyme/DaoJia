@@ -604,3 +604,6 @@
 [submodule "iOS_Business/BLUnicomFreeFlow"]
 	path = iOS_Business/BLUnicomFreeFlow
 	url = git@gitlab.bl.com:iOS_Business/BLUnicomFreeFlow
+[submodule "iOS_Business/BLCategoryViewControllerContainer"]
+	path = iOS_Business/BLCategoryViewControllerContainer
+	url = git@gitlab.bl.com:iOS_Business/BLCategoryViewControllerContainer
