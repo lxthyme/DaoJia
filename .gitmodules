@@ -1570,3 +1570,6 @@
 [submodule "iOS_Business/BLJenkinsBuild"]
 	path = iOS_Business/BLJenkinsBuild
 	url = git@gitlab.bl.com:iOS_Business/BLJenkinsBuild
+[submodule "iOS_BusinessCategories/BLBusinessCategoryInviteFriends"]
+	path = iOS_BusinessCategories/BLBusinessCategoryInviteFriends
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryInviteFriends
