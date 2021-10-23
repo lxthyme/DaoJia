@@ -1384,3 +1384,6 @@
 [submodule "iOS_Tools/BLCloudStoreCacheManager"]
 	path = iOS_Tools/BLCloudStoreCacheManager
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreCacheManager
+[submodule "iOS_Business/FZUIKit"]
+	path = iOS_Business/FZUIKit
+	url = git@gitlab.bl.com:iOS_Business/FZUIKit
