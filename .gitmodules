@@ -271,3 +271,6 @@
 [submodule "iOS_ViewComponents/IBLAddressSelectPickerView"]
 	path = iOS_ViewComponents/IBLAddressSelectPickerView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLAddressSelectPickerView
+[submodule "iOS_ViewComponents/RisoGoodsDetailBottomAddShopBasketView"]
+	path = iOS_ViewComponents/RisoGoodsDetailBottomAddShopBasketView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailBottomAddShopBasketView
