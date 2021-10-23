@@ -1006,3 +1006,6 @@
 [submodule "iOS_ViewComponents/RisoOrderDetailBottomButtonView"]
 	path = iOS_ViewComponents/RisoOrderDetailBottomButtonView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailBottomButtonView
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryScanBuyPaySuccess"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryScanBuyPaySuccess
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryScanBuyPaySuccess
