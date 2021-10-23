@@ -1186,3 +1186,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryInvoiceTitle"]
 	path = iOS_BusinessCategories/BLBusinessCategoryInvoiceTitle
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryInvoiceTitle
+[submodule "iOS_ViewComponents/RisoSearchButtonView"]
+	path = iOS_ViewComponents/RisoSearchButtonView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSearchButtonView
