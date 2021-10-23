@@ -1216,3 +1216,6 @@
 [submodule "iOS_Business/DJPersonalCenter"]
 	path = iOS_Business/DJPersonalCenter
 	url = git@gitlab.bl.com:iOS_Business/DJPersonalCenter
+[submodule "iOS_Modulization_Demo/TestOne"]
+	path = iOS_Modulization_Demo/TestOne
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/TestOne
