@@ -1651,3 +1651,6 @@
 [submodule "iOS_ViewComponents/BLSlideGoodsListCell"]
 	path = iOS_ViewComponents/BLSlideGoodsListCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLSlideGoodsListCell
+[submodule "iOS_Foundation/BLBaseAppContext"]
+	path = iOS_Foundation/BLBaseAppContext
+	url = git@gitlab.bl.com:iOS_Foundation/BLBaseAppContext
