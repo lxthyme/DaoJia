@@ -748,3 +748,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryCloudStore"]
 	path = iOS_BusinessCategories/BLBusinessCategoryCloudStore
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCloudStore
+[submodule "iOS_Business/BLBusinessCategoryShoppingCart"]
+	path = iOS_Business/BLBusinessCategoryShoppingCart
+	url = git@gitlab.bl.com:iOS_Business/BLBusinessCategoryShoppingCart
