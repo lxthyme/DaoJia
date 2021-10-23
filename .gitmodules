@@ -1351,3 +1351,6 @@
 [submodule "iOS_Foundation/IBLShareManager"]
 	path = iOS_Foundation/IBLShareManager
 	url = git@gitlab.bl.com:iOS_Foundation/IBLShareManager
+[submodule "iOS_Foundation/BLWeiBoSDK"]
+	path = iOS_Foundation/BLWeiBoSDK
+	url = git@gitlab.bl.com:iOS_Foundation/BLWeiBoSDK
