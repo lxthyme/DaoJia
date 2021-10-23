@@ -1192,3 +1192,6 @@
 [submodule "iOS_ViewComponents/RisoPostDataPinkerView"]
 	path = iOS_ViewComponents/RisoPostDataPinkerView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoPostDataPinkerView
+[submodule "iOS_ViewComponents/RisoOrderCancelOrderPopView"]
+	path = iOS_ViewComponents/RisoOrderCancelOrderPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderCancelOrderPopView
