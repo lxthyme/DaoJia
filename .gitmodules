@@ -235,3 +235,6 @@
 [submodule "iOS_Business/DJScanBarcodeOrderConfirm"]
 	path = iOS_Business/DJScanBarcodeOrderConfirm
 	url = git@gitlab.bl.com:iOS_Business/DJScanBarcodeOrderConfirm
+[submodule "iOS_Business/DJScanBarcodeView"]
+	path = iOS_Business/DJScanBarcodeView
+	url = git@gitlab.bl.com:iOS_Business/DJScanBarcodeView
