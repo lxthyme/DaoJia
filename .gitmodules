@@ -1393,3 +1393,6 @@
 [submodule "iOS/BLBuyer"]
 	path = iOS/BLBuyer
 	url = git@gitlab.bl.com:iOS/BLBuyer
+[submodule "iOS_BusinessCategories/BLBusinessCategoryFresh"]
+	path = iOS_BusinessCategories/BLBusinessCategoryFresh
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryFresh
