@@ -292,3 +292,6 @@
 [submodule "iOS_Business/BLOrderConfirmSelectStore"]
 	path = iOS_Business/BLOrderConfirmSelectStore
 	url = git@gitlab.bl.com:iOS_Business/BLOrderConfirmSelectStore
+[submodule "iOS/RisoCouponListViewController"]
+	path = iOS/RisoCouponListViewController
+	url = git@gitlab.bl.com:iOS/RisoCouponListViewController
