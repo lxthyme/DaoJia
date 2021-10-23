@@ -1327,3 +1327,6 @@
 [submodule "iOS_Business/BLCloudStoreWebBridge"]
 	path = iOS_Business/BLCloudStoreWebBridge
 	url = git@gitlab.bl.com:iOS_Business/BLCloudStoreWebBridge
+[submodule "iOS_Tools/BLSCloudStoreConfigCenter"]
+	path = iOS_Tools/BLSCloudStoreConfigCenter
+	url = git@gitlab.bl.com:iOS_Tools/BLSCloudStoreConfigCenter
