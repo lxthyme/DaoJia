@@ -1762,3 +1762,6 @@
 [submodule "iOS_Modulization_Demo/SxgPageA"]
 	path = iOS_Modulization_Demo/SxgPageA
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/SxgPageA
+[submodule "iOS_Modulization_Demo/SXGPageCategory"]
+	path = iOS_Modulization_Demo/SXGPageCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/SXGPageCategory
