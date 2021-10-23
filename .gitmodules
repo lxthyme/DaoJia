@@ -466,3 +466,6 @@
 [submodule "iOS_ViewComponents/BLHorseRaceLampPopView"]
 	path = iOS_ViewComponents/BLHorseRaceLampPopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHorseRaceLampPopView
+[submodule "iOS_Business/RisoLoginAndRegisterViewController"]
+	path = iOS_Business/RisoLoginAndRegisterViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoLoginAndRegisterViewController
