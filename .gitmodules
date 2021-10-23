@@ -658,3 +658,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryPaySuccess"]
 	path = iOS_BusinessCategories/BLBusinessCategoryPaySuccess
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPaySuccess
+[submodule "iOS_ViewComponents/RisoHuanGouModule"]
+	path = iOS_ViewComponents/RisoHuanGouModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoHuanGouModule
