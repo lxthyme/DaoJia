@@ -652,3 +652,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryPagemanager"]
 	path = iOS_BusinessCategories/BLBusinessCategoryPagemanager
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPagemanager
+[submodule "iOS_BusinessCategories/BLBusinessCategoryWebViewControllers"]
+	path = iOS_BusinessCategories/BLBusinessCategoryWebViewControllers
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryWebViewControllers
