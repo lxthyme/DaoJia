@@ -544,3 +544,6 @@
 [submodule "iOS_Business/RisoGoodsDetailViewController"]
 	path = iOS_Business/RisoGoodsDetailViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoGoodsDetailViewController
+[submodule "iOS_Business/BLMyReservationH5"]
+	path = iOS_Business/BLMyReservationH5
+	url = git@gitlab.bl.com:iOS_Business/BLMyReservationH5
