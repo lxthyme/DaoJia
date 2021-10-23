@@ -1474,3 +1474,6 @@
 [submodule "iOS_Business/BLLaunchTimeAdvertisePage"]
 	path = iOS_Business/BLLaunchTimeAdvertisePage
 	url = git@gitlab.bl.com:iOS_Business/BLLaunchTimeAdvertisePage
+[submodule "iOS_Business/DJProductGoodsDetailViewController"]
+	path = iOS_Business/DJProductGoodsDetailViewController
+	url = git@gitlab.bl.com:iOS_Business/DJProductGoodsDetailViewController
