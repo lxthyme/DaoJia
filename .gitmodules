@@ -1090,3 +1090,6 @@
 [submodule "iOS_ViewComponents/IBLBasketListCartCountView"]
 	path = iOS_ViewComponents/IBLBasketListCartCountView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLBasketListCartCountView
+[submodule "iOS_ViewComponents/BLZoomBannerCell"]
+	path = iOS_ViewComponents/BLZoomBannerCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLZoomBannerCell
