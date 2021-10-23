@@ -1210,3 +1210,6 @@
 [submodule "iOS_Foundation/BLZbar"]
 	path = iOS_Foundation/BLZbar
 	url = git@gitlab.bl.com:iOS_Foundation/BLZbar
+[submodule "iOS_Tools/BLCountDownTool"]
+	path = iOS_Tools/BLCountDownTool
+	url = git@gitlab.bl.com:iOS_Tools/BLCountDownTool
