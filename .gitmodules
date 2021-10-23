@@ -613,3 +613,6 @@
 [submodule "iOS_Business/BLMemberRecommendationInvitationDetailViewController"]
 	path = iOS_Business/BLMemberRecommendationInvitationDetailViewController
 	url = git@gitlab.bl.com:iOS_Business/BLMemberRecommendationInvitationDetailViewController
+[submodule "iOS_Business/BLInviteFriends"]
+	path = iOS_Business/BLInviteFriends
+	url = git@gitlab.bl.com:iOS_Business/BLInviteFriends
