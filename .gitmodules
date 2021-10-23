@@ -694,3 +694,6 @@
 [submodule "iOS_ViewComponents/BLNetworkOffTips"]
 	path = iOS_ViewComponents/BLNetworkOffTips
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLNetworkOffTips
+[submodule "iOS_Business/RisoScanBuyViewController"]
+	path = iOS_Business/RisoScanBuyViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoScanBuyViewController
