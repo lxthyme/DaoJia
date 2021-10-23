@@ -988,3 +988,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryGoodsDetail"]
 	path = iOS_BusinessCategories/BLBusinessCategoryGoodsDetail
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryGoodsDetail
+[submodule "iOS_Foundation/BLWebViewWebP"]
+	path = iOS_Foundation/BLWebViewWebP
+	url = git@gitlab.bl.com:iOS_Foundation/BLWebViewWebP
