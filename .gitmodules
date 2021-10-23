@@ -796,3 +796,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryCodePay"]
 	path = iOS_BusinessCategories/BLBusinessCategoryCodePay
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCodePay
+[submodule "iOS_BusinessCategories/EGOBusinessCategoryLogin"]
+	path = iOS_BusinessCategories/EGOBusinessCategoryLogin
+	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryLogin
