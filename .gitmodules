@@ -1336,3 +1336,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryGoodsSearchResultCategory"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryGoodsSearchResultCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryGoodsSearchResultCategory
+[submodule "iOS_Tools/BLDesOperate"]
+	path = iOS_Tools/BLDesOperate
+	url = git@gitlab.bl.com:iOS_Tools/BLDesOperate
