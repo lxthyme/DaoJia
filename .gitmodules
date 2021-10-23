@@ -388,3 +388,6 @@
 [submodule "iOS_Business/BLFootMark"]
 	path = iOS_Business/BLFootMark
 	url = git@gitlab.bl.com:iOS_Business/BLFootMark
+[submodule "iOS/BLEGO"]
+	path = iOS/BLEGO
+	url = git@gitlab.bl.com:iOS/BLEGO
