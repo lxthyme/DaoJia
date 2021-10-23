@@ -1480,3 +1480,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryProductGoodsDetail"]
 	path = iOS_BusinessCategories/BLBusinessCategoryProductGoodsDetail
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryProductGoodsDetail
+[submodule "iOS_Foundation/CTAppContext_Riso"]
+	path = iOS_Foundation/CTAppContext_Riso
+	url = git@gitlab.bl.com:iOS_Foundation/CTAppContext_Riso
