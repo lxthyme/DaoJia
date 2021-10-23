@@ -802,3 +802,6 @@
 [submodule "iOS_BusinessCategories/EGOBusinessCategoryAliMe"]
 	path = iOS_BusinessCategories/EGOBusinessCategoryAliMe
 	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryAliMe
+[submodule "iOS_BusinessCategories/EGOBusinessCategoryBClient"]
+	path = iOS_BusinessCategories/EGOBusinessCategoryBClient
+	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryBClient
