@@ -973,3 +973,6 @@
 [submodule "iOS_Modulization_Demo/XBtest"]
 	path = iOS_Modulization_Demo/XBtest
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/XBtest
+[submodule "iOS_Modulization_Demo/XYPTest"]
+	path = iOS_Modulization_Demo/XYPTest
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/XYPTest
