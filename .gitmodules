@@ -1138,3 +1138,6 @@
 [submodule "iOS_ViewComponents/BLFourHouseView"]
 	path = iOS_ViewComponents/BLFourHouseView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLFourHouseView
+[submodule "iOS_ViewComponents/BLFloorTitleView"]
+	path = iOS_ViewComponents/BLFloorTitleView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLFloorTitleView
