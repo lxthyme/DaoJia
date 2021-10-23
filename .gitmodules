@@ -1183,3 +1183,6 @@
 [submodule "iOS_Business/RisoSelfServiceCashierOrderConfirm"]
 	path = iOS_Business/RisoSelfServiceCashierOrderConfirm
 	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceCashierOrderConfirm
+[submodule "iOS_BusinessCategories/BLBusinessCategoryInvoiceTitle"]
+	path = iOS_BusinessCategories/BLBusinessCategoryInvoiceTitle
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryInvoiceTitle
