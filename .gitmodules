@@ -100,3 +100,6 @@
 [submodule "iOS_Business/BLCategory"]
 	path = iOS_Business/BLCategory
 	url = git@gitlab.bl.com:iOS_Business/BLCategory
+[submodule "iOS_Foundation/BLAdvertResourceJumpManager"]
+	path = iOS_Foundation/BLAdvertResourceJumpManager
+	url = git@gitlab.bl.com:iOS_Foundation/BLAdvertResourceJumpManager
