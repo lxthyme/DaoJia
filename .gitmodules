@@ -829,3 +829,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryTagGoodsList"]
 	path = iOS_BusinessCategories/BLBusinessCategoryTagGoodsList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryTagGoodsList
+[submodule "iOS_ViewComponents/RisoGoodsSearchResultCell"]
+	path = iOS_ViewComponents/RisoGoodsSearchResultCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsSearchResultCell
