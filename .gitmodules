@@ -730,3 +730,6 @@
 [submodule "iOS_Business/BLRisoTabbarViewController"]
 	path = iOS_Business/BLRisoTabbarViewController
 	url = git@gitlab.bl.com:iOS_Business/BLRisoTabbarViewController
+[submodule "iOS_ViewComponents/EGOQuoteImagesViewModule"]
+	path = iOS_ViewComponents/EGOQuoteImagesViewModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/EGOQuoteImagesViewModule
