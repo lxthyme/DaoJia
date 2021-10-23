@@ -631,3 +631,6 @@
 [submodule "iOS_Foundation/RisoAppContext"]
 	path = iOS_Foundation/RisoAppContext
 	url = git@gitlab.bl.com:iOS_Foundation/RisoAppContext
+[submodule "iOS_ViewComponents/RisoOrderConfirmScorePayCell"]
+	path = iOS_ViewComponents/RisoOrderConfirmScorePayCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderConfirmScorePayCell
