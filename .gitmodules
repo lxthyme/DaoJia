@@ -400,3 +400,6 @@
 [submodule "iOS_DataCenters/EGODataCenter"]
 	path = iOS_DataCenters/EGODataCenter
 	url = git@gitlab.bl.com:iOS_DataCenters/EGODataCenter
+[submodule "iOS_ViewComponents/CTWKWebView"]
+	path = iOS_ViewComponents/CTWKWebView
+	url = git@gitlab.bl.com:iOS_ViewComponents/CTWKWebView
