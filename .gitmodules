@@ -1402,3 +1402,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategorySupermarketCategory"]
 	path = iOS_BusinessCategories/RisoBusinessCategorySupermarketCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySupermarketCategory
+[submodule "iOS_ViewComponents/BLOrderConfirmRealNameActionSheet"]
+	path = iOS_ViewComponents/BLOrderConfirmRealNameActionSheet
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmRealNameActionSheet
