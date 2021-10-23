@@ -1429,3 +1429,6 @@
 [submodule "iOS_Tools/BLCloudStoreErrorManager"]
 	path = iOS_Tools/BLCloudStoreErrorManager
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreErrorManager
+[submodule "iOS_Tools/BLCloudStoreImageManager"]
+	path = iOS_Tools/BLCloudStoreImageManager
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreImageManager
