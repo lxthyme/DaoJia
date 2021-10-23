@@ -1015,3 +1015,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryScanBuyOrderConfirm"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryScanBuyOrderConfirm
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryScanBuyOrderConfirm
+[submodule "iOS_ViewComponents/RisoSelfServiceOrderGoodsAmountInfoCell"]
+	path = iOS_ViewComponents/RisoSelfServiceOrderGoodsAmountInfoCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderGoodsAmountInfoCell
