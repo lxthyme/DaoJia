@@ -679,3 +679,6 @@
 [submodule "iOS_Foundation/CRRouter"]
 	path = iOS_Foundation/CRRouter
 	url = git@gitlab.bl.com:iOS_Foundation/CRRouter
+[submodule "iOS_BusinessCategories/BLBusinessCategoryDJOrderConfirm"]
+	path = iOS_BusinessCategories/BLBusinessCategoryDJOrderConfirm
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJOrderConfirm
