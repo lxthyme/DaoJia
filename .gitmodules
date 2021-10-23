@@ -1789,3 +1789,6 @@
 [submodule "iOS_Modulization_Demo/CWBViewController"]
 	path = iOS_Modulization_Demo/CWBViewController
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/CWBViewController
+[submodule "iOS_Modulization_Demo/YearwenPageAViewController"]
+	path = iOS_Modulization_Demo/YearwenPageAViewController
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/YearwenPageAViewController
