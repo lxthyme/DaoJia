@@ -1156,3 +1156,6 @@
 [submodule "iOS_ViewComponents/BLCommentDetailCell"]
 	path = iOS_ViewComponents/BLCommentDetailCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCommentDetailCell
+[submodule "iOS_ViewComponents/BLSayToHimTableViewCell"]
+	path = iOS_ViewComponents/BLSayToHimTableViewCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLSayToHimTableViewCell
