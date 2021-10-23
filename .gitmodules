@@ -190,3 +190,6 @@
 [submodule "iOS_Business/BLBasket"]
 	path = iOS_Business/BLBasket
 	url = git@gitlab.bl.com:iOS_Business/BLBasket
+[submodule "iOS_Business/BLHotSale"]
+	path = iOS_Business/BLHotSale
+	url = git@gitlab.bl.com:iOS_Business/BLHotSale
