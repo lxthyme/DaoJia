@@ -916,3 +916,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLRedEnvelopeModule"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLRedEnvelopeModule
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLRedEnvelopeModule
+[submodule "iOS_ViewComponents/RisoSelfServiceOrderGoodsInfoCell"]
+	path = iOS_ViewComponents/RisoSelfServiceOrderGoodsInfoCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderGoodsInfoCell
