@@ -1282,3 +1282,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategorySeeLikePage"]
 	path = iOS_BusinessCategories/BLBusinessCategorySeeLikePage
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySeeLikePage
+[submodule "iOS_BusinessCategories/BLBusinessCategoryMobileTestClientComponent"]
+	path = iOS_BusinessCategories/BLBusinessCategoryMobileTestClientComponent
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMobileTestClientComponent
