@@ -640,3 +640,6 @@
 [submodule "iOS_BusinessCategories/BLNengBusinessCategory"]
 	path = iOS_BusinessCategories/BLNengBusinessCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLNengBusinessCategory
+[submodule "iOS_ViewComponents/RisoCouponPopView"]
+	path = iOS_ViewComponents/RisoCouponPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoCouponPopView
