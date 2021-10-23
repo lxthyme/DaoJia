@@ -1018,3 +1018,6 @@
 [submodule "iOS_ViewComponents/RisoSelfServiceOrderGoodsAmountInfoCell"]
 	path = iOS_ViewComponents/RisoSelfServiceOrderGoodsAmountInfoCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderGoodsAmountInfoCell
+[submodule "iOS_ViewComponents/BLOrderConfirmCountDownView"]
+	path = iOS_ViewComponents/BLOrderConfirmCountDownView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmCountDownView
