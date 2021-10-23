@@ -1738,3 +1738,6 @@
 [submodule "iOS_BusinessCategories/RisoHomePageCategory"]
 	path = iOS_BusinessCategories/RisoHomePageCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoHomePageCategory
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLPageJump"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLPageJump
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLPageJump
