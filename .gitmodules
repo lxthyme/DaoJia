@@ -1003,3 +1003,6 @@
 [submodule "iOS_ViewComponents/BLSecurePasswordView"]
 	path = iOS_ViewComponents/BLSecurePasswordView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLSecurePasswordView
+[submodule "iOS_ViewComponents/RisoOrderDetailBottomButtonView"]
+	path = iOS_ViewComponents/RisoOrderDetailBottomButtonView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailBottomButtonView
