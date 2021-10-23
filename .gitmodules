@@ -115,3 +115,6 @@
 [submodule "iOS_Business/BLCashier"]
 	path = iOS_Business/BLCashier
 	url = git@gitlab.bl.com:iOS_Business/BLCashier
+[submodule "iOS_Business/BLGuideModule"]
+	path = iOS_Business/BLGuideModule
+	url = git@gitlab.bl.com:iOS_Business/BLGuideModule
