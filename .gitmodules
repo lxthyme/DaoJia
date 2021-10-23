@@ -13,3 +13,6 @@
 [submodule "iOS_Business/DJOrderListView"]
 	path = iOS_Business/DJOrderListView
 	url = git@gitlab.bl.com:iOS_Business/DJOrderListView
+[submodule "iOS/BLRepositories"]
+	path = iOS/BLRepositories
+	url = git@gitlab.bl.com:iOS/BLRepositories
