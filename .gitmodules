@@ -787,3 +787,6 @@
 [submodule "iOS_Tools/JXPageListView"]
 	path = iOS_Tools/JXPageListView
 	url = git@gitlab.bl.com:iOS_Tools/JXPageListView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryAddress"]
+	path = iOS_BusinessCategories/BLBusinessCategoryAddress
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryAddress
