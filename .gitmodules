@@ -130,3 +130,6 @@
 [submodule "iOS_ViewComponents/BLPanicBuyViewComponents"]
 	path = iOS_ViewComponents/BLPanicBuyViewComponents
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLPanicBuyViewComponents
+[submodule "iOS_Business/BLPanicBuyEveryDay"]
+	path = iOS_Business/BLPanicBuyEveryDay
+	url = git@gitlab.bl.com:iOS_Business/BLPanicBuyEveryDay
