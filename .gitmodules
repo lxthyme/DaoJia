@@ -1198,3 +1198,6 @@
 [submodule "iOS_Business/RisoNewGoodsDetail"]
 	path = iOS_Business/RisoNewGoodsDetail
 	url = git@gitlab.bl.com:iOS_Business/RisoNewGoodsDetail
+[submodule "iOS_ViewComponents/RisoGoodsDetailEvaluateDetailCell"]
+	path = iOS_ViewComponents/RisoGoodsDetailEvaluateDetailCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailEvaluateDetailCell
