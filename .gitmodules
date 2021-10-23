@@ -433,3 +433,6 @@
 [submodule "iOS_Business/BLRealNameInformation"]
 	path = iOS_Business/BLRealNameInformation
 	url = git@gitlab.bl.com:iOS_Business/BLRealNameInformation
+[submodule "iOS_Tools/HandyFrame"]
+	path = iOS_Tools/HandyFrame
+	url = git@gitlab.bl.com:iOS_Tools/HandyFrame
