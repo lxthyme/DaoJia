@@ -682,3 +682,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryDJOrderConfirm"]
 	path = iOS_BusinessCategories/BLBusinessCategoryDJOrderConfirm
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJOrderConfirm
+[submodule "iOS_Business/RisoFlashSaleModule"]
+	path = iOS_Business/RisoFlashSaleModule
+	url = git@gitlab.bl.com:iOS_Business/RisoFlashSaleModule
