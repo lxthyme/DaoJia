@@ -1309,3 +1309,6 @@
 [submodule "iOS_ViewComponents/BLGoodsGoodsRecommendImageCell"]
 	path = iOS_ViewComponents/BLGoodsGoodsRecommendImageCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoodsGoodsRecommendImageCell
+[submodule "iOS_BusinessCategories/BLAboutMeCategory"]
+	path = iOS_BusinessCategories/BLAboutMeCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLAboutMeCategory
