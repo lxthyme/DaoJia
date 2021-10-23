@@ -1540,3 +1540,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryARModule"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryARModule
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryARModule
+[submodule "iOS_Modulization_Demo/BLLab_creatElement_test_demo"]
+	path = iOS_Modulization_Demo/BLLab_creatElement_test_demo
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLLab_creatElement_test_demo
