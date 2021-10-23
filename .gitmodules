@@ -574,3 +574,6 @@
 [submodule "iOS_Business/RisoSelfServiceGoodsList"]
 	path = iOS_Business/RisoSelfServiceGoodsList
 	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceGoodsList
+[submodule "iOS_Tools/TargetRisoAppInfo"]
+	path = iOS_Tools/TargetRisoAppInfo
+	url = git@gitlab.bl.com:iOS_Tools/TargetRisoAppInfo
