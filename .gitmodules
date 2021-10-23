@@ -1093,3 +1093,6 @@
 [submodule "iOS_ViewComponents/BLZoomBannerCell"]
 	path = iOS_ViewComponents/BLZoomBannerCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLZoomBannerCell
+[submodule "iOS_ViewComponents/BLSudokuMenuCell"]
+	path = iOS_ViewComponents/BLSudokuMenuCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLSudokuMenuCell
