@@ -289,3 +289,6 @@
 [submodule "iOS_Business/BLQRScannerMoudle"]
 	path = iOS_Business/BLQRScannerMoudle
 	url = git@gitlab.bl.com:iOS_Business/BLQRScannerMoudle
+[submodule "iOS_Business/BLOrderConfirmSelectStore"]
+	path = iOS_Business/BLOrderConfirmSelectStore
+	url = git@gitlab.bl.com:iOS_Business/BLOrderConfirmSelectStore
