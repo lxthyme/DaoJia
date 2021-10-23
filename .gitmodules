@@ -1783,3 +1783,6 @@
 [submodule "iOS_Modulization_Demo/SxgPagACateGory"]
 	path = iOS_Modulization_Demo/SxgPagACateGory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/SxgPagACateGory
+[submodule "iOS_Modulization_Demo/CWBViewControllerCategory"]
+	path = iOS_Modulization_Demo/CWBViewControllerCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/CWBViewControllerCategory
