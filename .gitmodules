@@ -634,3 +634,6 @@
 [submodule "iOS_ViewComponents/RisoOrderConfirmScorePayCell"]
 	path = iOS_ViewComponents/RisoOrderConfirmScorePayCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderConfirmScorePayCell
+[submodule "iOS/BLToolbox"]
+	path = iOS/BLToolbox
+	url = git@gitlab.bl.com:iOS/BLToolbox
