@@ -454,3 +454,6 @@
 [submodule "iOS_ViewComponents/BLDragView"]
 	path = iOS_ViewComponents/BLDragView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLDragView
+[submodule "iOS_Business/RisoDeliveryAddressListViewController"]
+	path = iOS_Business/RisoDeliveryAddressListViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoDeliveryAddressListViewController
