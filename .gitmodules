@@ -880,3 +880,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryVip"]
 	path = iOS_BusinessCategories/BLBusinessCategoryVip
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryVip
+[submodule "iOS_Tools/BLKeychainManager"]
+	path = iOS_Tools/BLKeychainManager
+	url = git@gitlab.bl.com:iOS_Tools/BLKeychainManager
