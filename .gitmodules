@@ -139,3 +139,6 @@
 [submodule "iOS_Foundation/RisoAPIManagers"]
 	path = iOS_Foundation/RisoAPIManagers
 	url = git@gitlab.bl.com:iOS_Foundation/RisoAPIManagers
+[submodule "iOS_ViewComponents/RisoAlertView"]
+	path = iOS_ViewComponents/RisoAlertView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoAlertView
