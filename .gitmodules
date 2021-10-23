@@ -1324,3 +1324,6 @@
 [submodule "iOS_Business/BLCloudStoreOANetworking"]
 	path = iOS_Business/BLCloudStoreOANetworking
 	url = git@gitlab.bl.com:iOS_Business/BLCloudStoreOANetworking
+[submodule "iOS_Business/BLCloudStoreWebBridge"]
+	path = iOS_Business/BLCloudStoreWebBridge
+	url = git@gitlab.bl.com:iOS_Business/BLCloudStoreWebBridge
