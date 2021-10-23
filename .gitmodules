@@ -1648,3 +1648,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessPageJumpCategory"]
 	path = iOS_BusinessCategories/BLBusinessPageJumpCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessPageJumpCategory
+[submodule "iOS_ViewComponents/BLSlideGoodsListCell"]
+	path = iOS_ViewComponents/BLSlideGoodsListCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLSlideGoodsListCell
