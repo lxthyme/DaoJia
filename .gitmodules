@@ -646,3 +646,6 @@
 [submodule "iOS_ViewComponents/BLTabbar"]
 	path = iOS_ViewComponents/BLTabbar
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLTabbar
+[submodule "iOS_BusinessCategories/BLProtocolManager"]
+	path = iOS_BusinessCategories/BLProtocolManager
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLProtocolManager
