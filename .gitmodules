@@ -865,3 +865,6 @@
 [submodule "iOS_Business/BLAboutMe"]
 	path = iOS_Business/BLAboutMe
 	url = git@gitlab.bl.com:iOS_Business/BLAboutMe
+[submodule "iOS_Foundation/BLVideoPlayer"]
+	path = iOS_Foundation/BLVideoPlayer
+	url = git@gitlab.bl.com:iOS_Foundation/BLVideoPlayer
