@@ -226,3 +226,6 @@
 [submodule "iOS_ViewComponents/RisoOrderDetailTransactionInfoCell"]
 	path = iOS_ViewComponents/RisoOrderDetailTransactionInfoCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailTransactionInfoCell
+[submodule "iOS_ViewComponents/BLGoStoreModule"]
+	path = iOS_ViewComponents/BLGoStoreModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoStoreModule
