@@ -1150,3 +1150,6 @@
 [submodule "iOS_ViewComponents/BLOrderConfirmCouponActionSheet"]
 	path = iOS_ViewComponents/BLOrderConfirmCouponActionSheet
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmCouponActionSheet
+[submodule "iOS_Tools/BLHomeBaseViewModel"]
+	path = iOS_Tools/BLHomeBaseViewModel
+	url = git@gitlab.bl.com:iOS_Tools/BLHomeBaseViewModel
