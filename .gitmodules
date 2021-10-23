@@ -1588,3 +1588,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryH5TestSuite"]
 	path = iOS_BusinessCategories/BLBusinessCategoryH5TestSuite
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryH5TestSuite
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryOrderList"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryOrderList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryOrderList
