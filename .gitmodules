@@ -1141,3 +1141,6 @@
 [submodule "iOS_ViewComponents/BLFloorTitleView"]
 	path = iOS_ViewComponents/BLFloorTitleView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLFloorTitleView
+[submodule "iOS_ViewComponents/BLCancelOrderView"]
+	path = iOS_ViewComponents/BLCancelOrderView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCancelOrderView
