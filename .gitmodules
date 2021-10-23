@@ -625,3 +625,6 @@
 [submodule "iOS_Business/BGStore"]
 	path = iOS_Business/BGStore
 	url = git@gitlab.bl.com:iOS_Business/BGStore
+[submodule "iOS_Business/RisoActivityWebViewController"]
+	path = iOS_Business/RisoActivityWebViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoActivityWebViewController
