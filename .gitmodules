@@ -1291,3 +1291,6 @@
 [submodule "iOS_Foundation/iOSCerts"]
 	path = iOS_Foundation/iOSCerts
 	url = git@gitlab.bl.com:iOS_Foundation/iOSCerts
+[submodule "iOS_ViewComponents/BLDateSelectorPickerView"]
+	path = iOS_ViewComponents/BLDateSelectorPickerView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLDateSelectorPickerView
