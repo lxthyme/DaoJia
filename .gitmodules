@@ -961,3 +961,6 @@
 [submodule "iOS_Modulization_Demo/TestCodeReview"]
 	path = iOS_Modulization_Demo/TestCodeReview
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/TestCodeReview
+[submodule "iOS_ViewComponents/RisoAutoScrollLabel"]
+	path = iOS_ViewComponents/RisoAutoScrollLabel
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoAutoScrollLabel
