@@ -391,3 +391,6 @@
 [submodule "iOS/BLEGO"]
 	path = iOS/BLEGO
 	url = git@gitlab.bl.com:iOS/BLEGO
+[submodule "iOS_ViewComponents/EGOHomeModule"]
+	path = iOS_ViewComponents/EGOHomeModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/EGOHomeModule
