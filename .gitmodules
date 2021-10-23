@@ -97,3 +97,6 @@
 [submodule "iOS_DataCenters/BLHomeDataSource"]
 	path = iOS_DataCenters/BLHomeDataSource
 	url = git@gitlab.bl.com:iOS_DataCenters/BLHomeDataSource
+[submodule "iOS_Business/BLCategory"]
+	path = iOS_Business/BLCategory
+	url = git@gitlab.bl.com:iOS_Business/BLCategory
