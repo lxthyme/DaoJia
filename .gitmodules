@@ -1543,3 +1543,6 @@
 [submodule "iOS_Modulization_Demo/BLLab_creatElement_test_demo"]
 	path = iOS_Modulization_Demo/BLLab_creatElement_test_demo
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLLab_creatElement_test_demo
+[submodule "iOS_Modulization_Demo/BLLab_creatElement_test_demoCategory"]
+	path = iOS_Modulization_Demo/BLLab_creatElement_test_demoCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLLab_creatElement_test_demoCategory
