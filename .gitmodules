@@ -907,3 +907,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryHomeControllers"]
 	path = iOS_BusinessCategories/BLBusinessCategoryHomeControllers
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryHomeControllers
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryProductList"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryProductList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryProductList
