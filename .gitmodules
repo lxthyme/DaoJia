@@ -46,3 +46,6 @@
 [submodule "cloudstore/04_BLPSDK_Core_iOS"]
 	path = cloudstore/04_BLPSDK_Core_iOS
 	url = git@gitlab.bl.com:cloudstore/04_BLPSDK_Core_iOS
+[submodule "iOS_Business/BLHome"]
+	path = iOS_Business/BLHome
+	url = git@gitlab.bl.com:iOS_Business/BLHome
