@@ -982,3 +982,6 @@
 [submodule "iOS_ViewComponents/RisoOrderDetailViewTitleHeaderView"]
 	path = iOS_ViewComponents/RisoOrderDetailViewTitleHeaderView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailViewTitleHeaderView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBasket"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBasket
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBasket
