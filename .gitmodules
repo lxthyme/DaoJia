@@ -1126,3 +1126,6 @@
 [submodule "iOS_ViewComponents/BLHomeExplosionTitleCell"]
 	path = iOS_ViewComponents/BLHomeExplosionTitleCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeExplosionTitleCell
+[submodule "iOS_ViewComponents/BLHomeExplosionStyleCell"]
+	path = iOS_ViewComponents/BLHomeExplosionStyleCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeExplosionStyleCell
