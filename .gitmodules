@@ -940,3 +940,6 @@
 [submodule "iOS/BLVoice"]
 	path = iOS/BLVoice
 	url = git@gitlab.bl.com:iOS/BLVoice
+[submodule "iOS_ViewComponents/RisoSelfServiceOrderConfirmBottomView"]
+	path = iOS_ViewComponents/RisoSelfServiceOrderConfirmBottomView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderConfirmBottomView
