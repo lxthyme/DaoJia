@@ -1060,3 +1060,6 @@
 [submodule "iOS_Tools/TargetBailianAppInfo"]
 	path = iOS_Tools/TargetBailianAppInfo
 	url = git@gitlab.bl.com:iOS_Tools/TargetBailianAppInfo
+[submodule "iOS_ViewComponents/RisoEmptyDataView"]
+	path = iOS_ViewComponents/RisoEmptyDataView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoEmptyDataView
