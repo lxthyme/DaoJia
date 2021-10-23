@@ -928,3 +928,6 @@
 [submodule "iOS_Business/RisoMealCategoryViewController"]
 	path = iOS_Business/RisoMealCategoryViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoMealCategoryViewController
+[submodule "iOS_BusinessCategories/BLBusinessCategoryMyReservation"]
+	path = iOS_BusinessCategories/BLBusinessCategoryMyReservation
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMyReservation
