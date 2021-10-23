@@ -1162,3 +1162,6 @@
 [submodule "iOS_ViewComponents/BLNoticeView"]
 	path = iOS_ViewComponents/BLNoticeView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLNoticeView
+[submodule "iOS_ViewComponents/BLOrderUnavailableGoodsPopView"]
+	path = iOS_ViewComponents/BLOrderUnavailableGoodsPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderUnavailableGoodsPopView
