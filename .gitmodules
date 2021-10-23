@@ -40,3 +40,6 @@
 [submodule "iOS_Tools/BLCategories"]
 	path = iOS_Tools/BLCategories
 	url = git@gitlab.bl.com:iOS_Tools/BLCategories
+[submodule "cloudstore/04_CloudStore_iOS_JsBridge"]
+	path = cloudstore/04_CloudStore_iOS_JsBridge
+	url = git@gitlab.bl.com:cloudstore/04_CloudStore_iOS_JsBridge
