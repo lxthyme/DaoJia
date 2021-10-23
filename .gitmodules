@@ -1312,3 +1312,6 @@
 [submodule "iOS_BusinessCategories/BLAboutMeCategory"]
 	path = iOS_BusinessCategories/BLAboutMeCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLAboutMeCategory
+[submodule "iOS_Foundation/BLBankABC"]
+	path = iOS_Foundation/BLBankABC
+	url = git@gitlab.bl.com:iOS_Foundation/BLBankABC
