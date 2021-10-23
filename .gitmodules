@@ -1513,3 +1513,6 @@
 [submodule "iOS_Business/ComponentTest"]
 	path = iOS_Business/ComponentTest
 	url = git@gitlab.bl.com:iOS_Business/ComponentTest
+[submodule "iOS_ViewComponents/BLVerificationView"]
+	path = iOS_ViewComponents/BLVerificationView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLVerificationView
