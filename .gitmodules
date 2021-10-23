@@ -814,3 +814,6 @@
 [submodule "iOS_ViewComponents/BLOrderConfirmTableViewHeaderFooterViews"]
 	path = iOS_ViewComponents/BLOrderConfirmTableViewHeaderFooterViews
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmTableViewHeaderFooterViews
+[submodule "iOS_ViewComponents/IBLBasketCartCountView"]
+	path = iOS_ViewComponents/IBLBasketCartCountView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLBasketCartCountView
