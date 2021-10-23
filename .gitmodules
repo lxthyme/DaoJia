@@ -25,3 +25,6 @@
 [submodule "iOS/BLRepositories_bin"]
 	path = iOS/BLRepositories_bin
 	url = git@gitlab.bl.com:iOS/BLRepositories_bin
+[submodule "cloudstore/04_CloudStore_iOS_IMSDK"]
+	path = cloudstore/04_CloudStore_iOS_IMSDK
+	url = git@gitlab.bl.com:cloudstore/04_CloudStore_iOS_IMSDK
