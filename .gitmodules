@@ -1321,3 +1321,6 @@
 [submodule "iOS_Business/BLHomePagePromotionController"]
 	path = iOS_Business/BLHomePagePromotionController
 	url = git@gitlab.bl.com:iOS_Business/BLHomePagePromotionController
+[submodule "iOS_Business/BLCloudStoreOANetworking"]
+	path = iOS_Business/BLCloudStoreOANetworking
+	url = git@gitlab.bl.com:iOS_Business/BLCloudStoreOANetworking
