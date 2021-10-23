@@ -1342,3 +1342,6 @@
 [submodule "iOS_Modulization_Demo/Atest"]
 	path = iOS_Modulization_Demo/Atest
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/Atest
+[submodule "iOS_Modulization_Demo/BL_AtestCategory"]
+	path = iOS_Modulization_Demo/BL_AtestCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BL_AtestCategory
