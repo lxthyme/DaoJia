@@ -310,3 +310,6 @@
 [submodule "iOS_Foundation/BLNetworking"]
 	path = iOS_Foundation/BLNetworking
 	url = git@gitlab.bl.com:iOS_Foundation/BLNetworking
+[submodule "iOS/RisoiOSAppImages"]
+	path = iOS/RisoiOSAppImages
+	url = git@gitlab.bl.com:iOS/RisoiOSAppImages
