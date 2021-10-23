@@ -1051,3 +1051,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryRealNameInfomation"]
 	path = iOS_BusinessCategories/BLBusinessCategoryRealNameInfomation
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryRealNameInfomation
+[submodule "iOS_BusinessCategories/BLBusinessCategoryHotSale"]
+	path = iOS_BusinessCategories/BLBusinessCategoryHotSale
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryHotSale
