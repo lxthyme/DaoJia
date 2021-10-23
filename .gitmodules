@@ -1786,3 +1786,6 @@
 [submodule "iOS_Modulization_Demo/CWBViewControllerCategory"]
 	path = iOS_Modulization_Demo/CWBViewControllerCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/CWBViewControllerCategory
+[submodule "iOS_Modulization_Demo/CWBViewController"]
+	path = iOS_Modulization_Demo/CWBViewController
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/CWBViewController
