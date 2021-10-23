@@ -136,3 +136,6 @@
 [submodule "iOS_Business/BLOrderInvoice"]
 	path = iOS_Business/BLOrderInvoice
 	url = git@gitlab.bl.com:iOS_Business/BLOrderInvoice
+[submodule "iOS_Foundation/RisoAPIManagers"]
+	path = iOS_Foundation/RisoAPIManagers
+	url = git@gitlab.bl.com:iOS_Foundation/RisoAPIManagers
