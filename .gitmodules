@@ -793,3 +793,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCMSWebViewControllerCategory"]
 	path = iOS_BusinessCategories/BLBusinessCMSWebViewControllerCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCMSWebViewControllerCategory
+[submodule "iOS_BusinessCategories/BLBusinessCategoryCodePay"]
+	path = iOS_BusinessCategories/BLBusinessCategoryCodePay
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCodePay
