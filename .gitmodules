@@ -1009,3 +1009,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryScanBuyPaySuccess"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryScanBuyPaySuccess
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryScanBuyPaySuccess
+[submodule "iOS_BusinessCategories/BLBusinessCategoryOrder"]
+	path = iOS_BusinessCategories/BLBusinessCategoryOrder
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryOrder
