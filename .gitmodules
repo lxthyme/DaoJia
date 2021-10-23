@@ -367,3 +367,6 @@
 [submodule "iOS_Business/BLBindRedCard"]
 	path = iOS_Business/BLBindRedCard
 	url = git@gitlab.bl.com:iOS_Business/BLBindRedCard
+[submodule "iOS_Business/BLLinkAccountSDK"]
+	path = iOS_Business/BLLinkAccountSDK
+	url = git@gitlab.bl.com:iOS_Business/BLLinkAccountSDK
