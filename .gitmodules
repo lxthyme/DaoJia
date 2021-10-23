@@ -1564,3 +1564,6 @@
 [submodule "iOS_Foundation/RisoShareSDK"]
 	path = iOS_Foundation/RisoShareSDK
 	url = git@gitlab.bl.com:iOS_Foundation/RisoShareSDK
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryAvtivityWebView"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryAvtivityWebView
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryAvtivityWebView
