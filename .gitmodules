@@ -1585,3 +1585,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLFind"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLFind
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLFind
+[submodule "iOS_BusinessCategories/BLBusinessCategoryH5TestSuite"]
+	path = iOS_BusinessCategories/BLBusinessCategoryH5TestSuite
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryH5TestSuite
