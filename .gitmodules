@@ -1171,3 +1171,6 @@
 [submodule "iOS_ViewComponents/BLHomePageNavigationBar"]
 	path = iOS_ViewComponents/BLHomePageNavigationBar
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageNavigationBar
+[submodule "iOS_Business/RisoMealListViewController"]
+	path = iOS_Business/RisoMealListViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoMealListViewController
