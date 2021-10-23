@@ -1528,3 +1528,6 @@
 [submodule "iOS_ViewComponents/VerticalAlignmentLabel"]
 	path = iOS_ViewComponents/VerticalAlignmentLabel
 	url = git@gitlab.bl.com:iOS_ViewComponents/VerticalAlignmentLabel
+[submodule "iOS_Business/BLSearchResultView"]
+	path = iOS_Business/BLSearchResultView
+	url = git@gitlab.bl.com:iOS_Business/BLSearchResultView
