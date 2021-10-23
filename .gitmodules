@@ -592,3 +592,6 @@
 [submodule "iOS_Business/BLFindClassPage"]
 	path = iOS_Business/BLFindClassPage
 	url = git@gitlab.bl.com:iOS_Business/BLFindClassPage
+[submodule "iOS_Business/BLNengServiceBusiness"]
+	path = iOS_Business/BLNengServiceBusiness
+	url = git@gitlab.bl.com:iOS_Business/BLNengServiceBusiness
