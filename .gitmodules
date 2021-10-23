@@ -403,3 +403,6 @@
 [submodule "iOS_ViewComponents/CTWKWebView"]
 	path = iOS_ViewComponents/CTWKWebView
 	url = git@gitlab.bl.com:iOS_ViewComponents/CTWKWebView
+[submodule "iOS_DataCenters/BLBasketDataCenter"]
+	path = iOS_DataCenters/BLBasketDataCenter
+	url = git@gitlab.bl.com:iOS_DataCenters/BLBasketDataCenter
