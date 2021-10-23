@@ -178,3 +178,6 @@
 [submodule "iOS_ViewComponents/BLCouponCenterModule"]
 	path = iOS_ViewComponents/BLCouponCenterModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCouponCenterModule
+[submodule "iOS_Business/RisoOrderConfirmViewController"]
+	path = iOS_Business/RisoOrderConfirmViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoOrderConfirmViewController
