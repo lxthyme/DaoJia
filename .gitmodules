@@ -298,3 +298,6 @@
 [submodule "iOS_Foundation/BLDataCenterModule"]
 	path = iOS_Foundation/BLDataCenterModule
 	url = git@gitlab.bl.com:iOS_Foundation/BLDataCenterModule
+[submodule "iOS_Business/BLLoginRegister"]
+	path = iOS_Business/BLLoginRegister
+	url = git@gitlab.bl.com:iOS_Business/BLLoginRegister
