@@ -1603,3 +1603,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessProfileCategory"]
 	path = iOS_BusinessCategories/BLBusinessProfileCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessProfileCategory
+[submodule "iOS_Tools/BLRedCardCrypto"]
+	path = iOS_Tools/BLRedCardCrypto
+	url = git@gitlab.bl.com:iOS_Tools/BLRedCardCrypto
