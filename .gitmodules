@@ -373,3 +373,6 @@
 [submodule "iOS_ViewComponents/IBLProgressHud"]
 	path = iOS_ViewComponents/IBLProgressHud
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLProgressHud
+[submodule "iOS_Business/DJHomeDataSource"]
+	path = iOS_Business/DJHomeDataSource
+	url = git@gitlab.bl.com:iOS_Business/DJHomeDataSource
