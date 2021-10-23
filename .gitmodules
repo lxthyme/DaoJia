@@ -994,3 +994,6 @@
 [submodule "iOS_Business/DJGoodsStatusAlertView"]
 	path = iOS_Business/DJGoodsStatusAlertView
 	url = git@gitlab.bl.com:iOS_Business/DJGoodsStatusAlertView
+[submodule "iOS_ViewComponents/BLCollectionViewHeaderLayout"]
+	path = iOS_ViewComponents/BLCollectionViewHeaderLayout
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCollectionViewHeaderLayout
