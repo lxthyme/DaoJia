@@ -832,3 +832,6 @@
 [submodule "iOS_ViewComponents/RisoGoodsSearchResultCell"]
 	path = iOS_ViewComponents/RisoGoodsSearchResultCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsSearchResultCell
+[submodule "iOS_Foundation/RisoShareRedEnvelopeModule"]
+	path = iOS_Foundation/RisoShareRedEnvelopeModule
+	url = git@gitlab.bl.com:iOS_Foundation/RisoShareRedEnvelopeModule
