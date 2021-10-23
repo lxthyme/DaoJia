@@ -1801,3 +1801,6 @@
 [submodule "iOS_Modulization_Demo/MainProject"]
 	path = iOS_Modulization_Demo/MainProject
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/MainProject
+[submodule "iOS_Modulization_Demo/CasaPageAViewControllerCategory"]
+	path = iOS_Modulization_Demo/CasaPageAViewControllerCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/CasaPageAViewControllerCategory
