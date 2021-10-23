@@ -871,3 +871,6 @@
 [submodule "iOS_Tools/BLQRCodeScannerView"]
 	path = iOS_Tools/BLQRCodeScannerView
 	url = git@gitlab.bl.com:iOS_Tools/BLQRCodeScannerView
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryGoodsDetailCategory"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryGoodsDetailCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryGoodsDetailCategory
