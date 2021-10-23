@@ -58,3 +58,6 @@
 [submodule "iOS_Tools/BLImage"]
 	path = iOS_Tools/BLImage
 	url = git@gitlab.bl.com:iOS_Tools/BLImage
+[submodule "iOS_Business/RisoNewHomeView"]
+	path = iOS_Business/RisoNewHomeView
+	url = git@gitlab.bl.com:iOS_Business/RisoNewHomeView
