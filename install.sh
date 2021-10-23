@@ -1,6 +1,7 @@
 #!/bin/bash -e
 
-source /Users/lxthyme/Desktop/Lucky/.config/Anything/Bash/alias.git.config
+source /Users/lxthyme/Desktop/Lucky/.config/Anything-Backup/Bash/alias.git.confi
+# source /Users/lxthyme/Desktop/Lucky/.config/Anything/Bash/alias.git.config
 
 echo "-->iOS/BaiLian:"
 gsubmodule_add git@gitlab.bl.com:iOS/BaiLian iOS/BaiLian
