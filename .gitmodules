@@ -661,3 +661,6 @@
 [submodule "iOS_ViewComponents/RisoHuanGouModule"]
 	path = iOS_ViewComponents/RisoHuanGouModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoHuanGouModule
+[submodule "iOS_Business/FlashSale"]
+	path = iOS_Business/FlashSale
+	url = git@gitlab.bl.com:iOS_Business/FlashSale
