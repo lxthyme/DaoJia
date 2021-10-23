@@ -565,3 +565,6 @@
 [submodule "iOS_ViewComponents/EGOLauchModule"]
 	path = iOS_ViewComponents/EGOLauchModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOLauchModule
+[submodule "iOS_BusinessCategories/BLBusinessCategoryDaoJia"]
+	path = iOS_BusinessCategories/BLBusinessCategoryDaoJia
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDaoJia
