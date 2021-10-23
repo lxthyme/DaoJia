@@ -556,3 +556,6 @@
 [submodule "iOS_Business/RisoQRScanViewController"]
 	path = iOS_Business/RisoQRScanViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoQRScanViewController
+[submodule "iOS_ViewComponents/BLActionSheetView"]
+	path = iOS_ViewComponents/BLActionSheetView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLActionSheetView
