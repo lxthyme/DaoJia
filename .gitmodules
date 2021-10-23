@@ -457,3 +457,6 @@
 [submodule "iOS_Business/RisoDeliveryAddressListViewController"]
 	path = iOS_Business/RisoDeliveryAddressListViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoDeliveryAddressListViewController
+[submodule "iOS_ViewComponents/RisoOrderConfirmECPPayCell"]
+	path = iOS_ViewComponents/RisoOrderConfirmECPPayCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderConfirmECPPayCell
