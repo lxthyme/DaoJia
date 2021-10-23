@@ -649,3 +649,6 @@
 [submodule "iOS_BusinessCategories/BLProtocolManager"]
 	path = iOS_BusinessCategories/BLProtocolManager
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLProtocolManager
+[submodule "iOS_BusinessCategories/BLBusinessCategoryPagemanager"]
+	path = iOS_BusinessCategories/BLBusinessCategoryPagemanager
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPagemanager
