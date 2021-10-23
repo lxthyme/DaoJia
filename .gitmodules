@@ -487,3 +487,6 @@
 [submodule "iOS_Foundation/EGOLocationModule"]
 	path = iOS_Foundation/EGOLocationModule
 	url = git@gitlab.bl.com:iOS_Foundation/EGOLocationModule
+[submodule "iOS_Business/BLEGOLoginAndRegisterViewController"]
+	path = iOS_Business/BLEGOLoginAndRegisterViewController
+	url = git@gitlab.bl.com:iOS_Business/BLEGOLoginAndRegisterViewController
