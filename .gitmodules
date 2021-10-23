@@ -997,3 +997,6 @@
 [submodule "iOS_ViewComponents/BLCollectionViewHeaderLayout"]
 	path = iOS_ViewComponents/BLCollectionViewHeaderLayout
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCollectionViewHeaderLayout
+[submodule "iOS_BusinessCategories/BLBusinessCategoryViewDownloadsInvoice"]
+	path = iOS_BusinessCategories/BLBusinessCategoryViewDownloadsInvoice
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryViewDownloadsInvoice
