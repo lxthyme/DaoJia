@@ -736,3 +736,6 @@
 [submodule "iOS_Business/EGOAliMeWebView"]
 	path = iOS_Business/EGOAliMeWebView
 	url = git@gitlab.bl.com:iOS_Business/EGOAliMeWebView
+[submodule "iOS_Foundation/EGOAppContext"]
+	path = iOS_Foundation/EGOAppContext
+	url = git@gitlab.bl.com:iOS_Foundation/EGOAppContext
