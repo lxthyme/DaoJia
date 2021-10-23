@@ -1759,3 +1759,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryCart"]
 	path = iOS_BusinessCategories/BLBusinessCategoryCart
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCart
+[submodule "iOS_Modulization_Demo/SxgPageA"]
+	path = iOS_Modulization_Demo/SxgPageA
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/SxgPageA
