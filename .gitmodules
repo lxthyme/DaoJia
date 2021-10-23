@@ -835,3 +835,6 @@
 [submodule "iOS_Foundation/RisoShareRedEnvelopeModule"]
 	path = iOS_Foundation/RisoShareRedEnvelopeModule
 	url = git@gitlab.bl.com:iOS_Foundation/RisoShareRedEnvelopeModule
+[submodule "iOS_Foundation/BLMediator"]
+	path = iOS_Foundation/BLMediator
+	url = git@gitlab.bl.com:iOS_Foundation/BLMediator
