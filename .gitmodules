@@ -1780,3 +1780,6 @@
 [submodule "iOS_Modulization_Demo/MJPageAViewControllerCategory"]
 	path = iOS_Modulization_Demo/MJPageAViewControllerCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/MJPageAViewControllerCategory
+[submodule "iOS_Modulization_Demo/SxgPagACateGory"]
+	path = iOS_Modulization_Demo/SxgPagACateGory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/SxgPagACateGory
