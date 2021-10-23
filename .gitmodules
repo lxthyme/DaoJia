@@ -1609,3 +1609,6 @@
 [submodule "iOS_Foundation/BLAliPay"]
 	path = iOS_Foundation/BLAliPay
 	url = git@gitlab.bl.com:iOS_Foundation/BLAliPay
+[submodule "iOS_ViewComponents/QRCodeGenerator"]
+	path = iOS_ViewComponents/QRCodeGenerator
+	url = git@gitlab.bl.com:iOS_ViewComponents/QRCodeGenerator
