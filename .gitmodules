@@ -397,3 +397,6 @@
 [submodule "iOS_ViewComponents/EGOPinDanModule"]
 	path = iOS_ViewComponents/EGOPinDanModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOPinDanModule
+[submodule "iOS_DataCenters/EGODataCenter"]
+	path = iOS_DataCenters/EGODataCenter
+	url = git@gitlab.bl.com:iOS_DataCenters/EGODataCenter
