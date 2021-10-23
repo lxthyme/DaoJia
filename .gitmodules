@@ -781,3 +781,6 @@
 [submodule "iOS_Tools/BLLoginPageForDemo"]
 	path = iOS_Tools/BLLoginPageForDemo
 	url = git@gitlab.bl.com:iOS_Tools/BLLoginPageForDemo
+[submodule "iOS_ViewComponents/BLEmptyModule"]
+	path = iOS_ViewComponents/BLEmptyModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLEmptyModule
