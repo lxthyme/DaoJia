@@ -313,3 +313,6 @@
 [submodule "iOS/RisoiOSAppImages"]
 	path = iOS/RisoiOSAppImages
 	url = git@gitlab.bl.com:iOS/RisoiOSAppImages
+[submodule "iOS_DataCenters/DJGlobalStoreManager"]
+	path = iOS_DataCenters/DJGlobalStoreManager
+	url = git@gitlab.bl.com:iOS_DataCenters/DJGlobalStoreManager
