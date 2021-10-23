@@ -1627,3 +1627,6 @@
 [submodule "iOS_Modulization_Demo/BL_CtestCatgary"]
 	path = iOS_Modulization_Demo/BL_CtestCatgary
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/BL_CtestCatgary
+[submodule "iOS_Modulization_Demo/BL_Atest"]
+	path = iOS_Modulization_Demo/BL_Atest
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BL_Atest
