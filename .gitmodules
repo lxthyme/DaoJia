@@ -1711,3 +1711,6 @@
 [submodule "iOS_Tools/BLWebSocketsServer"]
 	path = iOS_Tools/BLWebSocketsServer
 	url = git@gitlab.bl.com:iOS_Tools/BLWebSocketsServer
+[submodule "iOS_BusinessCategories/BLBusinessCategoryPages"]
+	path = iOS_BusinessCategories/BLBusinessCategoryPages
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPages
