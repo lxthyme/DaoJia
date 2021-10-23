@@ -1132,3 +1132,6 @@
 [submodule "iOS_ViewComponents/BLHomeCouponAdvertImageCell"]
 	path = iOS_ViewComponents/BLHomeCouponAdvertImageCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeCouponAdvertImageCell
+[submodule "iOS_ViewComponents/BLGoodGoodsRecommendCell"]
+	path = iOS_ViewComponents/BLGoodGoodsRecommendCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoodGoodsRecommendCell
