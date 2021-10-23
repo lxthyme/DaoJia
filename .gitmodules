@@ -784,3 +784,6 @@
 [submodule "iOS_ViewComponents/BLEmptyModule"]
 	path = iOS_ViewComponents/BLEmptyModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLEmptyModule
+[submodule "iOS_Tools/JXPageListView"]
+	path = iOS_Tools/JXPageListView
+	url = git@gitlab.bl.com:iOS_Tools/JXPageListView
