@@ -1066,3 +1066,6 @@
 [submodule "iOS_Business/BLHomePage"]
 	path = iOS_Business/BLHomePage
 	url = git@gitlab.bl.com:iOS_Business/BLHomePage
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryPurposeOfActivity"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryPurposeOfActivity
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryPurposeOfActivity
