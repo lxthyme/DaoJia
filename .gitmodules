@@ -1258,3 +1258,6 @@
 [submodule "iOS_ViewComponents/IBLTitleScrollView"]
 	path = iOS_ViewComponents/IBLTitleScrollView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLTitleScrollView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryGlobalBuy"]
+	path = iOS_BusinessCategories/BLBusinessCategoryGlobalBuy
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryGlobalBuy
