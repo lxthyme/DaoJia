@@ -1045,3 +1045,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategorySecondKill"]
 	path = iOS_BusinessCategories/BLBusinessCategorySecondKill
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySecondKill
+[submodule "iOS_Tools/RisoPopViewDismissAnimation"]
+	path = iOS_Tools/RisoPopViewDismissAnimation
+	url = git@gitlab.bl.com:iOS_Tools/RisoPopViewDismissAnimation
