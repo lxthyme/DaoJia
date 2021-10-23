@@ -943,3 +943,6 @@
 [submodule "iOS_ViewComponents/RisoSelfServiceOrderConfirmBottomView"]
 	path = iOS_ViewComponents/RisoSelfServiceOrderConfirmBottomView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderConfirmBottomView
+[submodule "iOS_BusinessCategories/BLBusinessCategorySelectAddress"]
+	path = iOS_BusinessCategories/BLBusinessCategorySelectAddress
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySelectAddress
