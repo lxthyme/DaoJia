@@ -979,3 +979,6 @@
 [submodule "iOS_ViewComponents/RisoOrderDetailGoodsListCell"]
 	path = iOS_ViewComponents/RisoOrderDetailGoodsListCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailGoodsListCell
+[submodule "iOS_ViewComponents/RisoOrderDetailViewTitleHeaderView"]
+	path = iOS_ViewComponents/RisoOrderDetailViewTitleHeaderView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailViewTitleHeaderView
