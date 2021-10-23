@@ -1633,3 +1633,6 @@
 [submodule "iOS_Foundation/PocketSocket"]
 	path = iOS_Foundation/PocketSocket
 	url = git@gitlab.bl.com:iOS_Foundation/PocketSocket
+[submodule "iOS_Foundation/CTAPIManagerSearchViewController"]
+	path = iOS_Foundation/CTAPIManagerSearchViewController
+	url = git@gitlab.bl.com:iOS_Foundation/CTAPIManagerSearchViewController
