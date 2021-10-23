@@ -1345,3 +1345,6 @@
 [submodule "iOS_Modulization_Demo/BL_AtestCategory"]
 	path = iOS_Modulization_Demo/BL_AtestCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/BL_AtestCategory
+[submodule "iOS_ViewComponents/M13BadgeView"]
+	path = iOS_ViewComponents/M13BadgeView
+	url = git@gitlab.bl.com:iOS_ViewComponents/M13BadgeView
