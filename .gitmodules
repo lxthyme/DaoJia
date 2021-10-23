@@ -412,3 +412,6 @@
 [submodule "iOS_Business/DJOrderChooseDeliveryTimeView"]
 	path = iOS_Business/DJOrderChooseDeliveryTimeView
 	url = git@gitlab.bl.com:iOS_Business/DJOrderChooseDeliveryTimeView
+[submodule "iOS_Business/BLAddressCRUD"]
+	path = iOS_Business/BLAddressCRUD
+	url = git@gitlab.bl.com:iOS_Business/BLAddressCRUD
