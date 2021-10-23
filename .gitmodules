@@ -1231,3 +1231,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderPaySuccess"]
 	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderPaySuccess
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderPaySuccess
+[submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderConfirm"]
+	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderConfirm
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderConfirm
