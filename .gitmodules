@@ -91,3 +91,6 @@
 [submodule "iOS_Business/BLMemberSDK"]
 	path = iOS_Business/BLMemberSDK
 	url = git@gitlab.bl.com:iOS_Business/BLMemberSDK
+[submodule "iOS_Foundation/BLAPIManagers"]
+	path = iOS_Foundation/BLAPIManagers
+	url = git@gitlab.bl.com:iOS_Foundation/BLAPIManagers
