@@ -43,3 +43,6 @@
 [submodule "cloudstore/04_CloudStore_iOS_JsBridge"]
 	path = cloudstore/04_CloudStore_iOS_JsBridge
 	url = git@gitlab.bl.com:cloudstore/04_CloudStore_iOS_JsBridge
+[submodule "cloudstore/04_BLPSDK_Core_iOS"]
+	path = cloudstore/04_BLPSDK_Core_iOS
+	url = git@gitlab.bl.com:cloudstore/04_BLPSDK_Core_iOS
