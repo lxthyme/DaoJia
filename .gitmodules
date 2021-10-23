@@ -1501,3 +1501,6 @@
 [submodule "iOS_Tools/PPGetAddressBook"]
 	path = iOS_Tools/PPGetAddressBook
 	url = git@gitlab.bl.com:iOS_Tools/PPGetAddressBook
+[submodule "iOS_BusinessCategories/BLBusinessCategoryMessage"]
+	path = iOS_BusinessCategories/BLBusinessCategoryMessage
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMessage
