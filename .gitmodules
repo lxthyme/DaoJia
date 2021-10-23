@@ -991,3 +991,6 @@
 [submodule "iOS_Foundation/BLWebViewWebP"]
 	path = iOS_Foundation/BLWebViewWebP
 	url = git@gitlab.bl.com:iOS_Foundation/BLWebViewWebP
+[submodule "iOS_Business/DJGoodsStatusAlertView"]
+	path = iOS_Business/DJGoodsStatusAlertView
+	url = git@gitlab.bl.com:iOS_Business/DJGoodsStatusAlertView
