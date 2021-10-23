@@ -64,3 +64,6 @@
 [submodule "iOS/BLRiso"]
 	path = iOS/BLRiso
 	url = git@gitlab.bl.com:iOS/BLRiso
+[submodule "iOS/BLiOSAppImages"]
+	path = iOS/BLiOSAppImages
+	url = git@gitlab.bl.com:iOS/BLiOSAppImages
