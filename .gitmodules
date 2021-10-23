@@ -19,3 +19,6 @@
 [submodule "iOS_Business/BLGoodsDetail"]
 	path = iOS_Business/BLGoodsDetail
 	url = git@gitlab.bl.com:iOS_Business/BLGoodsDetail
+[submodule "iOS_Business/BLCloudStore"]
+	path = iOS_Business/BLCloudStore
+	url = git@gitlab.bl.com:iOS_Business/BLCloudStore
