@@ -910,3 +910,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryProductList"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryProductList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryProductList
+[submodule "iOS_Tools/UICollectionViewLeftAlignedLayout"]
+	path = iOS_Tools/UICollectionViewLeftAlignedLayout
+	url = git@gitlab.bl.com:iOS_Tools/UICollectionViewLeftAlignedLayout
