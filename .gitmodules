@@ -532,3 +532,6 @@
 [submodule "iOS_Business/BLSelectAddressViewController"]
 	path = iOS_Business/BLSelectAddressViewController
 	url = git@gitlab.bl.com:iOS_Business/BLSelectAddressViewController
+[submodule "iOS_Business/RisoSelfServiceOrderPaySuccess"]
+	path = iOS_Business/RisoSelfServiceOrderPaySuccess
+	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceOrderPaySuccess
