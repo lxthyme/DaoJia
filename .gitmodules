@@ -628,3 +628,6 @@
 [submodule "iOS_Business/RisoActivityWebViewController"]
 	path = iOS_Business/RisoActivityWebViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoActivityWebViewController
+[submodule "iOS_Foundation/RisoAppContext"]
+	path = iOS_Foundation/RisoAppContext
+	url = git@gitlab.bl.com:iOS_Foundation/RisoAppContext
