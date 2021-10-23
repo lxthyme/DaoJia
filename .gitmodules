@@ -958,3 +958,6 @@
 [submodule "iOS_ViewComponents/BLRefreshControl"]
 	path = iOS_ViewComponents/BLRefreshControl
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLRefreshControl
+[submodule "iOS_Modulization_Demo/TestCodeReview"]
+	path = iOS_Modulization_Demo/TestCodeReview
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/TestCodeReview
