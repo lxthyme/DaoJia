@@ -181,3 +181,6 @@
 [submodule "iOS_Business/RisoOrderConfirmViewController"]
 	path = iOS_Business/RisoOrderConfirmViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoOrderConfirmViewController
+[submodule "iOS_ViewComponents/RisoPagerListView"]
+	path = iOS_ViewComponents/RisoPagerListView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoPagerListView
