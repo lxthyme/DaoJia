@@ -1465,3 +1465,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryMemberRecommendationInvitation"]
 	path = iOS_BusinessCategories/BLBusinessCategoryMemberRecommendationInvitation
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMemberRecommendationInvitation
+[submodule "iOS_BusinessCategories/BLBusinessCategoryCategory"]
+	path = iOS_BusinessCategories/BLBusinessCategoryCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCategory
