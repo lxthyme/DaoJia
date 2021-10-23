@@ -1195,3 +1195,6 @@
 [submodule "iOS_ViewComponents/RisoOrderCancelOrderPopView"]
 	path = iOS_ViewComponents/RisoOrderCancelOrderPopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderCancelOrderPopView
+[submodule "iOS_Business/RisoNewGoodsDetail"]
+	path = iOS_Business/RisoNewGoodsDetail
+	url = git@gitlab.bl.com:iOS_Business/RisoNewGoodsDetail
