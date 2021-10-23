@@ -523,3 +523,6 @@
 [submodule "iOS_ViewComponents/BLRedEnvelopeModule"]
 	path = iOS_ViewComponents/BLRedEnvelopeModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLRedEnvelopeModule
+[submodule "iOS_ViewComponents/EGOHuanGouModule"]
+	path = iOS_ViewComponents/EGOHuanGouModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/EGOHuanGouModule
