@@ -538,3 +538,6 @@
 [submodule "iOS_Business/RisoScanBuyPaySuccess"]
 	path = iOS_Business/RisoScanBuyPaySuccess
 	url = git@gitlab.bl.com:iOS_Business/RisoScanBuyPaySuccess
+[submodule "iOS_Business/RisoGoodsSearchResultViewController"]
+	path = iOS_Business/RisoGoodsSearchResultViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoGoodsSearchResultViewController
