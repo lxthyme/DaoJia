@@ -610,3 +610,6 @@
 [submodule "iOS_Business/BLCartViewControllerContainer"]
 	path = iOS_Business/BLCartViewControllerContainer
 	url = git@gitlab.bl.com:iOS_Business/BLCartViewControllerContainer
+[submodule "iOS_Business/BLMemberRecommendationInvitationDetailViewController"]
+	path = iOS_Business/BLMemberRecommendationInvitationDetailViewController
+	url = git@gitlab.bl.com:iOS_Business/BLMemberRecommendationInvitationDetailViewController
