@@ -247,3 +247,6 @@
 [submodule "iOS_ViewComponents/RisoLoadingView"]
 	path = iOS_ViewComponents/RisoLoadingView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoLoadingView
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryRouterCenter"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryRouterCenter
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryRouterCenter
