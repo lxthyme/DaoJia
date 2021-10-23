@@ -733,3 +733,6 @@
 [submodule "iOS_ViewComponents/EGOQuoteImagesViewModule"]
 	path = iOS_ViewComponents/EGOQuoteImagesViewModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOQuoteImagesViewModule
+[submodule "iOS_Business/EGOAliMeWebView"]
+	path = iOS_Business/EGOAliMeWebView
+	url = git@gitlab.bl.com:iOS_Business/EGOAliMeWebView
