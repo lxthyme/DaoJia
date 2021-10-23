@@ -160,3 +160,6 @@
 [submodule "iOS_Business/RisoProductListViewController"]
 	path = iOS_Business/RisoProductListViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoProductListViewController
+[submodule "iOS_Business/DJAddressManageModule"]
+	path = iOS_Business/DJAddressManageModule
+	url = git@gitlab.bl.com:iOS_Business/DJAddressManageModule
