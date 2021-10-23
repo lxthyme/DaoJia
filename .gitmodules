@@ -1129,3 +1129,6 @@
 [submodule "iOS_ViewComponents/BLHomeExplosionStyleCell"]
 	path = iOS_ViewComponents/BLHomeExplosionStyleCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeExplosionStyleCell
+[submodule "iOS_ViewComponents/BLHomeCouponAdvertImageCell"]
+	path = iOS_ViewComponents/BLHomeCouponAdvertImageCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeCouponAdvertImageCell
