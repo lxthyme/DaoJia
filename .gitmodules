@@ -355,3 +355,6 @@
 [submodule "iOS_Business/BLSearchBarContext"]
 	path = iOS_Business/BLSearchBarContext
 	url = git@gitlab.bl.com:iOS_Business/BLSearchBarContext
+[submodule "iOS_Foundation/EGOAPIManagers"]
+	path = iOS_Foundation/EGOAPIManagers
+	url = git@gitlab.bl.com:iOS_Foundation/EGOAPIManagers
