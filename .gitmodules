@@ -364,3 +364,6 @@
 [submodule "iOS_Business/BLFindGoodShopModule"]
 	path = iOS_Business/BLFindGoodShopModule
 	url = git@gitlab.bl.com:iOS_Business/BLFindGoodShopModule
+[submodule "iOS_Business/BLBindRedCard"]
+	path = iOS_Business/BLBindRedCard
+	url = git@gitlab.bl.com:iOS_Business/BLBindRedCard
