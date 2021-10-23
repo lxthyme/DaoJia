@@ -1435,3 +1435,6 @@
 [submodule "iOS_Tools/BLCloudStorePermissionManager"]
 	path = iOS_Tools/BLCloudStorePermissionManager
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStorePermissionManager
+[submodule "iOS_Tools/BLCloudStoreSoundManager"]
+	path = iOS_Tools/BLCloudStoreSoundManager
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreSoundManager
