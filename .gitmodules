@@ -1084,3 +1084,6 @@
 [submodule "iOS_Business/BLHomePageGlobalBuyController"]
 	path = iOS_Business/BLHomePageGlobalBuyController
 	url = git@gitlab.bl.com:iOS_Business/BLHomePageGlobalBuyController
+[submodule "iOS_ViewComponents/IBLPopDownMenu"]
+	path = iOS_ViewComponents/IBLPopDownMenu
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLPopDownMenu
