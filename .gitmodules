@@ -514,3 +514,6 @@
 [submodule "iOS_Foundation/BLBestpaySDK"]
 	path = iOS_Foundation/BLBestpaySDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLBestpaySDK
+[submodule "iOS_Foundation/BLDebugPannel"]
+	path = iOS_Foundation/BLDebugPannel
+	url = git@gitlab.bl.com:iOS_Foundation/BLDebugPannel
