@@ -382,3 +382,6 @@
 [submodule "iOS_Business/DJHomeViewControllers"]
 	path = iOS_Business/DJHomeViewControllers
 	url = git@gitlab.bl.com:iOS_Business/DJHomeViewControllers
+[submodule "iOS_Business/DJAMapForStoreList"]
+	path = iOS_Business/DJAMapForStoreList
+	url = git@gitlab.bl.com:iOS_Business/DJAMapForStoreList
