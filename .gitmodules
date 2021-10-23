@@ -205,3 +205,6 @@
 [submodule "iOS_Business/DJActivityGoodsList"]
 	path = iOS_Business/DJActivityGoodsList
 	url = git@gitlab.bl.com:iOS_Business/DJActivityGoodsList
+[submodule "iOS_DataCenters/DJSearchHistoryManger"]
+	path = iOS_DataCenters/DJSearchHistoryManger
+	url = git@gitlab.bl.com:iOS_DataCenters/DJSearchHistoryManger
