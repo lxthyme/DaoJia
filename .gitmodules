@@ -187,3 +187,6 @@
 [submodule "iOS_Business/DJProductDetailView"]
 	path = iOS_Business/DJProductDetailView
 	url = git@gitlab.bl.com:iOS_Business/DJProductDetailView
+[submodule "iOS_Business/BLBasket"]
+	path = iOS_Business/BLBasket
+	url = git@gitlab.bl.com:iOS_Business/BLBasket
