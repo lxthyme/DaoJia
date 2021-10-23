@@ -1576,3 +1576,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryUIWebView"]
 	path = iOS_BusinessCategories/BLBusinessCategoryUIWebView
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryUIWebView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLOrderConfirmSelectStore"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLOrderConfirmSelectStore
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLOrderConfirmSelectStore
