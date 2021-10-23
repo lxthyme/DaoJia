@@ -1417,3 +1417,6 @@
 [submodule "iOS_Modulization_Demo/SecondViewControllerCategory"]
 	path = iOS_Modulization_Demo/SecondViewControllerCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/SecondViewControllerCategory
+[submodule "iOS_Modulization_Demo/BLSencondViewController"]
+	path = iOS_Modulization_Demo/BLSencondViewController
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLSencondViewController
