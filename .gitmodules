@@ -778,3 +778,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryLogin"]
 	path = iOS_BusinessCategories/BLBusinessCategoryLogin
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryLogin
+[submodule "iOS_Tools/BLLoginPageForDemo"]
+	path = iOS_Tools/BLLoginPageForDemo
+	url = git@gitlab.bl.com:iOS_Tools/BLLoginPageForDemo
