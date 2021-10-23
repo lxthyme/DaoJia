@@ -1330,3 +1330,6 @@
 [submodule "iOS_Tools/BLSCloudStoreConfigCenter"]
 	path = iOS_Tools/BLSCloudStoreConfigCenter
 	url = git@gitlab.bl.com:iOS_Tools/BLSCloudStoreConfigCenter
+[submodule "iOS_Tools/BLCloudStoreUIKit"]
+	path = iOS_Tools/BLCloudStoreUIKit
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreUIKit
