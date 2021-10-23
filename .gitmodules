@@ -28,3 +28,6 @@
 [submodule "cloudstore/04_CloudStore_iOS_IMSDK"]
 	path = cloudstore/04_CloudStore_iOS_IMSDK
 	url = git@gitlab.bl.com:cloudstore/04_CloudStore_iOS_IMSDK
+[submodule "xuyunpeng/DJShoppingCartModule"]
+	path = xuyunpeng/DJShoppingCartModule
+	url = git@gitlab.bl.com:xuyunpeng/DJShoppingCartModule
