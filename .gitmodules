@@ -1255,3 +1255,6 @@
 [submodule "iOS_ViewComponents/BLAutoScrollBannerHeaderView"]
 	path = iOS_ViewComponents/BLAutoScrollBannerHeaderView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLAutoScrollBannerHeaderView
+[submodule "iOS_ViewComponents/IBLTitleScrollView"]
+	path = iOS_ViewComponents/IBLTitleScrollView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLTitleScrollView
