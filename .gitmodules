@@ -1702,3 +1702,6 @@
 [submodule "iOS_Modulization_Demo/LiHaoCategoryDemo"]
 	path = iOS_Modulization_Demo/LiHaoCategoryDemo
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/LiHaoCategoryDemo
+[submodule "iOS_Modulization_Demo/BLLIHAODemoCategoty"]
+	path = iOS_Modulization_Demo/BLLIHAODemoCategoty
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLLIHAODemoCategoty
