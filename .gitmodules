@@ -208,3 +208,6 @@
 [submodule "iOS_DataCenters/DJSearchHistoryManger"]
 	path = iOS_DataCenters/DJSearchHistoryManger
 	url = git@gitlab.bl.com:iOS_DataCenters/DJSearchHistoryManger
+[submodule "iOS_Foundation/BLRawAPIManager"]
+	path = iOS_Foundation/BLRawAPIManager
+	url = git@gitlab.bl.com:iOS_Foundation/BLRawAPIManager
