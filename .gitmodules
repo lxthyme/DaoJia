@@ -1072,3 +1072,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryDJProductDetailView"]
 	path = iOS_BusinessCategories/BLBusinessCategoryDJProductDetailView
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJProductDetailView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryQRScanner"]
+	path = iOS_BusinessCategories/BLBusinessCategoryQRScanner
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryQRScanner
