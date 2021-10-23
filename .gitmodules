@@ -844,3 +844,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategorySharedRedEnvelope"]
 	path = iOS_BusinessCategories/RisoBusinessCategorySharedRedEnvelope
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySharedRedEnvelope
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryDeliveryAddressList"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryDeliveryAddressList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryDeliveryAddressList
