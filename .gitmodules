@@ -1306,3 +1306,6 @@
 [submodule "iOS_Business/BLOutletPromotion"]
 	path = iOS_Business/BLOutletPromotion
 	url = git@gitlab.bl.com:iOS_Business/BLOutletPromotion
+[submodule "iOS_ViewComponents/BLGoodsGoodsRecommendImageCell"]
+	path = iOS_ViewComponents/BLGoodsGoodsRecommendImageCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoodsGoodsRecommendImageCell
