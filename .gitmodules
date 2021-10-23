@@ -199,3 +199,6 @@
 [submodule "iOS_ViewComponents/IBLToastView"]
 	path = iOS_ViewComponents/IBLToastView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLToastView
+[submodule "iOS_ViewComponents/BLPagerView"]
+	path = iOS_ViewComponents/BLPagerView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPagerView
