@@ -1246,3 +1246,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderGoodList"]
 	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderGoodList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderGoodList
+[submodule "iOS_Tools/BLLog"]
+	path = iOS_Tools/BLLog
+	url = git@gitlab.bl.com:iOS_Tools/BLLog
