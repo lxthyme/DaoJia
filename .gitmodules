@@ -1495,3 +1495,6 @@
 [submodule "iOS_ViewComponents/RTLabel"]
 	path = iOS_ViewComponents/RTLabel
 	url = git@gitlab.bl.com:iOS_ViewComponents/RTLabel
+[submodule "iOS_BusinessCategories/BLBusinessCategoryShopCertificateInfo"]
+	path = iOS_BusinessCategories/BLBusinessCategoryShopCertificateInfo
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryShopCertificateInfo
