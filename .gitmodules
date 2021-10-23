@@ -49,3 +49,6 @@
 [submodule "iOS_Business/BLHome"]
 	path = iOS_Business/BLHome
 	url = git@gitlab.bl.com:iOS_Business/BLHome
+[submodule "iOS_Business/DJStoreList"]
+	path = iOS_Business/DJStoreList
+	url = git@gitlab.bl.com:iOS_Business/DJStoreList
