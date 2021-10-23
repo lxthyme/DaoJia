@@ -622,3 +622,6 @@
 [submodule "iOS_Business/BLReceiveCouponModule"]
 	path = iOS_Business/BLReceiveCouponModule
 	url = git@gitlab.bl.com:iOS_Business/BLReceiveCouponModule
+[submodule "iOS_Business/BGStore"]
+	path = iOS_Business/BGStore
+	url = git@gitlab.bl.com:iOS_Business/BGStore
