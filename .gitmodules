@@ -370,3 +370,6 @@
 [submodule "iOS_Business/BLLinkAccountSDK"]
 	path = iOS_Business/BLLinkAccountSDK
 	url = git@gitlab.bl.com:iOS_Business/BLLinkAccountSDK
+[submodule "iOS_ViewComponents/IBLProgressHud"]
+	path = iOS_ViewComponents/IBLProgressHud
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLProgressHud
