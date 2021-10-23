@@ -1573,3 +1573,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryInviteFriends"]
 	path = iOS_BusinessCategories/BLBusinessCategoryInviteFriends
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryInviteFriends
+[submodule "iOS_BusinessCategories/BLBusinessCategoryUIWebView"]
+	path = iOS_BusinessCategories/BLBusinessCategoryUIWebView
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryUIWebView
