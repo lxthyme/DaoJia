@@ -55,3 +55,6 @@
 [submodule "iOS_Tools/BLSafeFetchDataFunctions"]
 	path = iOS_Tools/BLSafeFetchDataFunctions
 	url = git@gitlab.bl.com:iOS_Tools/BLSafeFetchDataFunctions
+[submodule "iOS_Tools/BLImage"]
+	path = iOS_Tools/BLImage
+	url = git@gitlab.bl.com:iOS_Tools/BLImage
