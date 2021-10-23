@@ -1750,3 +1750,6 @@
 [submodule "iOS_Modulization_Demo/FWWPageAViewController"]
 	path = iOS_Modulization_Demo/FWWPageAViewController
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/FWWPageAViewController
+[submodule "iOS_Foundation/ZXingObjC"]
+	path = iOS_Foundation/ZXingObjC
+	url = git@gitlab.bl.com:iOS_Foundation/ZXingObjC
