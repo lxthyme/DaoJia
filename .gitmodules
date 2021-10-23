@@ -1102,3 +1102,6 @@
 [submodule "iOS_ViewComponents/BLPopDownMenu"]
 	path = iOS_ViewComponents/BLPopDownMenu
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLPopDownMenu
+[submodule "iOS_ViewComponents/BLPageView"]
+	path = iOS_ViewComponents/BLPageView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPageView
