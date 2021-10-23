@@ -127,3 +127,6 @@
 [submodule "iOS_Business/BLBrandDetailViewController"]
 	path = iOS_Business/BLBrandDetailViewController
 	url = git@gitlab.bl.com:iOS_Business/BLBrandDetailViewController
+[submodule "iOS_ViewComponents/BLPanicBuyViewComponents"]
+	path = iOS_ViewComponents/BLPanicBuyViewComponents
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPanicBuyViewComponents
