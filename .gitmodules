@@ -511,3 +511,6 @@
 [submodule "iOS_Business/BL3DTouchModule"]
 	path = iOS_Business/BL3DTouchModule
 	url = git@gitlab.bl.com:iOS_Business/BL3DTouchModule
+[submodule "iOS_Foundation/BLBestpaySDK"]
+	path = iOS_Foundation/BLBestpaySDK
+	url = git@gitlab.bl.com:iOS_Foundation/BLBestpaySDK
