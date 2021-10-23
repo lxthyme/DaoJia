@@ -1165,3 +1165,6 @@
 [submodule "iOS_ViewComponents/BLOrderUnavailableGoodsPopView"]
 	path = iOS_ViewComponents/BLOrderUnavailableGoodsPopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderUnavailableGoodsPopView
+[submodule "iOS_ViewComponents/IBLBasketAddCountView"]
+	path = iOS_ViewComponents/IBLBasketAddCountView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLBasketAddCountView
