@@ -358,3 +358,6 @@
 [submodule "iOS_Foundation/EGOAPIManagers"]
 	path = iOS_Foundation/EGOAPIManagers
 	url = git@gitlab.bl.com:iOS_Foundation/EGOAPIManagers
+[submodule "iOS_ViewComponents/BLQRAVCaptureModule"]
+	path = iOS_ViewComponents/BLQRAVCaptureModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLQRAVCaptureModule
