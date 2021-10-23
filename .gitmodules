@@ -1717,3 +1717,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryMealCategory"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryMealCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryMealCategory
+[submodule "iOS_ViewComponents/BLTwoBallRotationView"]
+	path = iOS_ViewComponents/BLTwoBallRotationView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLTwoBallRotationView
