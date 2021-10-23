@@ -499,3 +499,6 @@
 [submodule "iOS_Foundation/BLUnionPay"]
 	path = iOS_Foundation/BLUnionPay
 	url = git@gitlab.bl.com:iOS_Foundation/BLUnionPay
+[submodule "iOS_ViewComponents/EGOAfterSaleModule"]
+	path = iOS_ViewComponents/EGOAfterSaleModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/EGOAfterSaleModule
