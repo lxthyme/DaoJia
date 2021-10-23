@@ -316,3 +316,6 @@
 [submodule "iOS_DataCenters/DJGlobalStoreManager"]
 	path = iOS_DataCenters/DJGlobalStoreManager
 	url = git@gitlab.bl.com:iOS_DataCenters/DJGlobalStoreManager
+[submodule "iOS_Business/BLProductCommentView"]
+	path = iOS_Business/BLProductCommentView
+	url = git@gitlab.bl.com:iOS_Business/BLProductCommentView
