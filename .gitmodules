@@ -1489,3 +1489,6 @@
 [submodule "iOS_Foundation/BLUnionApplePay"]
 	path = iOS_Foundation/BLUnionApplePay
 	url = git@gitlab.bl.com:iOS_Foundation/BLUnionApplePay
+[submodule "iOS_BusinessCategories/DJScanBarcodeViewCategory"]
+	path = iOS_BusinessCategories/DJScanBarcodeViewCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/DJScanBarcodeViewCategory
