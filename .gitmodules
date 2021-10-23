@@ -1177,3 +1177,6 @@
 [submodule "iOS_ViewComponents/RisoShortagePromptPopView"]
 	path = iOS_ViewComponents/RisoShortagePromptPopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoShortagePromptPopView
+[submodule "iOS_Business/RisoSelfServiceCashierPaySuccess"]
+	path = iOS_Business/RisoSelfServiceCashierPaySuccess
+	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceCashierPaySuccess
