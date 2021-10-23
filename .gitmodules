@@ -550,3 +550,6 @@
 [submodule "iOS_Tools/CTWebviewTarget"]
 	path = iOS_Tools/CTWebviewTarget
 	url = git@gitlab.bl.com:iOS_Tools/CTWebviewTarget
+[submodule "iOS_Foundation/CTAppContext"]
+	path = iOS_Foundation/CTAppContext
+	url = git@gitlab.bl.com:iOS_Foundation/CTAppContext
