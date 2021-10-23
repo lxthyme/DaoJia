@@ -898,3 +898,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryHomePage"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryHomePage
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryHomePage
+[submodule "iOS_ViewComponents/RisoRecommendGoodsView"]
+	path = iOS_ViewComponents/RisoRecommendGoodsView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoRecommendGoodsView
