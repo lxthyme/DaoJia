@@ -790,3 +790,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryAddress"]
 	path = iOS_BusinessCategories/BLBusinessCategoryAddress
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryAddress
+[submodule "iOS_BusinessCategories/BLBusinessCMSWebViewControllerCategory"]
+	path = iOS_BusinessCategories/BLBusinessCMSWebViewControllerCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCMSWebViewControllerCategory
