@@ -262,3 +262,6 @@
 [submodule "iOS_Business/DJHome"]
 	path = iOS_Business/DJHome
 	url = git@gitlab.bl.com:iOS_Business/DJHome
+[submodule "iOS/RisoPaymentViewController"]
+	path = iOS/RisoPaymentViewController
+	url = git@gitlab.bl.com:iOS/RisoPaymentViewController
