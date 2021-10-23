@@ -325,3 +325,6 @@
 [submodule "iOS_ViewComponents/BLPagerListView"]
 	path = iOS_ViewComponents/BLPagerListView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLPagerListView
+[submodule "iOS_ViewComponents/RisoLaunchAdModule"]
+	path = iOS_ViewComponents/RisoLaunchAdModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoLaunchAdModule
