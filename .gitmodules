@@ -1615,3 +1615,6 @@
 [submodule "iOS_Business/RisoWebViewControllerModule"]
 	path = iOS_Business/RisoWebViewControllerModule
 	url = git@gitlab.bl.com:iOS_Business/RisoWebViewControllerModule
+[submodule "iOS_ViewComponents/BLHomePageChannelSectionView"]
+	path = iOS_ViewComponents/BLHomePageChannelSectionView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageChannelSectionView
