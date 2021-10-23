@@ -718,3 +718,6 @@
 [submodule "iOS_Business/RisoExchangeCouponViewController"]
 	path = iOS_Business/RisoExchangeCouponViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoExchangeCouponViewController
+[submodule "iOS_Business/RisoChoseDeliveryAddressViewController"]
+	path = iOS_Business/RisoChoseDeliveryAddressViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoChoseDeliveryAddressViewController
