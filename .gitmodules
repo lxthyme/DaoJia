@@ -1693,3 +1693,6 @@
 [submodule "iOS_Modulization_Demo/TestA"]
 	path = iOS_Modulization_Demo/TestA
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/TestA
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryMealListView"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryMealListView
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryMealListView
