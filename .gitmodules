@@ -61,3 +61,6 @@
 [submodule "iOS_Business/RisoNewHomeView"]
 	path = iOS_Business/RisoNewHomeView
 	url = git@gitlab.bl.com:iOS_Business/RisoNewHomeView
+[submodule "iOS/BLRiso"]
+	path = iOS/BLRiso
+	url = git@gitlab.bl.com:iOS/BLRiso
