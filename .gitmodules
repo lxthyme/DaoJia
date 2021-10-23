@@ -286,3 +286,6 @@
 [submodule "iOS_Business/BLVip"]
 	path = iOS_Business/BLVip
 	url = git@gitlab.bl.com:iOS_Business/BLVip
+[submodule "iOS_Business/BLQRScannerMoudle"]
+	path = iOS_Business/BLQRScannerMoudle
+	url = git@gitlab.bl.com:iOS_Business/BLQRScannerMoudle
