@@ -442,3 +442,6 @@
 [submodule "iOS_Business/BLFresh"]
 	path = iOS_Business/BLFresh
 	url = git@gitlab.bl.com:iOS_Business/BLFresh
+[submodule "iOS_Business/BLPaySuccessful"]
+	path = iOS_Business/BLPaySuccessful
+	url = git@gitlab.bl.com:iOS_Business/BLPaySuccessful
