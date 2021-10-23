@@ -520,3 +520,6 @@
 [submodule "iOS_Business/BLCouponCommonComponents"]
 	path = iOS_Business/BLCouponCommonComponents
 	url = git@gitlab.bl.com:iOS_Business/BLCouponCommonComponents
+[submodule "iOS_ViewComponents/BLRedEnvelopeModule"]
+	path = iOS_ViewComponents/BLRedEnvelopeModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLRedEnvelopeModule
