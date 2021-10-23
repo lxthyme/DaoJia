@@ -103,3 +103,6 @@
 [submodule "iOS_Foundation/BLAdvertResourceJumpManager"]
 	path = iOS_Foundation/BLAdvertResourceJumpManager
 	url = git@gitlab.bl.com:iOS_Foundation/BLAdvertResourceJumpManager
+[submodule "iOS_Business/BLShoppingCartModule"]
+	path = iOS_Business/BLShoppingCartModule
+	url = git@gitlab.bl.com:iOS_Business/BLShoppingCartModule
