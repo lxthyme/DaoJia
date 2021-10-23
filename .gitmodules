@@ -817,3 +817,6 @@
 [submodule "iOS_ViewComponents/IBLBasketCartCountView"]
 	path = iOS_ViewComponents/IBLBasketCartCountView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLBasketCartCountView
+[submodule "iOS_ViewComponents/BLDaoJiaAlertView"]
+	path = iOS_ViewComponents/BLDaoJiaAlertView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLDaoJiaAlertView
