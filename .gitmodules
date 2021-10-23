@@ -1357,3 +1357,6 @@
 [submodule "iOS_Foundation/BLQQSDK"]
 	path = iOS_Foundation/BLQQSDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLQQSDK
+[submodule "iOS_Tools/BLCacheCenter"]
+	path = iOS_Tools/BLCacheCenter
+	url = git@gitlab.bl.com:iOS_Tools/BLCacheCenter
