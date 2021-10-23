@@ -1144,3 +1144,6 @@
 [submodule "iOS_ViewComponents/BLCancelOrderView"]
 	path = iOS_ViewComponents/BLCancelOrderView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCancelOrderView
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryChoseAddress"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryChoseAddress
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryChoseAddress
