@@ -1396,3 +1396,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryFresh"]
 	path = iOS_BusinessCategories/BLBusinessCategoryFresh
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryFresh
+[submodule "iOS_BusinessCategories/BLNetworkingCategory"]
+	path = iOS_BusinessCategories/BLNetworkingCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLNetworkingCategory
