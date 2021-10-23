@@ -856,3 +856,6 @@
 [submodule "iOS_Business/RisoSelectedTopicsList"]
 	path = iOS_Business/RisoSelectedTopicsList
 	url = git@gitlab.bl.com:iOS_Business/RisoSelectedTopicsList
+[submodule "iOS_ViewComponents/BLPaySDK"]
+	path = iOS_ViewComponents/BLPaySDK
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPaySDK
