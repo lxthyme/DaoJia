@@ -1747,3 +1747,6 @@
 [submodule "iOS_ViewComponents/ZYQAssetPickerController"]
 	path = iOS_ViewComponents/ZYQAssetPickerController
 	url = git@gitlab.bl.com:iOS_ViewComponents/ZYQAssetPickerController
+[submodule "iOS_Modulization_Demo/FWWPageAViewController"]
+	path = iOS_Modulization_Demo/FWWPageAViewController
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/FWWPageAViewController
