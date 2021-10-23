@@ -676,3 +676,6 @@
 [submodule "iOS_Foundation/BLCCBPaySDK"]
 	path = iOS_Foundation/BLCCBPaySDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLCCBPaySDK
+[submodule "iOS_Foundation/CRRouter"]
+	path = iOS_Foundation/CRRouter
+	url = git@gitlab.bl.com:iOS_Foundation/CRRouter
