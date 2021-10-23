@@ -1690,3 +1690,6 @@
 [submodule "iOS_BusinessCategories/BLBusinesssCategoryOutletPromotion"]
 	path = iOS_BusinessCategories/BLBusinesssCategoryOutletPromotion
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinesssCategoryOutletPromotion
+[submodule "iOS_Modulization_Demo/TestA"]
+	path = iOS_Modulization_Demo/TestA
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/TestA
