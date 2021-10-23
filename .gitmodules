@@ -238,3 +238,6 @@
 [submodule "iOS_Business/DJScanBarcodeView"]
 	path = iOS_Business/DJScanBarcodeView
 	url = git@gitlab.bl.com:iOS_Business/DJScanBarcodeView
+[submodule "iOS_Business/RisoOrderListViewController"]
+	path = iOS_Business/RisoOrderListViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoOrderListViewController
