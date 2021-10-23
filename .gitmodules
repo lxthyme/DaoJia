@@ -1354,3 +1354,6 @@
 [submodule "iOS_Foundation/BLWeiBoSDK"]
 	path = iOS_Foundation/BLWeiBoSDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLWeiBoSDK
+[submodule "iOS_Foundation/BLQQSDK"]
+	path = iOS_Foundation/BLQQSDK
+	url = git@gitlab.bl.com:iOS_Foundation/BLQQSDK
