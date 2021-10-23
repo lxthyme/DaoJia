@@ -643,3 +643,6 @@
 [submodule "iOS_ViewComponents/RisoCouponPopView"]
 	path = iOS_ViewComponents/RisoCouponPopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoCouponPopView
+[submodule "iOS_ViewComponents/BLTabbar"]
+	path = iOS_ViewComponents/BLTabbar
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLTabbar
