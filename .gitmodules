@@ -82,3 +82,6 @@
 [submodule "iOS_Business/BLBusinessProfile"]
 	path = iOS_Business/BLBusinessProfile
 	url = git@gitlab.bl.com:iOS_Business/BLBusinessProfile
+[submodule "IOS_Flutter/BLFlutterPlugins"]
+	path = IOS_Flutter/BLFlutterPlugins
+	url = git@gitlab.bl.com:IOS_Flutter/BLFlutterPlugins
