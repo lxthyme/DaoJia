@@ -823,3 +823,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessClassificationCategory"]
 	path = iOS_BusinessCategories/BLBusinessClassificationCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessClassificationCategory
+[submodule "iOS_BusinessCategories/BLBusinessCategoryCoupon"]
+	path = iOS_BusinessCategories/BLBusinessCategoryCoupon
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCoupon
