@@ -1300,3 +1300,6 @@
 [submodule "iOS_Tools/BLCloudStoreMerchantConfigCenter"]
 	path = iOS_Tools/BLCloudStoreMerchantConfigCenter
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreMerchantConfigCenter
+[submodule "iOS_Tools/BLCloudStoreIMService"]
+	path = iOS_Tools/BLCloudStoreIMService
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreIMService
