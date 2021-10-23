@@ -1456,3 +1456,6 @@
 [submodule "iOS_BusinessCategories/DJBusinessCategoryDJSearch"]
 	path = iOS_BusinessCategories/DJBusinessCategoryDJSearch
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJBusinessCategoryDJSearch
+[submodule "iOS_Foundation/RisoAliYunModule"]
+	path = iOS_Foundation/RisoAliYunModule
+	url = git@gitlab.bl.com:iOS_Foundation/RisoAliYunModule
