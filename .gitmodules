@@ -151,3 +151,6 @@
 [submodule "iOS_Foundation/CTAppContext_BaiLian"]
 	path = iOS_Foundation/CTAppContext_BaiLian
 	url = git@gitlab.bl.com:iOS_Foundation/CTAppContext_BaiLian
+[submodule "iOS_Business/DJOrderConfirm"]
+	path = iOS_Business/DJOrderConfirm
+	url = git@gitlab.bl.com:iOS_Business/DJOrderConfirm
