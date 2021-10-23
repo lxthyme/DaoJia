@@ -1504,3 +1504,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryMessage"]
 	path = iOS_BusinessCategories/BLBusinessCategoryMessage
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMessage
+[submodule "iOS_Business/RisoARViewController"]
+	path = iOS_Business/RisoARViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoARViewController
