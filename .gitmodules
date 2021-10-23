@@ -1462,3 +1462,6 @@
 [submodule "iOS_ViewComponents/RisoHXPhotoPicker"]
 	path = iOS_ViewComponents/RisoHXPhotoPicker
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoHXPhotoPicker
+[submodule "iOS_BusinessCategories/BLBusinessCategoryMemberRecommendationInvitation"]
+	path = iOS_BusinessCategories/BLBusinessCategoryMemberRecommendationInvitation
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMemberRecommendationInvitation
