@@ -1621,3 +1621,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryQRScan"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryQRScan
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryQRScan
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryWebView"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryWebView
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryWebView
