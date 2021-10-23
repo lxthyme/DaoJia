@@ -1414,3 +1414,6 @@
 [submodule "iOS_Tools/BLCloudStoreScanCategory"]
 	path = iOS_Tools/BLCloudStoreScanCategory
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreScanCategory
+[submodule "iOS_Modulization_Demo/SecondViewControllerCategory"]
+	path = iOS_Modulization_Demo/SecondViewControllerCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/SecondViewControllerCategory
