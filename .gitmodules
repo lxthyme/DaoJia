@@ -1723,3 +1723,6 @@
 [submodule "iOS_ViewComponents/BLRangeSlider"]
 	path = iOS_ViewComponents/BLRangeSlider
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLRangeSlider
+[submodule "iOS_Modulization_Demo/mytest"]
+	path = iOS_Modulization_Demo/mytest
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/mytest
