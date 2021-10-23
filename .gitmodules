@@ -1189,3 +1189,6 @@
 [submodule "iOS_ViewComponents/RisoSearchButtonView"]
 	path = iOS_ViewComponents/RisoSearchButtonView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSearchButtonView
+[submodule "iOS_ViewComponents/RisoPostDataPinkerView"]
+	path = iOS_ViewComponents/RisoPostDataPinkerView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoPostDataPinkerView
