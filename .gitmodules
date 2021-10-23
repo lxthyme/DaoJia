@@ -268,3 +268,6 @@
 [submodule "iOS_Business/BLInvoiceTitle"]
 	path = iOS_Business/BLInvoiceTitle
 	url = git@gitlab.bl.com:iOS_Business/BLInvoiceTitle
+[submodule "iOS_ViewComponents/IBLAddressSelectPickerView"]
+	path = iOS_ViewComponents/IBLAddressSelectPickerView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLAddressSelectPickerView
