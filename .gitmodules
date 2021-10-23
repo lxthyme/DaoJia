@@ -1201,3 +1201,6 @@
 [submodule "iOS_ViewComponents/RisoGoodsDetailEvaluateDetailCell"]
 	path = iOS_ViewComponents/RisoGoodsDetailEvaluateDetailCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailEvaluateDetailCell
+[submodule "iOS_ViewComponents/BLAdvertImageCell"]
+	path = iOS_ViewComponents/BLAdvertImageCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLAdvertImageCell
