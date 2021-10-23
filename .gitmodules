@@ -1486,3 +1486,6 @@
 [submodule "iOS_Business/BLShopCertificateInfo"]
 	path = iOS_Business/BLShopCertificateInfo
 	url = git@gitlab.bl.com:iOS_Business/BLShopCertificateInfo
+[submodule "iOS_Foundation/BLUnionApplePay"]
+	path = iOS_Foundation/BLUnionApplePay
+	url = git@gitlab.bl.com:iOS_Foundation/BLUnionApplePay
