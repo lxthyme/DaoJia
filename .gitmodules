@@ -1447,3 +1447,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryExchangeCoupon"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryExchangeCoupon
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryExchangeCoupon
+[submodule "iOS_BusinessCategories/BLBusinessSettingCategory"]
+	path = iOS_BusinessCategories/BLBusinessSettingCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessSettingCategory
