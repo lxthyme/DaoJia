@@ -1444,3 +1444,6 @@
 [submodule "iOS_Tools/BLCategoryCloudStoreSoundManager"]
 	path = iOS_Tools/BLCategoryCloudStoreSoundManager
 	url = git@gitlab.bl.com:iOS_Tools/BLCategoryCloudStoreSoundManager
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryExchangeCoupon"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryExchangeCoupon
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryExchangeCoupon
