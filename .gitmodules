@@ -751,3 +751,6 @@
 [submodule "iOS_Business/BLBusinessCategoryShoppingCart"]
 	path = iOS_Business/BLBusinessCategoryShoppingCart
 	url = git@gitlab.bl.com:iOS_Business/BLBusinessCategoryShoppingCart
+[submodule "iOS_ViewComponents/IBLOrderConfirmAlertView"]
+	path = iOS_ViewComponents/IBLOrderConfirmAlertView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLOrderConfirmAlertView
