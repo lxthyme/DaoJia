@@ -94,3 +94,6 @@
 [submodule "iOS_Foundation/BLAPIManagers"]
 	path = iOS_Foundation/BLAPIManagers
 	url = git@gitlab.bl.com:iOS_Foundation/BLAPIManagers
+[submodule "iOS_DataCenters/BLHomeDataSource"]
+	path = iOS_DataCenters/BLHomeDataSource
+	url = git@gitlab.bl.com:iOS_DataCenters/BLHomeDataSource
