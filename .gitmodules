@@ -1117,3 +1117,6 @@
 [submodule "iOS_ViewComponents/BLHomeRankListCell"]
 	path = iOS_ViewComponents/BLHomeRankListCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeRankListCell
+[submodule "iOS_ViewComponents/BLHomePageFindView"]
+	path = iOS_ViewComponents/BLHomePageFindView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageFindView
