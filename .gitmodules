@@ -985,3 +985,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBasket"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBasket
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBasket
+[submodule "iOS_BusinessCategories/BLBusinessCategoryGoodsDetail"]
+	path = iOS_BusinessCategories/BLBusinessCategoryGoodsDetail
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryGoodsDetail
