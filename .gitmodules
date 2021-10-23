@@ -34,3 +34,6 @@
 [submodule "DaoJia/DJNavigationView"]
 	path = DaoJia/DJNavigationView
 	url = git@gitlab.bl.com:DaoJia/DJNavigationView
+[submodule "iOS_Modulization_Demo/Btest"]
+	path = iOS_Modulization_Demo/Btest
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/Btest
