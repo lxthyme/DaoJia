@@ -1372,3 +1372,6 @@
 [submodule "iOS_Tools/BlCloudStoreFoundation"]
 	path = iOS_Tools/BlCloudStoreFoundation
 	url = git@gitlab.bl.com:iOS_Tools/BlCloudStoreFoundation
+[submodule "iOS_BusinessCategories/BLQRCodeScannerBusinessCategory"]
+	path = iOS_BusinessCategories/BLQRCodeScannerBusinessCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLQRCodeScannerBusinessCategory
