@@ -673,3 +673,6 @@
 [submodule "iOS_ViewComponents/CTWebViewComponents"]
 	path = iOS_ViewComponents/CTWebViewComponents
 	url = git@gitlab.bl.com:iOS_ViewComponents/CTWebViewComponents
+[submodule "iOS_Foundation/BLCCBPaySDK"]
+	path = iOS_Foundation/BLCCBPaySDK
+	url = git@gitlab.bl.com:iOS_Foundation/BLCCBPaySDK
