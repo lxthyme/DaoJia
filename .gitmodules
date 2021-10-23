@@ -337,3 +337,6 @@
 [submodule "iOS_Business/BLCartService"]
 	path = iOS_Business/BLCartService
 	url = git@gitlab.bl.com:iOS_Business/BLCartService
+[submodule "iOS_ViewComponents/BLSegmentControl"]
+	path = iOS_ViewComponents/BLSegmentControl
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLSegmentControl
