@@ -1339,3 +1339,6 @@
 [submodule "iOS_Tools/BLDesOperate"]
 	path = iOS_Tools/BLDesOperate
 	url = git@gitlab.bl.com:iOS_Tools/BLDesOperate
+[submodule "iOS_Modulization_Demo/Atest"]
+	path = iOS_Modulization_Demo/Atest
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/Atest
