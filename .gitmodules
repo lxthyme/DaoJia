@@ -1234,3 +1234,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderConfirm"]
 	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderConfirm
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderConfirm
+[submodule "iOS_DataCenters/BLHomePageDataCenter"]
+	path = iOS_DataCenters/BLHomePageDataCenter
+	url = git@gitlab.bl.com:iOS_DataCenters/BLHomePageDataCenter
