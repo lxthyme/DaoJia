@@ -193,3 +193,6 @@
 [submodule "iOS_Business/BLHotSale"]
 	path = iOS_Business/BLHotSale
 	url = git@gitlab.bl.com:iOS_Business/BLHotSale
+[submodule "iOS_Business/BLWebViewControllers"]
+	path = iOS_Business/BLWebViewControllers
+	url = git@gitlab.bl.com:iOS_Business/BLWebViewControllers
