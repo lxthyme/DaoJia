@@ -1459,3 +1459,6 @@
 [submodule "iOS_Foundation/RisoAliYunModule"]
 	path = iOS_Foundation/RisoAliYunModule
 	url = git@gitlab.bl.com:iOS_Foundation/RisoAliYunModule
+[submodule "iOS_ViewComponents/RisoHXPhotoPicker"]
+	path = iOS_ViewComponents/RisoHXPhotoPicker
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoHXPhotoPicker
