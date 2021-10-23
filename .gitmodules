@@ -853,3 +853,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryShare"]
 	path = iOS_BusinessCategories/BLBusinessCategoryShare
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryShare
+[submodule "iOS_Business/RisoSelectedTopicsList"]
+	path = iOS_Business/RisoSelectedTopicsList
+	url = git@gitlab.bl.com:iOS_Business/RisoSelectedTopicsList
