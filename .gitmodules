@@ -577,3 +577,6 @@
 [submodule "iOS_Tools/TargetRisoAppInfo"]
 	path = iOS_Tools/TargetRisoAppInfo
 	url = git@gitlab.bl.com:iOS_Tools/TargetRisoAppInfo
+[submodule "iOS_Foundation/BLPrefectureListDataCenter"]
+	path = iOS_Foundation/BLPrefectureListDataCenter
+	url = git@gitlab.bl.com:iOS_Foundation/BLPrefectureListDataCenter
