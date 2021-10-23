@@ -874,3 +874,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryGoodsDetailCategory"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryGoodsDetailCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryGoodsDetailCategory
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryShopCar"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryShopCar
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryShopCar
