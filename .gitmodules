@@ -1297,3 +1297,6 @@
 [submodule "iOS_ViewComponents/BLAutoScrollParallaxImageView"]
 	path = iOS_ViewComponents/BLAutoScrollParallaxImageView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLAutoScrollParallaxImageView
+[submodule "iOS_Tools/BLCloudStoreMerchantConfigCenter"]
+	path = iOS_Tools/BLCloudStoreMerchantConfigCenter
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreMerchantConfigCenter
