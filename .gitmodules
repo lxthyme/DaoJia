@@ -112,3 +112,6 @@
 [submodule "iOS_Business/BLShare"]
 	path = iOS_Business/BLShare
 	url = git@gitlab.bl.com:iOS_Business/BLShare
+[submodule "iOS_Business/BLCashier"]
+	path = iOS_Business/BLCashier
+	url = git@gitlab.bl.com:iOS_Business/BLCashier
