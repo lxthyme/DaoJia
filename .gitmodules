@@ -427,3 +427,6 @@
 [submodule "iOS_Business/BLPayCode"]
 	path = iOS_Business/BLPayCode
 	url = git@gitlab.bl.com:iOS_Business/BLPayCode
+[submodule "iOS_Business/BLRisoHomePageViewController"]
+	path = iOS_Business/BLRisoHomePageViewController
+	url = git@gitlab.bl.com:iOS_Business/BLRisoHomePageViewController
