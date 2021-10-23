@@ -913,3 +913,6 @@
 [submodule "iOS_Tools/UICollectionViewLeftAlignedLayout"]
 	path = iOS_Tools/UICollectionViewLeftAlignedLayout
 	url = git@gitlab.bl.com:iOS_Tools/UICollectionViewLeftAlignedLayout
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLRedEnvelopeModule"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLRedEnvelopeModule
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLRedEnvelopeModule
