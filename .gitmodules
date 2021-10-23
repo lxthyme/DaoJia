@@ -1741,3 +1741,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLPageJump"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLPageJump
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLPageJump
+[submodule "iOS_ViewComponents/BLBarScanner"]
+	path = iOS_ViewComponents/BLBarScanner
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLBarScanner
