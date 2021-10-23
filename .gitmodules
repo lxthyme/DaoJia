@@ -1000,3 +1000,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryViewDownloadsInvoice"]
 	path = iOS_BusinessCategories/BLBusinessCategoryViewDownloadsInvoice
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryViewDownloadsInvoice
+[submodule "iOS_ViewComponents/BLSecurePasswordView"]
+	path = iOS_ViewComponents/BLSecurePasswordView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLSecurePasswordView
