@@ -1498,3 +1498,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryShopCertificateInfo"]
 	path = iOS_BusinessCategories/BLBusinessCategoryShopCertificateInfo
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryShopCertificateInfo
+[submodule "iOS_Tools/PPGetAddressBook"]
+	path = iOS_Tools/PPGetAddressBook
+	url = git@gitlab.bl.com:iOS_Tools/PPGetAddressBook
