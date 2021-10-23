@@ -175,3 +175,6 @@
 [submodule "iOS_Business/BLSearchKeyWordsViewController"]
 	path = iOS_Business/BLSearchKeyWordsViewController
 	url = git@gitlab.bl.com:iOS_Business/BLSearchKeyWordsViewController
+[submodule "iOS_ViewComponents/BLCouponCenterModule"]
+	path = iOS_ViewComponents/BLCouponCenterModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCouponCenterModule
