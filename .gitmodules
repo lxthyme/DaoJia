@@ -1033,3 +1033,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLUnicomFreeFlow"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLUnicomFreeFlow
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLUnicomFreeFlow
+[submodule "iOS_BusinessCategories/DJBusinessCategoryOrderListView"]
+	path = iOS_BusinessCategories/DJBusinessCategoryOrderListView
+	url = git@gitlab.bl.com:iOS_BusinessCategories/DJBusinessCategoryOrderListView
