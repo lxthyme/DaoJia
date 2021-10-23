@@ -385,3 +385,6 @@
 [submodule "iOS_Business/DJAMapForStoreList"]
 	path = iOS_Business/DJAMapForStoreList
 	url = git@gitlab.bl.com:iOS_Business/DJAMapForStoreList
+[submodule "iOS_Business/BLFootMark"]
+	path = iOS_Business/BLFootMark
+	url = git@gitlab.bl.com:iOS_Business/BLFootMark
