@@ -760,3 +760,6 @@
 [submodule "iOS_ViewComponents/RisoGoodsDetailAttributePopView"]
 	path = iOS_ViewComponents/RisoGoodsDetailAttributePopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailAttributePopView
+[submodule "iOS_Foundation/BLAPPInfoModule"]
+	path = iOS_Foundation/BLAPPInfoModule
+	url = git@gitlab.bl.com:iOS_Foundation/BLAPPInfoModule
