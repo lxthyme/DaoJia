@@ -301,3 +301,6 @@
 [submodule "iOS_Business/BLLoginRegister"]
 	path = iOS_Business/BLLoginRegister
 	url = git@gitlab.bl.com:iOS_Business/BLLoginRegister
+[submodule "iOS_Business/RisoScanBuyOrderConfirmViewController"]
+	path = iOS_Business/RisoScanBuyOrderConfirmViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoScanBuyOrderConfirmViewController
