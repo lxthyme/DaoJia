@@ -421,3 +421,6 @@
 [submodule "iOS_Business/BLTagGoodsListView"]
 	path = iOS_Business/BLTagGoodsListView
 	url = git@gitlab.bl.com:iOS_Business/BLTagGoodsListView
+[submodule "iOS_Business/blfindpagerlistview"]
+	path = iOS_Business/blfindpagerlistview
+	url = git@gitlab.bl.com:iOS_Business/blfindpagerlistview
