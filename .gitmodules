@@ -1237,3 +1237,6 @@
 [submodule "iOS_DataCenters/BLHomePageDataCenter"]
 	path = iOS_DataCenters/BLHomePageDataCenter
 	url = git@gitlab.bl.com:iOS_DataCenters/BLHomePageDataCenter
+[submodule "iOS_Tools/BLTimer"]
+	path = iOS_Tools/BLTimer
+	url = git@gitlab.bl.com:iOS_Tools/BLTimer
