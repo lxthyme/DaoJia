@@ -1516,3 +1516,6 @@
 [submodule "iOS_ViewComponents/BLVerificationView"]
 	path = iOS_ViewComponents/BLVerificationView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLVerificationView
+[submodule "iOS_ViewComponents/BLGoodsDetailSpecificationView"]
+	path = iOS_ViewComponents/BLGoodsDetailSpecificationView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoodsDetailSpecificationView
