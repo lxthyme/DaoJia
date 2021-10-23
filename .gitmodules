@@ -1303,3 +1303,6 @@
 [submodule "iOS_Tools/BLCloudStoreIMService"]
 	path = iOS_Tools/BLCloudStoreIMService
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreIMService
+[submodule "iOS_Business/BLOutletPromotion"]
+	path = iOS_Business/BLOutletPromotion
+	url = git@gitlab.bl.com:iOS_Business/BLOutletPromotion
