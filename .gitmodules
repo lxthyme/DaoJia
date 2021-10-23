@@ -223,3 +223,6 @@
 [submodule "iOS_Foundation/BLWeChatSDK"]
 	path = iOS_Foundation/BLWeChatSDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLWeChatSDK
+[submodule "iOS_ViewComponents/RisoOrderDetailTransactionInfoCell"]
+	path = iOS_ViewComponents/RisoOrderDetailTransactionInfoCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderDetailTransactionInfoCell
