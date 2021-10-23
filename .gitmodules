@@ -256,3 +256,6 @@
 [submodule "iOS_Business/BLDaoJia"]
 	path = iOS_Business/BLDaoJia
 	url = git@gitlab.bl.com:iOS_Business/BLDaoJia
+[submodule "iOS_Business/DJResourceJumpManager"]
+	path = iOS_Business/DJResourceJumpManager
+	url = git@gitlab.bl.com:iOS_Business/DJResourceJumpManager
