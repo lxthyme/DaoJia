@@ -919,3 +919,6 @@
 [submodule "iOS_ViewComponents/RisoSelfServiceOrderGoodsInfoCell"]
 	path = iOS_ViewComponents/RisoSelfServiceOrderGoodsInfoCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderGoodsInfoCell
+[submodule "iOS_ViewComponents/RisoGoodsDetailRecommendGoodsCell"]
+	path = iOS_ViewComponents/RisoGoodsDetailRecommendGoodsCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailRecommendGoodsCell
