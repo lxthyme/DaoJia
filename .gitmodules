@@ -739,3 +739,6 @@
 [submodule "iOS_Foundation/EGOAppContext"]
 	path = iOS_Foundation/EGOAppContext
 	url = git@gitlab.bl.com:iOS_Foundation/EGOAppContext
+[submodule "iOS_BusinessCategories/BLBusinessCategoryLinkedMe"]
+	path = iOS_BusinessCategories/BLBusinessCategoryLinkedMe
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryLinkedMe
