@@ -955,3 +955,6 @@
 [submodule "iOS_ViewComponents/RisoOrderConfirmHadIconTableViewCell"]
 	path = iOS_ViewComponents/RisoOrderConfirmHadIconTableViewCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderConfirmHadIconTableViewCell
+[submodule "iOS_ViewComponents/BLRefreshControl"]
+	path = iOS_ViewComponents/BLRefreshControl
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLRefreshControl
