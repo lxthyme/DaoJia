@@ -277,3 +277,6 @@
 [submodule "iOS_Business/BLViewDownloadsInvoice"]
 	path = iOS_Business/BLViewDownloadsInvoice
 	url = git@gitlab.bl.com:iOS_Business/BLViewDownloadsInvoice
+[submodule "iOS_Tools/ConfigPrivatePodScript"]
+	path = iOS_Tools/ConfigPrivatePodScript
+	url = git@gitlab.bl.com:iOS_Tools/ConfigPrivatePodScript
