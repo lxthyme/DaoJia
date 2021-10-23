@@ -52,3 +52,6 @@
 [submodule "iOS_Business/DJStoreList"]
 	path = iOS_Business/DJStoreList
 	url = git@gitlab.bl.com:iOS_Business/DJStoreList
+[submodule "iOS_Tools/BLSafeFetchDataFunctions"]
+	path = iOS_Tools/BLSafeFetchDataFunctions
+	url = git@gitlab.bl.com:iOS_Tools/BLSafeFetchDataFunctions
