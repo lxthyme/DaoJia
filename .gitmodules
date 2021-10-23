@@ -847,3 +847,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryDeliveryAddressList"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryDeliveryAddressList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryDeliveryAddressList
+[submodule "iOS_ViewComponents/RisoSelfServiceOrderPopView"]
+	path = iOS_ViewComponents/RisoSelfServiceOrderPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSelfServiceOrderPopView
