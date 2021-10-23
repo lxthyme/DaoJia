@@ -1645,3 +1645,6 @@
 [submodule "iOS_Modulization_Demo/AAA"]
 	path = iOS_Modulization_Demo/AAA
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/AAA
+[submodule "iOS_BusinessCategories/BLBusinessPageJumpCategory"]
+	path = iOS_BusinessCategories/BLBusinessPageJumpCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessPageJumpCategory
