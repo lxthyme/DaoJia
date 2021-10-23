@@ -1657,3 +1657,6 @@
 [submodule "iOS_BusinessCategories/FlashSaleCategory"]
 	path = iOS_BusinessCategories/FlashSaleCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/FlashSaleCategory
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryStoreList"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryStoreList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryStoreList
