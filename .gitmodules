@@ -1708,3 +1708,6 @@
 [submodule "iOS_Modulization_Demo/BLLIHAODemo"]
 	path = iOS_Modulization_Demo/BLLIHAODemo
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLLIHAODemo
+[submodule "iOS_Tools/BLWebSocketsServer"]
+	path = iOS_Tools/BLWebSocketsServer
+	url = git@gitlab.bl.com:iOS_Tools/BLWebSocketsServer
