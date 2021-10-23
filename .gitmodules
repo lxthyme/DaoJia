@@ -667,3 +667,6 @@
 [submodule "iOS_Foundation/RisoPageJumpManager"]
 	path = iOS_Foundation/RisoPageJumpManager
 	url = git@gitlab.bl.com:iOS_Foundation/RisoPageJumpManager
+[submodule "iOS_ViewComponents/RisoShareModule"]
+	path = iOS_ViewComponents/RisoShareModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoShareModule
