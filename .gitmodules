@@ -172,3 +172,6 @@
 [submodule "iOS_Business/BLMembershipBenefits"]
 	path = iOS_Business/BLMembershipBenefits
 	url = git@gitlab.bl.com:iOS_Business/BLMembershipBenefits
+[submodule "iOS_Business/BLSearchKeyWordsViewController"]
+	path = iOS_Business/BLSearchKeyWordsViewController
+	url = git@gitlab.bl.com:iOS_Business/BLSearchKeyWordsViewController
