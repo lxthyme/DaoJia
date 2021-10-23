@@ -922,3 +922,6 @@
 [submodule "iOS_ViewComponents/RisoGoodsDetailRecommendGoodsCell"]
 	path = iOS_ViewComponents/RisoGoodsDetailRecommendGoodsCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailRecommendGoodsCell
+[submodule "iOS_Business/RisoSupermarketCategoryViewController"]
+	path = iOS_Business/RisoSupermarketCategoryViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoSupermarketCategoryViewController
