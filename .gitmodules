@@ -826,3 +826,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryCoupon"]
 	path = iOS_BusinessCategories/BLBusinessCategoryCoupon
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCoupon
+[submodule "iOS_BusinessCategories/BLBusinessCategoryTagGoodsList"]
+	path = iOS_BusinessCategories/BLBusinessCategoryTagGoodsList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryTagGoodsList
