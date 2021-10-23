@@ -1057,3 +1057,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBrandDetail"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBrandDetail
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBrandDetail
+[submodule "iOS_Tools/TargetBailianAppInfo"]
+	path = iOS_Tools/TargetBailianAppInfo
+	url = git@gitlab.bl.com:iOS_Tools/TargetBailianAppInfo
