@@ -1744,3 +1744,6 @@
 [submodule "iOS_ViewComponents/BLBarScanner"]
 	path = iOS_ViewComponents/BLBarScanner
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLBarScanner
+[submodule "iOS_ViewComponents/ZYQAssetPickerController"]
+	path = iOS_ViewComponents/ZYQAssetPickerController
+	url = git@gitlab.bl.com:iOS_ViewComponents/ZYQAssetPickerController
