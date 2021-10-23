@@ -37,3 +37,6 @@
 [submodule "iOS_Modulization_Demo/Btest"]
 	path = iOS_Modulization_Demo/Btest
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/Btest
+[submodule "iOS_Tools/BLCategories"]
+	path = iOS_Tools/BLCategories
+	url = git@gitlab.bl.com:iOS_Tools/BLCategories
