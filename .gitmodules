@@ -340,3 +340,6 @@
 [submodule "iOS_ViewComponents/BLSegmentControl"]
 	path = iOS_ViewComponents/BLSegmentControl
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLSegmentControl
+[submodule "iOS_Business/DJPaySuccessful"]
+	path = iOS_Business/DJPaySuccessful
+	url = git@gitlab.bl.com:iOS_Business/DJPaySuccessful
