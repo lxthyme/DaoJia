@@ -517,3 +517,6 @@
 [submodule "iOS_Foundation/BLDebugPannel"]
 	path = iOS_Foundation/BLDebugPannel
 	url = git@gitlab.bl.com:iOS_Foundation/BLDebugPannel
+[submodule "iOS_Business/BLCouponCommonComponents"]
+	path = iOS_Business/BLCouponCommonComponents
+	url = git@gitlab.bl.com:iOS_Business/BLCouponCommonComponents
