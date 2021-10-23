@@ -1534,3 +1534,6 @@
 [submodule "iOS_Tools/BLHomePageDownRefreshHeader"]
 	path = iOS_Tools/BLHomePageDownRefreshHeader
 	url = git@gitlab.bl.com:iOS_Tools/BLHomePageDownRefreshHeader
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBrandGroup"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBrandGroup
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBrandGroup
