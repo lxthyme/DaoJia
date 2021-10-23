@@ -1492,3 +1492,6 @@
 [submodule "iOS_BusinessCategories/DJScanBarcodeViewCategory"]
 	path = iOS_BusinessCategories/DJScanBarcodeViewCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJScanBarcodeViewCategory
+[submodule "iOS_ViewComponents/RTLabel"]
+	path = iOS_ViewComponents/RTLabel
+	url = git@gitlab.bl.com:iOS_ViewComponents/RTLabel
