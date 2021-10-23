@@ -1333,3 +1333,6 @@
 [submodule "iOS_Tools/BLCloudStoreUIKit"]
 	path = iOS_Tools/BLCloudStoreUIKit
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreUIKit
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryGoodsSearchResultCategory"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryGoodsSearchResultCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryGoodsSearchResultCategory
