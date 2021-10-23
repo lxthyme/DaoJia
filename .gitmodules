@@ -7,3 +7,6 @@
 [submodule "iOS_Business/BLOrder"]
 	path = iOS_Business/BLOrder
 	url = git@gitlab.bl.com:iOS_Business/BLOrder
+[submodule "iOS_ViewComponents/DJNewModuleHome"]
+	path = iOS_ViewComponents/DJNewModuleHome
+	url = git@gitlab.bl.com:iOS_ViewComponents/DJNewModuleHome
