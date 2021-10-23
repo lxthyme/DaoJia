@@ -580,3 +580,6 @@
 [submodule "iOS_Foundation/BLPrefectureListDataCenter"]
 	path = iOS_Foundation/BLPrefectureListDataCenter
 	url = git@gitlab.bl.com:iOS_Foundation/BLPrefectureListDataCenter
+[submodule "iOS_BusinessCategories/BLBusinessCategoryShareComponent"]
+	path = iOS_BusinessCategories/BLBusinessCategoryShareComponent
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryShareComponent
