@@ -211,3 +211,6 @@
 [submodule "iOS_Foundation/BLRawAPIManager"]
 	path = iOS_Foundation/BLRawAPIManager
 	url = git@gitlab.bl.com:iOS_Foundation/BLRawAPIManager
+[submodule "iOS_Business/BLSensorTrack"]
+	path = iOS_Business/BLSensorTrack
+	url = git@gitlab.bl.com:iOS_Business/BLSensorTrack
