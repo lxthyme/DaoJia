@@ -451,3 +451,6 @@
 [submodule "iOS_ViewComponents/BLGuessLikeGoodsCell"]
 	path = iOS_ViewComponents/BLGuessLikeGoodsCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLGuessLikeGoodsCell
+[submodule "iOS_ViewComponents/BLDragView"]
+	path = iOS_ViewComponents/BLDragView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLDragView
