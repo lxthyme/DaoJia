@@ -934,3 +934,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryJoinGroup"]
 	path = iOS_BusinessCategories/BLBusinessCategoryJoinGroup
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryJoinGroup
+[submodule "iOS_Foundation/BLOpenLoginSDK"]
+	path = iOS_Foundation/BLOpenLoginSDK
+	url = git@gitlab.bl.com:iOS_Foundation/BLOpenLoginSDK
