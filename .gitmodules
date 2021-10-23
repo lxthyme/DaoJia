@@ -346,3 +346,6 @@
 [submodule "iOS_Business/DJNewHomeModule"]
 	path = iOS_Business/DJNewHomeModule
 	url = git@gitlab.bl.com:iOS_Business/DJNewHomeModule
+[submodule "iOS_ViewComponents/BLRefresh"]
+	path = iOS_ViewComponents/BLRefresh
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLRefresh
