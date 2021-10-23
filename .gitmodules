@@ -616,3 +616,6 @@
 [submodule "iOS_Business/BLInviteFriends"]
 	path = iOS_Business/BLInviteFriends
 	url = git@gitlab.bl.com:iOS_Business/BLInviteFriends
+[submodule "iOS_BusinessCategories/DJBusinessCategoryScanBarcodeOrderConfirm"]
+	path = iOS_BusinessCategories/DJBusinessCategoryScanBarcodeOrderConfirm
+	url = git@gitlab.bl.com:iOS_BusinessCategories/DJBusinessCategoryScanBarcodeOrderConfirm
