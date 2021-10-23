@@ -109,3 +109,6 @@
 [submodule "iOS_Business/DJiOSAppImages"]
 	path = iOS_Business/DJiOSAppImages
 	url = git@gitlab.bl.com:iOS_Business/DJiOSAppImages
+[submodule "iOS_Business/BLShare"]
+	path = iOS_Business/BLShare
+	url = git@gitlab.bl.com:iOS_Business/BLShare
