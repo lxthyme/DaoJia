@@ -1696,3 +1696,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryMealListView"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryMealListView
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryMealListView
+[submodule "iOS_Modulization_Demo/LIHaoDemoTarget"]
+	path = iOS_Modulization_Demo/LIHaoDemoTarget
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/LIHaoDemoTarget
