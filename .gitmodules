@@ -322,3 +322,6 @@
 [submodule "iOS_ViewComponents/SDCycleScrollView"]
 	path = iOS_ViewComponents/SDCycleScrollView
 	url = git@gitlab.bl.com:iOS_ViewComponents/SDCycleScrollView
+[submodule "iOS_ViewComponents/BLPagerListView"]
+	path = iOS_ViewComponents/BLPagerListView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPagerListView
