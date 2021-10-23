@@ -1555,3 +1555,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBindCard"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBindCard
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBindCard
+[submodule "iOS_BusinessCategories/BLBusinessCategoryCheckRedCardInfo"]
+	path = iOS_BusinessCategories/BLBusinessCategoryCheckRedCardInfo
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCheckRedCardInfo
