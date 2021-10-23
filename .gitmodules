@@ -1399,3 +1399,6 @@
 [submodule "iOS_BusinessCategories/BLNetworkingCategory"]
 	path = iOS_BusinessCategories/BLNetworkingCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLNetworkingCategory
+[submodule "iOS_BusinessCategories/RisoBusinessCategorySupermarketCategory"]
+	path = iOS_BusinessCategories/RisoBusinessCategorySupermarketCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySupermarketCategory
