@@ -1477,3 +1477,6 @@
 [submodule "iOS_Business/DJProductGoodsDetailViewController"]
 	path = iOS_Business/DJProductGoodsDetailViewController
 	url = git@gitlab.bl.com:iOS_Business/DJProductGoodsDetailViewController
+[submodule "iOS_BusinessCategories/BLBusinessCategoryProductGoodsDetail"]
+	path = iOS_BusinessCategories/BLBusinessCategoryProductGoodsDetail
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryProductGoodsDetail
