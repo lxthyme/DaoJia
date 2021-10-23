@@ -250,3 +250,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryRouterCenter"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryRouterCenter
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryRouterCenter
+[submodule "iOS_Business/BLQualityLifeChannel"]
+	path = iOS_Business/BLQualityLifeChannel
+	url = git@gitlab.bl.com:iOS_Business/BLQualityLifeChannel
