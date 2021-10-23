@@ -1408,3 +1408,6 @@
 [submodule "iOS_ViewComponents/BLOrderConfirmAddressTipView"]
 	path = iOS_ViewComponents/BLOrderConfirmAddressTipView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmAddressTipView
+[submodule "iOS_Tools/BLCloudStoreScanViewController"]
+	path = iOS_Tools/BLCloudStoreScanViewController
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreScanViewController
