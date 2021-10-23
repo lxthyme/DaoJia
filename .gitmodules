@@ -820,3 +820,6 @@
 [submodule "iOS_ViewComponents/BLDaoJiaAlertView"]
 	path = iOS_ViewComponents/BLDaoJiaAlertView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLDaoJiaAlertView
+[submodule "iOS_BusinessCategories/BLBusinessClassificationCategory"]
+	path = iOS_BusinessCategories/BLBusinessClassificationCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessClassificationCategory
