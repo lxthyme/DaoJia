@@ -670,3 +670,6 @@
 [submodule "iOS_ViewComponents/RisoShareModule"]
 	path = iOS_ViewComponents/RisoShareModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoShareModule
+[submodule "iOS_ViewComponents/CTWebViewComponents"]
+	path = iOS_ViewComponents/CTWebViewComponents
+	url = git@gitlab.bl.com:iOS_ViewComponents/CTWebViewComponents
