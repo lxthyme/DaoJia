@@ -619,3 +619,6 @@
 [submodule "iOS_BusinessCategories/DJBusinessCategoryScanBarcodeOrderConfirm"]
 	path = iOS_BusinessCategories/DJBusinessCategoryScanBarcodeOrderConfirm
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJBusinessCategoryScanBarcodeOrderConfirm
+[submodule "iOS_Business/BLReceiveCouponModule"]
+	path = iOS_Business/BLReceiveCouponModule
+	url = git@gitlab.bl.com:iOS_Business/BLReceiveCouponModule
