@@ -445,3 +445,6 @@
 [submodule "iOS_Business/BLPaySuccessful"]
 	path = iOS_Business/BLPaySuccessful
 	url = git@gitlab.bl.com:iOS_Business/BLPaySuccessful
+[submodule "iOS_BusinessCategories/EGOBusinessCategoryRouterCenter"]
+	path = iOS_BusinessCategories/EGOBusinessCategoryRouterCenter
+	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryRouterCenter
