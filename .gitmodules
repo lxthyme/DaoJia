@@ -1390,3 +1390,6 @@
 [submodule "iOS_Tools/GDPerformanceView"]
 	path = iOS_Tools/GDPerformanceView
 	url = git@gitlab.bl.com:iOS_Tools/GDPerformanceView
+[submodule "iOS/BLBuyer"]
+	path = iOS/BLBuyer
+	url = git@gitlab.bl.com:iOS/BLBuyer
