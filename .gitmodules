@@ -472,3 +472,6 @@
 [submodule "iOS_ViewComponents/BLContact"]
 	path = iOS_ViewComponents/BLContact
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLContact
+[submodule "iOS_ViewComponents/EGOTabBarModule"]
+	path = iOS_ViewComponents/EGOTabBarModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/EGOTabBarModule
