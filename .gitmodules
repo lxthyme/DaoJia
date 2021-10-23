@@ -166,3 +166,6 @@
 [submodule "iOS_Business/BLCoupon"]
 	path = iOS_Business/BLCoupon
 	url = git@gitlab.bl.com:iOS_Business/BLCoupon
+[submodule "iOS_Business/BLJoinGroup"]
+	path = iOS_Business/BLJoinGroup
+	url = git@gitlab.bl.com:iOS_Business/BLJoinGroup
