@@ -67,3 +67,6 @@
 [submodule "iOS/BLiOSAppImages"]
 	path = iOS/BLiOSAppImages
 	url = git@gitlab.bl.com:iOS/BLiOSAppImages
+[submodule "iOS_Business/IBLSearchList"]
+	path = iOS_Business/IBLSearchList
+	url = git@gitlab.bl.com:iOS_Business/IBLSearchList
