@@ -568,3 +568,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryDaoJia"]
 	path = iOS_BusinessCategories/BLBusinessCategoryDaoJia
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDaoJia
+[submodule "iOS_BusinessCategories/BLBusinessCategoryDJStoreList"]
+	path = iOS_BusinessCategories/BLBusinessCategoryDJStoreList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJStoreList
