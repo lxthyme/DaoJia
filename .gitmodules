@@ -463,3 +463,6 @@
 [submodule "iOS_ViewComponents/BLPuzzleVerifyModule"]
 	path = iOS_ViewComponents/BLPuzzleVerifyModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLPuzzleVerifyModule
+[submodule "iOS_ViewComponents/BLHorseRaceLampPopView"]
+	path = iOS_ViewComponents/BLHorseRaceLampPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHorseRaceLampPopView
