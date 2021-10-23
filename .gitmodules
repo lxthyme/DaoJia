@@ -490,3 +490,6 @@
 [submodule "iOS_Business/BLEGOLoginAndRegisterViewController"]
 	path = iOS_Business/BLEGOLoginAndRegisterViewController
 	url = git@gitlab.bl.com:iOS_Business/BLEGOLoginAndRegisterViewController
+[submodule "iOS_ViewComponents/BLOrderConfirmRuleAlertView"]
+	path = iOS_ViewComponents/BLOrderConfirmRuleAlertView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmRuleAlertView
