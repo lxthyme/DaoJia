@@ -1450,3 +1450,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessSettingCategory"]
 	path = iOS_BusinessCategories/BLBusinessSettingCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessSettingCategory
+[submodule "iOS_Business/RisoARMoudle"]
+	path = iOS_Business/RisoARMoudle
+	url = git@gitlab.bl.com:iOS_Business/RisoARMoudle
