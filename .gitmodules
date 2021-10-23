@@ -715,3 +715,6 @@
 [submodule "iOS_Business/RisoCommentViewController"]
 	path = iOS_Business/RisoCommentViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoCommentViewController
+[submodule "iOS_Business/RisoExchangeCouponViewController"]
+	path = iOS_Business/RisoExchangeCouponViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoExchangeCouponViewController
