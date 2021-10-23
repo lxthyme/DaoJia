@@ -1675,3 +1675,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLDESOperate"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLDESOperate
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLDESOperate
+[submodule "iOS_Foundation/BLHotPatch"]
+	path = iOS_Foundation/BLHotPatch
+	url = git@gitlab.bl.com:iOS_Foundation/BLHotPatch
