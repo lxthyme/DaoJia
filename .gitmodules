@@ -1471,3 +1471,6 @@
 [submodule "iOS_Foundation/BLBusinessContext"]
 	path = iOS_Foundation/BLBusinessContext
 	url = git@gitlab.bl.com:iOS_Foundation/BLBusinessContext
+[submodule "iOS_Business/BLLaunchTimeAdvertisePage"]
+	path = iOS_Business/BLLaunchTimeAdvertisePage
+	url = git@gitlab.bl.com:iOS_Business/BLLaunchTimeAdvertisePage
