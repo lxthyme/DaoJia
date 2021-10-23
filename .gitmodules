@@ -1348,3 +1348,6 @@
 [submodule "iOS_ViewComponents/M13BadgeView"]
 	path = iOS_ViewComponents/M13BadgeView
 	url = git@gitlab.bl.com:iOS_ViewComponents/M13BadgeView
+[submodule "iOS_Foundation/IBLShareManager"]
+	path = iOS_Foundation/IBLShareManager
+	url = git@gitlab.bl.com:iOS_Foundation/IBLShareManager
