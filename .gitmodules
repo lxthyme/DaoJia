@@ -712,3 +712,6 @@
 [submodule "iOS_ViewComponents/RisoGoodsDetailAddShopCarSKUPopView"]
 	path = iOS_ViewComponents/RisoGoodsDetailAddShopCarSKUPopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailAddShopCarSKUPopView
+[submodule "iOS_Business/RisoCommentViewController"]
+	path = iOS_Business/RisoCommentViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoCommentViewController
