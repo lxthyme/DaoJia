@@ -229,3 +229,6 @@
 [submodule "iOS_ViewComponents/BLGoStoreModule"]
 	path = iOS_ViewComponents/BLGoStoreModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoStoreModule
+[submodule "iOS_Business/BLCouponFloatingView"]
+	path = iOS_Business/BLCouponFloatingView
+	url = git@gitlab.bl.com:iOS_Business/BLCouponFloatingView
