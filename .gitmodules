@@ -409,3 +409,6 @@
 [submodule "iOS_ViewComponents/BLOrderConfirmBottomView"]
 	path = iOS_ViewComponents/BLOrderConfirmBottomView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmBottomView
+[submodule "iOS_Business/DJOrderChooseDeliveryTimeView"]
+	path = iOS_Business/DJOrderChooseDeliveryTimeView
+	url = git@gitlab.bl.com:iOS_Business/DJOrderChooseDeliveryTimeView
