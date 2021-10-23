@@ -142,3 +142,6 @@
 [submodule "iOS_ViewComponents/RisoAlertView"]
 	path = iOS_ViewComponents/RisoAlertView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoAlertView
+[submodule "iOS_Business/BLHomeViewControllers"]
+	path = iOS_Business/BLHomeViewControllers
+	url = git@gitlab.bl.com:iOS_Business/BLHomeViewControllers
