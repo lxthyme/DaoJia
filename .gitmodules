@@ -541,3 +541,6 @@
 [submodule "iOS_Business/RisoGoodsSearchResultViewController"]
 	path = iOS_Business/RisoGoodsSearchResultViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoGoodsSearchResultViewController
+[submodule "iOS_Business/RisoGoodsDetailViewController"]
+	path = iOS_Business/RisoGoodsDetailViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoGoodsDetailViewController
