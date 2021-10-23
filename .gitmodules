@@ -475,3 +475,6 @@
 [submodule "iOS_ViewComponents/EGOTabBarModule"]
 	path = iOS_ViewComponents/EGOTabBarModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOTabBarModule
+[submodule "iOS_Business/EGOOrder"]
+	path = iOS_Business/EGOOrder
+	url = git@gitlab.bl.com:iOS_Business/EGOOrder
