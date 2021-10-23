@@ -1360,3 +1360,6 @@
 [submodule "iOS_Tools/BLCacheCenter"]
 	path = iOS_Tools/BLCacheCenter
 	url = git@gitlab.bl.com:iOS_Tools/BLCacheCenter
+[submodule "iOS_Tools/BLCloudStoreNetworking"]
+	path = iOS_Tools/BLCloudStoreNetworking
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreNetworking
