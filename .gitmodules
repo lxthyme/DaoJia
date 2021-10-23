@@ -1597,3 +1597,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLSearch"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLSearch
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLSearch
+[submodule "iOS_BusinessCategories/BLBusinessCMSWebViewCategory"]
+	path = iOS_BusinessCategories/BLBusinessCMSWebViewCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCMSWebViewCategory
