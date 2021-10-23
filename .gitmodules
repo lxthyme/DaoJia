@@ -343,3 +343,6 @@
 [submodule "iOS_Business/DJPaySuccessful"]
 	path = iOS_Business/DJPaySuccessful
 	url = git@gitlab.bl.com:iOS_Business/DJPaySuccessful
+[submodule "iOS_Business/DJNewHomeModule"]
+	path = iOS_Business/DJNewHomeModule
+	url = git@gitlab.bl.com:iOS_Business/DJNewHomeModule
