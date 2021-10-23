@@ -253,3 +253,6 @@
 [submodule "iOS_Business/BLQualityLifeChannel"]
 	path = iOS_Business/BLQualityLifeChannel
 	url = git@gitlab.bl.com:iOS_Business/BLQualityLifeChannel
+[submodule "iOS_Business/BLDaoJia"]
+	path = iOS_Business/BLDaoJia
+	url = git@gitlab.bl.com:iOS_Business/BLDaoJia
