@@ -952,3 +952,6 @@
 [submodule "iOS_ViewComponents/BLHorScrollGoodsDetailCell"]
 	path = iOS_ViewComponents/BLHorScrollGoodsDetailCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHorScrollGoodsDetailCell
+[submodule "iOS_ViewComponents/RisoOrderConfirmHadIconTableViewCell"]
+	path = iOS_ViewComponents/RisoOrderConfirmHadIconTableViewCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoOrderConfirmHadIconTableViewCell
