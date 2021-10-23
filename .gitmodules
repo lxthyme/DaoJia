@@ -1123,3 +1123,6 @@
 [submodule "iOS_ViewComponents/BLHomeMustBuyListCell"]
 	path = iOS_ViewComponents/BLHomeMustBuyListCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeMustBuyListCell
+[submodule "iOS_ViewComponents/BLHomeExplosionTitleCell"]
+	path = iOS_ViewComponents/BLHomeExplosionTitleCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeExplosionTitleCell
