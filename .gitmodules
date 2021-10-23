@@ -901,3 +901,6 @@
 [submodule "iOS_ViewComponents/RisoRecommendGoodsView"]
 	path = iOS_ViewComponents/RisoRecommendGoodsView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoRecommendGoodsView
+[submodule "iOS_Business/RisoHomePageViewController"]
+	path = iOS_Business/RisoHomePageViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoHomePageViewController
