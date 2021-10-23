@@ -1174,3 +1174,6 @@
 [submodule "iOS_Business/RisoMealListViewController"]
 	path = iOS_Business/RisoMealListViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoMealListViewController
+[submodule "iOS_ViewComponents/RisoShortagePromptPopView"]
+	path = iOS_ViewComponents/RisoShortagePromptPopView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoShortagePromptPopView
