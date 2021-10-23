@@ -1261,3 +1261,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryGlobalBuy"]
 	path = iOS_BusinessCategories/BLBusinessCategoryGlobalBuy
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryGlobalBuy
+[submodule "iOS_BusinessCategories/BLBusinessCategoryAMapAPI"]
+	path = iOS_BusinessCategories/BLBusinessCategoryAMapAPI
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryAMapAPI
