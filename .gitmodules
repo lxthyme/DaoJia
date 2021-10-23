@@ -244,3 +244,6 @@
 [submodule "iOS_Business/RisoPersonalCenterViewController"]
 	path = iOS_Business/RisoPersonalCenterViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoPersonalCenterViewController
+[submodule "iOS_ViewComponents/RisoLoadingView"]
+	path = iOS_ViewComponents/RisoLoadingView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoLoadingView
