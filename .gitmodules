@@ -1732,3 +1732,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryPersonalCenter"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryPersonalCenter
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryPersonalCenter
+[submodule "iOS_BusinessCategories/BLBusinessCategoryFlowLayout"]
+	path = iOS_BusinessCategories/BLBusinessCategoryFlowLayout
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryFlowLayout
