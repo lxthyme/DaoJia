@@ -691,3 +691,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategorySensor"]
 	path = iOS_BusinessCategories/BLBusinessCategorySensor
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySensor
+[submodule "iOS_ViewComponents/BLNetworkOffTips"]
+	path = iOS_ViewComponents/BLNetworkOffTips
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLNetworkOffTips
