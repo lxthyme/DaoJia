@@ -331,3 +331,6 @@
 [submodule "iOS_Business/BLMapModule"]
 	path = iOS_Business/BLMapModule
 	url = git@gitlab.bl.com:iOS_Business/BLMapModule
+[submodule "iOS_ViewComponents/IBLNavigationBar"]
+	path = iOS_ViewComponents/IBLNavigationBar
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLNavigationBar
