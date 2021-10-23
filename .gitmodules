@@ -73,3 +73,6 @@
 [submodule "iOS_ViewComponents/HTHorizontalSelectionList"]
 	path = iOS_ViewComponents/HTHorizontalSelectionList
 	url = git@gitlab.bl.com:iOS_ViewComponents/HTHorizontalSelectionList
+[submodule "iOS_Business/BLUdesk"]
+	path = iOS_Business/BLUdesk
+	url = git@gitlab.bl.com:iOS_Business/BLUdesk
