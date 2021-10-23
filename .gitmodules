@@ -859,3 +859,6 @@
 [submodule "iOS_ViewComponents/BLPaySDK"]
 	path = iOS_ViewComponents/BLPaySDK
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLPaySDK
+[submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrder"]
+	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrder
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrder
