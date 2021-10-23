@@ -106,3 +106,6 @@
 [submodule "iOS_Business/BLShoppingCartModule"]
 	path = iOS_Business/BLShoppingCartModule
 	url = git@gitlab.bl.com:iOS_Business/BLShoppingCartModule
+[submodule "iOS_Business/DJiOSAppImages"]
+	path = iOS_Business/DJiOSAppImages
+	url = git@gitlab.bl.com:iOS_Business/DJiOSAppImages
