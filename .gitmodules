@@ -1558,3 +1558,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryCheckRedCardInfo"]
 	path = iOS_BusinessCategories/BLBusinessCategoryCheckRedCardInfo
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCheckRedCardInfo
+[submodule "iOS_ViewComponents/BLCircleProgress"]
+	path = iOS_ViewComponents/BLCircleProgress
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCircleProgress
