@@ -1285,3 +1285,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryMobileTestClientComponent"]
 	path = iOS_BusinessCategories/BLBusinessCategoryMobileTestClientComponent
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMobileTestClientComponent
+[submodule "iOS_BusinessCategories/BLBusinessCategoryFootMark"]
+	path = iOS_BusinessCategories/BLBusinessCategoryFootMark
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryFootMark
