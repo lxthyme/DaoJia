@@ -868,3 +868,6 @@
 [submodule "iOS_Foundation/BLVideoPlayer"]
 	path = iOS_Foundation/BLVideoPlayer
 	url = git@gitlab.bl.com:iOS_Foundation/BLVideoPlayer
+[submodule "iOS_Tools/BLQRCodeScannerView"]
+	path = iOS_Tools/BLQRCodeScannerView
+	url = git@gitlab.bl.com:iOS_Tools/BLQRCodeScannerView
