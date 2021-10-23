@@ -259,3 +259,6 @@
 [submodule "iOS_Business/DJResourceJumpManager"]
 	path = iOS_Business/DJResourceJumpManager
 	url = git@gitlab.bl.com:iOS_Business/DJResourceJumpManager
+[submodule "iOS_Business/DJHome"]
+	path = iOS_Business/DJHome
+	url = git@gitlab.bl.com:iOS_Business/DJHome
