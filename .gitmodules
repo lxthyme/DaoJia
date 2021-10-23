@@ -169,3 +169,6 @@
 [submodule "iOS_Business/BLJoinGroup"]
 	path = iOS_Business/BLJoinGroup
 	url = git@gitlab.bl.com:iOS_Business/BLJoinGroup
+[submodule "iOS_Business/BLMembershipBenefits"]
+	path = iOS_Business/BLMembershipBenefits
+	url = git@gitlab.bl.com:iOS_Business/BLMembershipBenefits
