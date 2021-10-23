@@ -88,3 +88,6 @@
 [submodule "iOS_ViewComponents/BLFlutterRouterManager"]
 	path = iOS_ViewComponents/BLFlutterRouterManager
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLFlutterRouterManager
+[submodule "iOS_Business/BLMemberSDK"]
+	path = iOS_Business/BLMemberSDK
+	url = git@gitlab.bl.com:iOS_Business/BLMemberSDK
