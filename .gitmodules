@@ -745,3 +745,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryComment"]
 	path = iOS_BusinessCategories/BLBusinessCategoryComment
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryComment
+[submodule "iOS_BusinessCategories/BLBusinessCategoryCloudStore"]
+	path = iOS_BusinessCategories/BLBusinessCategoryCloudStore
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCloudStore
