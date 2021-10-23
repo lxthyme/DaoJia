@@ -1204,3 +1204,6 @@
 [submodule "iOS_ViewComponents/BLAdvertImageCell"]
 	path = iOS_ViewComponents/BLAdvertImageCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLAdvertImageCell
+[submodule "iOS_BusinessCategories/BLBusinessCategoryDJClassifyList"]
+	path = iOS_BusinessCategories/BLBusinessCategoryDJClassifyList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJClassifyList
