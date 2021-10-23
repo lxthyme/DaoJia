@@ -79,3 +79,6 @@
 [submodule "iOS_Foundation/BLDoraemonModule"]
 	path = iOS_Foundation/BLDoraemonModule
 	url = git@gitlab.bl.com:iOS_Foundation/BLDoraemonModule
+[submodule "iOS_Business/BLBusinessProfile"]
+	path = iOS_Business/BLBusinessProfile
+	url = git@gitlab.bl.com:iOS_Business/BLBusinessProfile
