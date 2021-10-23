@@ -1777,3 +1777,6 @@
 [submodule "iOS_Modulization_Demo/YSMPageBViewController"]
 	path = iOS_Modulization_Demo/YSMPageBViewController
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/YSMPageBViewController
+[submodule "iOS_Modulization_Demo/MJPageAViewControllerCategory"]
+	path = iOS_Modulization_Demo/MJPageAViewControllerCategory
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/MJPageAViewControllerCategory
