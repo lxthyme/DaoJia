@@ -196,3 +196,6 @@
 [submodule "iOS_Business/BLWebViewControllers"]
 	path = iOS_Business/BLWebViewControllers
 	url = git@gitlab.bl.com:iOS_Business/BLWebViewControllers
+[submodule "iOS_ViewComponents/IBLToastView"]
+	path = iOS_ViewComponents/IBLToastView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLToastView
