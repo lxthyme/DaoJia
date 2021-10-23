@@ -415,3 +415,6 @@
 [submodule "iOS_Business/BLAddressCRUD"]
 	path = iOS_Business/BLAddressCRUD
 	url = git@gitlab.bl.com:iOS_Business/BLAddressCRUD
+[submodule "iOS_ViewComponents/JTNavigationController"]
+	path = iOS_ViewComponents/JTNavigationController
+	url = git@gitlab.bl.com:iOS_ViewComponents/JTNavigationController
