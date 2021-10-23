@@ -529,3 +529,6 @@
 [submodule "iOS_Foundation/BLDahanSDK"]
 	path = iOS_Foundation/BLDahanSDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLDahanSDK
+[submodule "iOS_Business/BLSelectAddressViewController"]
+	path = iOS_Business/BLSelectAddressViewController
+	url = git@gitlab.bl.com:iOS_Business/BLSelectAddressViewController
