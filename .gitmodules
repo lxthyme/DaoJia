@@ -1042,3 +1042,6 @@
 [submodule "iOS_BusinessCategories/DJBusinessCategoryChooseAddressView"]
 	path = iOS_BusinessCategories/DJBusinessCategoryChooseAddressView
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJBusinessCategoryChooseAddressView
+[submodule "iOS_BusinessCategories/BLBusinessCategorySecondKill"]
+	path = iOS_BusinessCategories/BLBusinessCategorySecondKill
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySecondKill
