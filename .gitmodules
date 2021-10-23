@@ -214,3 +214,6 @@
 [submodule "iOS_Business/BLSensorTrack"]
 	path = iOS_Business/BLSensorTrack
 	url = git@gitlab.bl.com:iOS_Business/BLSensorTrack
+[submodule "iOS_Business/BLCheckRedCardInfo"]
+	path = iOS_Business/BLCheckRedCardInfo
+	url = git@gitlab.bl.com:iOS_Business/BLCheckRedCardInfo
