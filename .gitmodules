@@ -4,3 +4,6 @@
 [submodule "iOS_Business/DJClassifyList"]
 	path = iOS_Business/DJClassifyList
 	url = git@gitlab.bl.com:iOS_Business/DJClassifyList
+[submodule "iOS_Business/BLOrder"]
+	path = iOS_Business/BLOrder
+	url = git@gitlab.bl.com:iOS_Business/BLOrder
