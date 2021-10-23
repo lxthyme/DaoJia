@@ -697,3 +697,6 @@
 [submodule "iOS_Business/RisoScanBuyViewController"]
 	path = iOS_Business/RisoScanBuyViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoScanBuyViewController
+[submodule "iOS_BusinessCategories/BLBusinessCategoryQulityLifeChannel"]
+	path = iOS_BusinessCategories/BLBusinessCategoryQulityLifeChannel
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryQulityLifeChannel
