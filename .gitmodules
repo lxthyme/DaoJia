@@ -1276,3 +1276,6 @@
 [submodule "iOS_Foundation/BLExceptionKiller"]
 	path = iOS_Foundation/BLExceptionKiller
 	url = git@gitlab.bl.com:iOS_Foundation/BLExceptionKiller
+[submodule "iOS_Tools/BLScreenBrightnessTool"]
+	path = iOS_Tools/BLScreenBrightnessTool
+	url = git@gitlab.bl.com:iOS_Tools/BLScreenBrightnessTool
