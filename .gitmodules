@@ -154,3 +154,6 @@
 [submodule "iOS_Business/DJOrderConfirm"]
 	path = iOS_Business/DJOrderConfirm
 	url = git@gitlab.bl.com:iOS_Business/DJOrderConfirm
+[submodule "iOS_Business/DJChooseAddressView"]
+	path = iOS_Business/DJChooseAddressView
+	url = git@gitlab.bl.com:iOS_Business/DJChooseAddressView
