@@ -799,3 +799,6 @@
 [submodule "iOS_BusinessCategories/EGOBusinessCategoryLogin"]
 	path = iOS_BusinessCategories/EGOBusinessCategoryLogin
 	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryLogin
+[submodule "iOS_BusinessCategories/EGOBusinessCategoryAliMe"]
+	path = iOS_BusinessCategories/EGOBusinessCategoryAliMe
+	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryAliMe
