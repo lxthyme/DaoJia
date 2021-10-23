@@ -535,3 +535,6 @@
 [submodule "iOS_Business/RisoSelfServiceOrderPaySuccess"]
 	path = iOS_Business/RisoSelfServiceOrderPaySuccess
 	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceOrderPaySuccess
+[submodule "iOS_Business/RisoScanBuyPaySuccess"]
+	path = iOS_Business/RisoScanBuyPaySuccess
+	url = git@gitlab.bl.com:iOS_Business/RisoScanBuyPaySuccess
