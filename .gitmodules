@@ -418,3 +418,6 @@
 [submodule "iOS_ViewComponents/JTNavigationController"]
 	path = iOS_ViewComponents/JTNavigationController
 	url = git@gitlab.bl.com:iOS_ViewComponents/JTNavigationController
+[submodule "iOS_Business/BLTagGoodsListView"]
+	path = iOS_Business/BLTagGoodsListView
+	url = git@gitlab.bl.com:iOS_Business/BLTagGoodsListView
