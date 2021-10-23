@@ -1681,3 +1681,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryDAMod"]
 	path = iOS_BusinessCategories/BLBusinessCategoryDAMod
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDAMod
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryOrderConfirm"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryOrderConfirm
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryOrderConfirm
