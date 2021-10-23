@@ -1642,3 +1642,6 @@
 [submodule "iOS_Modulization_Demo/TestMJ"]
 	path = iOS_Modulization_Demo/TestMJ
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/TestMJ
+[submodule "iOS_Modulization_Demo/AAA"]
+	path = iOS_Modulization_Demo/AAA
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/AAA
