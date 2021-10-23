@@ -1153,3 +1153,6 @@
 [submodule "iOS_Tools/BLHomeBaseViewModel"]
 	path = iOS_Tools/BLHomeBaseViewModel
 	url = git@gitlab.bl.com:iOS_Tools/BLHomeBaseViewModel
+[submodule "iOS_ViewComponents/BLCommentDetailCell"]
+	path = iOS_ViewComponents/BLCommentDetailCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCommentDetailCell
