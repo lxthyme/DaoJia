@@ -1240,3 +1240,6 @@
 [submodule "iOS_Tools/BLTimer"]
 	path = iOS_Tools/BLTimer
 	url = git@gitlab.bl.com:iOS_Tools/BLTimer
+[submodule "iOS_Business/BLRecommendController"]
+	path = iOS_Business/BLRecommendController
+	url = git@gitlab.bl.com:iOS_Business/BLRecommendController
