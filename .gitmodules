@@ -949,3 +949,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryAdvertResource"]
 	path = iOS_BusinessCategories/BLBusinessCategoryAdvertResource
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryAdvertResource
+[submodule "iOS_ViewComponents/BLHorScrollGoodsDetailCell"]
+	path = iOS_ViewComponents/BLHorScrollGoodsDetailCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHorScrollGoodsDetailCell
