@@ -145,3 +145,6 @@
 [submodule "iOS_Business/BLHomeViewControllers"]
 	path = iOS_Business/BLHomeViewControllers
 	url = git@gitlab.bl.com:iOS_Business/BLHomeViewControllers
+[submodule "iOS_Business/RisoOrderDetailViewController"]
+	path = iOS_Business/RisoOrderDetailViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoOrderDetailViewController
