@@ -1081,3 +1081,6 @@
 [submodule "iOS_Business/DJHomeCategory"]
 	path = iOS_Business/DJHomeCategory
 	url = git@gitlab.bl.com:iOS_Business/DJHomeCategory
+[submodule "iOS_Business/BLHomePageGlobalBuyController"]
+	path = iOS_Business/BLHomePageGlobalBuyController
+	url = git@gitlab.bl.com:iOS_Business/BLHomePageGlobalBuyController
