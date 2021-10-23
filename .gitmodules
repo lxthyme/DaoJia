@@ -505,3 +505,6 @@
 [submodule "iOS_BusinessCategories/DJAMapForStoreList_Category"]
 	path = iOS_BusinessCategories/DJAMapForStoreList_Category
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJAMapForStoreList_Category
+[submodule "iOS_BusinessCategories/DJActivityGoodsListCategory"]
+	path = iOS_BusinessCategories/DJActivityGoodsListCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/DJActivityGoodsListCategory
