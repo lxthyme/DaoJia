@@ -1315,3 +1315,6 @@
 [submodule "iOS_Foundation/BLBankABC"]
 	path = iOS_Foundation/BLBankABC
 	url = git@gitlab.bl.com:iOS_Foundation/BLBankABC
+[submodule "iOS_ViewComponents/BLAutoScrollBannerSectionView"]
+	path = iOS_ViewComponents/BLAutoScrollBannerSectionView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLAutoScrollBannerSectionView
