@@ -1561,3 +1561,6 @@
 [submodule "iOS_ViewComponents/BLCircleProgress"]
 	path = iOS_ViewComponents/BLCircleProgress
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCircleProgress
+[submodule "iOS_Foundation/RisoShareSDK"]
+	path = iOS_Foundation/RisoShareSDK
+	url = git@gitlab.bl.com:iOS_Foundation/RisoShareSDK
