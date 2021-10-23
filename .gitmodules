@@ -304,3 +304,6 @@
 [submodule "iOS_Business/RisoScanBuyOrderConfirmViewController"]
 	path = iOS_Business/RisoScanBuyOrderConfirmViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoScanBuyOrderConfirmViewController
+[submodule "iOS_Business/RisoSelfServiceOrderConfirm"]
+	path = iOS_Business/RisoSelfServiceOrderConfirm
+	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceOrderConfirm
