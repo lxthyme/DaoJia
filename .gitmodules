@@ -274,3 +274,6 @@
 [submodule "iOS_ViewComponents/RisoGoodsDetailBottomAddShopBasketView"]
 	path = iOS_ViewComponents/RisoGoodsDetailBottomAddShopBasketView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoGoodsDetailBottomAddShopBasketView
+[submodule "iOS_Business/BLViewDownloadsInvoice"]
+	path = iOS_Business/BLViewDownloadsInvoice
+	url = git@gitlab.bl.com:iOS_Business/BLViewDownloadsInvoice
