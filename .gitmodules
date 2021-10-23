@@ -406,3 +406,6 @@
 [submodule "iOS_DataCenters/BLBasketDataCenter"]
 	path = iOS_DataCenters/BLBasketDataCenter
 	url = git@gitlab.bl.com:iOS_DataCenters/BLBasketDataCenter
+[submodule "iOS_ViewComponents/BLOrderConfirmBottomView"]
+	path = iOS_ViewComponents/BLOrderConfirmBottomView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmBottomView
