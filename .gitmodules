@@ -1243,3 +1243,6 @@
 [submodule "iOS_Business/BLRecommendController"]
 	path = iOS_Business/BLRecommendController
 	url = git@gitlab.bl.com:iOS_Business/BLRecommendController
+[submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderGoodList"]
+	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderGoodList
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderGoodList
