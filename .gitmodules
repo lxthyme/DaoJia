@@ -1225,3 +1225,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryResourceRecorder"]
 	path = iOS_BusinessCategories/BLBusinessCategoryResourceRecorder
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryResourceRecorder
+[submodule "iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderDetail"]
+	path = iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderDetail
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySelfServiceOrderDetail
