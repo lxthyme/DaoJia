@@ -1207,3 +1207,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryDJClassifyList"]
 	path = iOS_BusinessCategories/BLBusinessCategoryDJClassifyList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJClassifyList
+[submodule "iOS_Foundation/BLZbar"]
+	path = iOS_Foundation/BLZbar
+	url = git@gitlab.bl.com:iOS_Foundation/BLZbar
