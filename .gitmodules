@@ -436,3 +436,6 @@
 [submodule "iOS_Tools/HandyFrame"]
 	path = iOS_Tools/HandyFrame
 	url = git@gitlab.bl.com:iOS_Tools/HandyFrame
+[submodule "iOS_ViewComponents/BLCloudStoreChannelModule"]
+	path = iOS_ViewComponents/BLCloudStoreChannelModule
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCloudStoreChannelModule
