@@ -1810,3 +1810,6 @@
 [submodule "iOS_Modulization_Demo/CasaPageBViewControllerCategory"]
 	path = iOS_Modulization_Demo/CasaPageBViewControllerCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/CasaPageBViewControllerCategory
+[submodule "iOS_Foundation/CTWebView"]
+	path = iOS_Foundation/CTWebView
+	url = git@gitlab.bl.com:iOS_Foundation/CTWebView
