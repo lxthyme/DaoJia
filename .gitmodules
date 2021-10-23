@@ -319,3 +319,6 @@
 [submodule "iOS_Business/BLProductCommentView"]
 	path = iOS_Business/BLProductCommentView
 	url = git@gitlab.bl.com:iOS_Business/BLProductCommentView
+[submodule "iOS_ViewComponents/SDCycleScrollView"]
+	path = iOS_ViewComponents/SDCycleScrollView
+	url = git@gitlab.bl.com:iOS_ViewComponents/SDCycleScrollView
