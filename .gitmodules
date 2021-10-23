@@ -808,3 +808,6 @@
 [submodule "iOS_BusinessCategories/DJBusinessCategoryCouponApplicableGoods"]
 	path = iOS_BusinessCategories/DJBusinessCategoryCouponApplicableGoods
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJBusinessCategoryCouponApplicableGoods
+[submodule "iOS_BusinessCategories/EGOBusinessCategoryPersonal"]
+	path = iOS_BusinessCategories/EGOBusinessCategoryPersonal
+	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryPersonal
