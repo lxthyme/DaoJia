@@ -754,3 +754,6 @@
 [submodule "iOS_ViewComponents/IBLOrderConfirmAlertView"]
 	path = iOS_ViewComponents/IBLOrderConfirmAlertView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLOrderConfirmAlertView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLShare"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLShare
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLShare
