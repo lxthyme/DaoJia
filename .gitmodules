@@ -1252,3 +1252,6 @@
 [submodule "iOS_ViewComponents/BLOrderConfirmTableViewCells"]
 	path = iOS_ViewComponents/BLOrderConfirmTableViewCells
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmTableViewCells
+[submodule "iOS_ViewComponents/BLAutoScrollBannerHeaderView"]
+	path = iOS_ViewComponents/BLAutoScrollBannerHeaderView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLAutoScrollBannerHeaderView
