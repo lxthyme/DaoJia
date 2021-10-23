@@ -148,3 +148,6 @@
 [submodule "iOS_Business/RisoOrderDetailViewController"]
 	path = iOS_Business/RisoOrderDetailViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoOrderDetailViewController
+[submodule "iOS_Foundation/CTAppContext_BaiLian"]
+	path = iOS_Foundation/CTAppContext_BaiLian
+	url = git@gitlab.bl.com:iOS_Foundation/CTAppContext_BaiLian
