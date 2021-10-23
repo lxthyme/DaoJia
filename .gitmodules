@@ -1507,3 +1507,6 @@
 [submodule "iOS_Business/RisoARViewController"]
 	path = iOS_Business/RisoARViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoARViewController
+[submodule "iOS_Tools/TXIM"]
+	path = iOS_Tools/TXIM
+	url = git@gitlab.bl.com:iOS_Tools/TXIM
