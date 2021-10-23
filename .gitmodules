@@ -970,3 +970,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryActivityGoodsList"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryActivityGoodsList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryActivityGoodsList
+[submodule "iOS_Modulization_Demo/XBtest"]
+	path = iOS_Modulization_Demo/XBtest
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/XBtest
