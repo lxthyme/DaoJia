@@ -1264,3 +1264,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryAMapAPI"]
 	path = iOS_BusinessCategories/BLBusinessCategoryAMapAPI
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryAMapAPI
+[submodule "iOS_Business/BLHomePageBoutiqueController"]
+	path = iOS_Business/BLHomePageBoutiqueController
+	url = git@gitlab.bl.com:iOS_Business/BLHomePageBoutiqueController
