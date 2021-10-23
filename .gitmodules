@@ -1630,3 +1630,6 @@
 [submodule "iOS_Modulization_Demo/BL_Atest"]
 	path = iOS_Modulization_Demo/BL_Atest
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/BL_Atest
+[submodule "iOS_Foundation/PocketSocket"]
+	path = iOS_Foundation/PocketSocket
+	url = git@gitlab.bl.com:iOS_Foundation/PocketSocket
