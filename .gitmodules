@@ -1636,3 +1636,6 @@
 [submodule "iOS_Foundation/CTAPIManagerSearchViewController"]
 	path = iOS_Foundation/CTAPIManagerSearchViewController
 	url = git@gitlab.bl.com:iOS_Foundation/CTAPIManagerSearchViewController
+[submodule "iOS_Modulization_Demo/Acontroller"]
+	path = iOS_Modulization_Demo/Acontroller
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/Acontroller
