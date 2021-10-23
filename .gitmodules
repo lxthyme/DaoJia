@@ -295,3 +295,6 @@
 [submodule "iOS/RisoCouponListViewController"]
 	path = iOS/RisoCouponListViewController
 	url = git@gitlab.bl.com:iOS/RisoCouponListViewController
+[submodule "iOS_Foundation/BLDataCenterModule"]
+	path = iOS_Foundation/BLDataCenterModule
+	url = git@gitlab.bl.com:iOS_Foundation/BLDataCenterModule
