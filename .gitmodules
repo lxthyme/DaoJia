@@ -589,3 +589,6 @@
 [submodule "iOS_Tools/BLLinkedMeModule"]
 	path = iOS_Tools/BLLinkedMeModule
 	url = git@gitlab.bl.com:iOS_Tools/BLLinkedMeModule
+[submodule "iOS_Business/BLFindClassPage"]
+	path = iOS_Business/BLFindClassPage
+	url = git@gitlab.bl.com:iOS_Business/BLFindClassPage
