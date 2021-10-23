@@ -685,3 +685,6 @@
 [submodule "iOS_Business/RisoFlashSaleModule"]
 	path = iOS_Business/RisoFlashSaleModule
 	url = git@gitlab.bl.com:iOS_Business/RisoFlashSaleModule
+[submodule "iOS_ViewComponents/BLSecurePasswordAlertView"]
+	path = iOS_ViewComponents/BLSecurePasswordAlertView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLSecurePasswordAlertView
