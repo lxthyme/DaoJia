@@ -1420,3 +1420,6 @@
 [submodule "iOS_Modulization_Demo/BLSencondViewController"]
 	path = iOS_Modulization_Demo/BLSencondViewController
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/BLSencondViewController
+[submodule "iOS_Tools/BLCloudStoreCryptorManager"]
+	path = iOS_Tools/BLCloudStoreCryptorManager
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreCryptorManager
