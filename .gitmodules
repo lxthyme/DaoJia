@@ -1594,3 +1594,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryBLScanner"]
 	path = iOS_BusinessCategories/BLBusinessCategoryBLScanner
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLScanner
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLSearch"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLSearch
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLSearch
