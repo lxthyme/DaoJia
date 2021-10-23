@@ -184,3 +184,6 @@
 [submodule "iOS_ViewComponents/RisoPagerListView"]
 	path = iOS_ViewComponents/RisoPagerListView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoPagerListView
+[submodule "iOS_Business/DJProductDetailView"]
+	path = iOS_Business/DJProductDetailView
+	url = git@gitlab.bl.com:iOS_Business/DJProductDetailView
