@@ -1624,3 +1624,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryWebView"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryWebView
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryWebView
+[submodule "iOS_Modulization_Demo/BL_CtestCatgary"]
+	path = iOS_Modulization_Demo/BL_CtestCatgary
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/BL_CtestCatgary
