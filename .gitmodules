@@ -496,3 +496,6 @@
 [submodule "iOS_Business/EGOPersonalCenter"]
 	path = iOS_Business/EGOPersonalCenter
 	url = git@gitlab.bl.com:iOS_Business/EGOPersonalCenter
+[submodule "iOS_Foundation/BLUnionPay"]
+	path = iOS_Foundation/BLUnionPay
+	url = git@gitlab.bl.com:iOS_Foundation/BLUnionPay
