@@ -1120,3 +1120,6 @@
 [submodule "iOS_ViewComponents/BLHomePageFindView"]
 	path = iOS_ViewComponents/BLHomePageFindView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageFindView
+[submodule "iOS_ViewComponents/BLHomeMustBuyListCell"]
+	path = iOS_ViewComponents/BLHomeMustBuyListCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomeMustBuyListCell
