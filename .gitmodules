@@ -1669,3 +1669,6 @@
 [submodule "iOS_Tools/DAMod"]
 	path = iOS_Tools/DAMod
 	url = git@gitlab.bl.com:iOS_Tools/DAMod
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryOrderDetail"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryOrderDetail
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryOrderDetail
