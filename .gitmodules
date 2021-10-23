@@ -1519,3 +1519,6 @@
 [submodule "iOS_ViewComponents/BLGoodsDetailSpecificationView"]
 	path = iOS_ViewComponents/BLGoodsDetailSpecificationView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoodsDetailSpecificationView
+[submodule "iOS_ViewComponents/RisoScrollTitleView"]
+	path = iOS_ViewComponents/RisoScrollTitleView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoScrollTitleView
