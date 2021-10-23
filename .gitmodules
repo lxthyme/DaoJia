@@ -220,3 +220,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryRouterCenter"]
 	path = iOS_BusinessCategories/BLBusinessCategoryRouterCenter
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryRouterCenter
+[submodule "iOS_Foundation/BLWeChatSDK"]
+	path = iOS_Foundation/BLWeChatSDK
+	url = git@gitlab.bl.com:iOS_Foundation/BLWeChatSDK
