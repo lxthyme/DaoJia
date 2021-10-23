@@ -838,3 +838,6 @@
 [submodule "iOS_Foundation/BLMediator"]
 	path = iOS_Foundation/BLMediator
 	url = git@gitlab.bl.com:iOS_Foundation/BLMediator
+[submodule "iOS_Foundation/AmapAPIManager"]
+	path = iOS_Foundation/AmapAPIManager
+	url = git@gitlab.bl.com:iOS_Foundation/AmapAPIManager
