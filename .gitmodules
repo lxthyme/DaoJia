@@ -283,3 +283,6 @@
 [submodule "iOS_Business/BLSeeLikeMoudle"]
 	path = iOS_Business/BLSeeLikeMoudle
 	url = git@gitlab.bl.com:iOS_Business/BLSeeLikeMoudle
+[submodule "iOS_Business/BLVip"]
+	path = iOS_Business/BLVip
+	url = git@gitlab.bl.com:iOS_Business/BLVip
