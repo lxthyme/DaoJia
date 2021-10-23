@@ -700,3 +700,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryQulityLifeChannel"]
 	path = iOS_BusinessCategories/BLBusinessCategoryQulityLifeChannel
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryQulityLifeChannel
+[submodule "iOS_Business/RisoSensorTrack"]
+	path = iOS_Business/RisoSensorTrack
+	url = git@gitlab.bl.com:iOS_Business/RisoSensorTrack
