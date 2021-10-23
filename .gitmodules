@@ -553,3 +553,6 @@
 [submodule "iOS_Foundation/CTAppContext"]
 	path = iOS_Foundation/CTAppContext
 	url = git@gitlab.bl.com:iOS_Foundation/CTAppContext
+[submodule "iOS_Business/RisoQRScanViewController"]
+	path = iOS_Business/RisoQRScanViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoQRScanViewController
