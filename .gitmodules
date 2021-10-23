@@ -502,3 +502,6 @@
 [submodule "iOS_ViewComponents/EGOAfterSaleModule"]
 	path = iOS_ViewComponents/EGOAfterSaleModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOAfterSaleModule
+[submodule "iOS_BusinessCategories/DJAMapForStoreList_Category"]
+	path = iOS_BusinessCategories/DJAMapForStoreList_Category
+	url = git@gitlab.bl.com:iOS_BusinessCategories/DJAMapForStoreList_Category
