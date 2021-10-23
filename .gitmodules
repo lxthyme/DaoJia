@@ -439,3 +439,6 @@
 [submodule "iOS_ViewComponents/BLCloudStoreChannelModule"]
 	path = iOS_ViewComponents/BLCloudStoreChannelModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCloudStoreChannelModule
+[submodule "iOS_Business/BLFresh"]
+	path = iOS_Business/BLFresh
+	url = git@gitlab.bl.com:iOS_Business/BLFresh
