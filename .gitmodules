@@ -1654,3 +1654,6 @@
 [submodule "iOS_Foundation/BLBaseAppContext"]
 	path = iOS_Foundation/BLBaseAppContext
 	url = git@gitlab.bl.com:iOS_Foundation/BLBaseAppContext
+[submodule "iOS_BusinessCategories/FlashSaleCategory"]
+	path = iOS_BusinessCategories/FlashSaleCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/FlashSaleCategory
