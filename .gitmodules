@@ -586,3 +586,6 @@
 [submodule "iOS_Business/RisoActivityGoodsList"]
 	path = iOS_Business/RisoActivityGoodsList
 	url = git@gitlab.bl.com:iOS_Business/RisoActivityGoodsList
+[submodule "iOS_Tools/BLLinkedMeModule"]
+	path = iOS_Tools/BLLinkedMeModule
+	url = git@gitlab.bl.com:iOS_Tools/BLLinkedMeModule
