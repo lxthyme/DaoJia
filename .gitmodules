@@ -1525,3 +1525,6 @@
 [submodule "iOS_ViewComponents/RisoSearchTextField"]
 	path = iOS_ViewComponents/RisoSearchTextField
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSearchTextField
+[submodule "iOS_ViewComponents/VerticalAlignmentLabel"]
+	path = iOS_ViewComponents/VerticalAlignmentLabel
+	url = git@gitlab.bl.com:iOS_ViewComponents/VerticalAlignmentLabel
