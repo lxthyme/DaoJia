@@ -1798,3 +1798,6 @@
 [submodule "iOS_Modulization_Demo/YearwenPageAViewControllerCategory"]
 	path = iOS_Modulization_Demo/YearwenPageAViewControllerCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/YearwenPageAViewControllerCategory
+[submodule "iOS_Modulization_Demo/MainProject"]
+	path = iOS_Modulization_Demo/MainProject
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/MainProject
