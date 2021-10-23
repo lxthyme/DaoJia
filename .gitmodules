@@ -1423,3 +1423,6 @@
 [submodule "iOS_Tools/BLCloudStoreCryptorManager"]
 	path = iOS_Tools/BLCloudStoreCryptorManager
 	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreCryptorManager
+[submodule "iOS_Tools/BLCloudStoreDviceManager"]
+	path = iOS_Tools/BLCloudStoreDviceManager
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreDviceManager
