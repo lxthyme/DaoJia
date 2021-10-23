@@ -1720,3 +1720,6 @@
 [submodule "iOS_ViewComponents/BLTwoBallRotationView"]
 	path = iOS_ViewComponents/BLTwoBallRotationView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLTwoBallRotationView
+[submodule "iOS_ViewComponents/BLRangeSlider"]
+	path = iOS_ViewComponents/BLRangeSlider
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLRangeSlider
