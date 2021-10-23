@@ -1099,3 +1099,6 @@
 [submodule "iOS_ViewComponents/BLSnapEveryDayCell"]
 	path = iOS_ViewComponents/BLSnapEveryDayCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLSnapEveryDayCell
+[submodule "iOS_ViewComponents/BLPopDownMenu"]
+	path = iOS_ViewComponents/BLPopDownMenu
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLPopDownMenu
