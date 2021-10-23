@@ -1441,3 +1441,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryPayEntrance"]
 	path = iOS_BusinessCategories/BLBusinessCategoryPayEntrance
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPayEntrance
+[submodule "iOS_Tools/BLCategoryCloudStoreSoundManager"]
+	path = iOS_Tools/BLCategoryCloudStoreSoundManager
+	url = git@gitlab.bl.com:iOS_Tools/BLCategoryCloudStoreSoundManager
