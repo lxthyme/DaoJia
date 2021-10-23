@@ -469,3 +469,6 @@
 [submodule "iOS_Business/RisoLoginAndRegisterViewController"]
 	path = iOS_Business/RisoLoginAndRegisterViewController
 	url = git@gitlab.bl.com:iOS_Business/RisoLoginAndRegisterViewController
+[submodule "iOS_ViewComponents/BLContact"]
+	path = iOS_ViewComponents/BLContact
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLContact
