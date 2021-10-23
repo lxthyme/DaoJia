@@ -1168,3 +1168,6 @@
 [submodule "iOS_ViewComponents/IBLBasketAddCountView"]
 	path = iOS_ViewComponents/IBLBasketAddCountView
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLBasketAddCountView
+[submodule "iOS_ViewComponents/BLHomePageNavigationBar"]
+	path = iOS_ViewComponents/BLHomePageNavigationBar
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageNavigationBar
