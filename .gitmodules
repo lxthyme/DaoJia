@@ -163,3 +163,6 @@
 [submodule "iOS_Business/DJAddressManageModule"]
 	path = iOS_Business/DJAddressManageModule
 	url = git@gitlab.bl.com:iOS_Business/DJAddressManageModule
+[submodule "iOS_Business/BLCoupon"]
+	path = iOS_Business/BLCoupon
+	url = git@gitlab.bl.com:iOS_Business/BLCoupon
