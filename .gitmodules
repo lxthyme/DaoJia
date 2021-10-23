@@ -637,3 +637,6 @@
 [submodule "iOS/BLToolbox"]
 	path = iOS/BLToolbox
 	url = git@gitlab.bl.com:iOS/BLToolbox
+[submodule "iOS_BusinessCategories/BLNengBusinessCategory"]
+	path = iOS_BusinessCategories/BLNengBusinessCategory
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLNengBusinessCategory
