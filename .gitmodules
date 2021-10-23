@@ -328,3 +328,6 @@
 [submodule "iOS_ViewComponents/RisoLaunchAdModule"]
 	path = iOS_ViewComponents/RisoLaunchAdModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoLaunchAdModule
+[submodule "iOS_Business/BLMapModule"]
+	path = iOS_Business/BLMapModule
+	url = git@gitlab.bl.com:iOS_Business/BLMapModule
