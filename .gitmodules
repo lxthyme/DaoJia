@@ -1024,3 +1024,6 @@
 [submodule "iOS_Business/BLReceiveCoupon"]
 	path = iOS_Business/BLReceiveCoupon
 	url = git@gitlab.bl.com:iOS_Business/BLReceiveCoupon
+[submodule "iOS_Business/BLGlobalBuyPage"]
+	path = iOS_Business/BLGlobalBuyPage
+	url = git@gitlab.bl.com:iOS_Business/BLGlobalBuyPage
