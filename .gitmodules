@@ -769,3 +769,6 @@
 [submodule "iOS_BusinessCategories/IBLSearchListCategory"]
 	path = iOS_BusinessCategories/IBLSearchListCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/IBLSearchListCategory
+[submodule "iOS_BusinessCategories/BLBusinessCategoryPanicBuyEveryDay"]
+	path = iOS_BusinessCategories/BLBusinessCategoryPanicBuyEveryDay
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryPanicBuyEveryDay
