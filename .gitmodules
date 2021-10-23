@@ -775,3 +775,6 @@
 [submodule "iOS_ViewComponents/EGOBShareModule"]
 	path = iOS_ViewComponents/EGOBShareModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOBShareModule
+[submodule "iOS_BusinessCategories/BLBusinessCategoryLogin"]
+	path = iOS_BusinessCategories/BLBusinessCategoryLogin
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryLogin
