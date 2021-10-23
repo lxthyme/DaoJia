@@ -883,3 +883,6 @@
 [submodule "iOS_Tools/BLKeychainManager"]
 	path = iOS_Tools/BLKeychainManager
 	url = git@gitlab.bl.com:iOS_Tools/BLKeychainManager
+[submodule "iOS_ViewComponents/RisoDatePickerView"]
+	path = iOS_ViewComponents/RisoDatePickerView
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoDatePickerView
