@@ -1591,3 +1591,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryOrderList"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryOrderList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryOrderList
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLScanner"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLScanner
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLScanner
