@@ -1279,3 +1279,6 @@
 [submodule "iOS_Tools/BLScreenBrightnessTool"]
 	path = iOS_Tools/BLScreenBrightnessTool
 	url = git@gitlab.bl.com:iOS_Tools/BLScreenBrightnessTool
+[submodule "iOS_BusinessCategories/BLBusinessCategorySeeLikePage"]
+	path = iOS_BusinessCategories/BLBusinessCategorySeeLikePage
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySeeLikePage
