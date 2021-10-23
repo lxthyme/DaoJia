@@ -448,3 +448,6 @@
 [submodule "iOS_BusinessCategories/EGOBusinessCategoryRouterCenter"]
 	path = iOS_BusinessCategories/EGOBusinessCategoryRouterCenter
 	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryRouterCenter
+[submodule "iOS_ViewComponents/BLGuessLikeGoodsCell"]
+	path = iOS_ViewComponents/BLGuessLikeGoodsCell
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLGuessLikeGoodsCell
