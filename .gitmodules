@@ -1531,3 +1531,6 @@
 [submodule "iOS_Business/BLSearchResultView"]
 	path = iOS_Business/BLSearchResultView
 	url = git@gitlab.bl.com:iOS_Business/BLSearchResultView
+[submodule "iOS_Tools/BLHomePageDownRefreshHeader"]
+	path = iOS_Tools/BLHomePageDownRefreshHeader
+	url = git@gitlab.bl.com:iOS_Tools/BLHomePageDownRefreshHeader
