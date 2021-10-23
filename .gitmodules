@@ -1135,3 +1135,6 @@
 [submodule "iOS_ViewComponents/BLGoodGoodsRecommendCell"]
 	path = iOS_ViewComponents/BLGoodGoodsRecommendCell
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoodGoodsRecommendCell
+[submodule "iOS_ViewComponents/BLFourHouseView"]
+	path = iOS_ViewComponents/BLFourHouseView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLFourHouseView
