@@ -1567,3 +1567,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryAvtivityWebView"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryAvtivityWebView
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryAvtivityWebView
+[submodule "iOS_Business/BLJenkinsBuild"]
+	path = iOS_Business/BLJenkinsBuild
+	url = git@gitlab.bl.com:iOS_Business/BLJenkinsBuild
