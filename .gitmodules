@@ -571,3 +571,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryDJStoreList"]
 	path = iOS_BusinessCategories/BLBusinessCategoryDJStoreList
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryDJStoreList
+[submodule "iOS_Business/RisoSelfServiceGoodsList"]
+	path = iOS_Business/RisoSelfServiceGoodsList
+	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceGoodsList
