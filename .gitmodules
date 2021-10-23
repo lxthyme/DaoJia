@@ -595,3 +595,6 @@
 [submodule "iOS_Business/BLNengServiceBusiness"]
 	path = iOS_Business/BLNengServiceBusiness
 	url = git@gitlab.bl.com:iOS_Business/BLNengServiceBusiness
+[submodule "iOS_Tools/CTH5TestSuite"]
+	path = iOS_Tools/CTH5TestSuite
+	url = git@gitlab.bl.com:iOS_Tools/CTH5TestSuite
