@@ -763,3 +763,6 @@
 [submodule "iOS_Foundation/BLAPPInfoModule"]
 	path = iOS_Foundation/BLAPPInfoModule
 	url = git@gitlab.bl.com:iOS_Foundation/BLAPPInfoModule
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryPayment"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryPayment
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryPayment
