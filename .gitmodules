@@ -1375,3 +1375,6 @@
 [submodule "iOS_BusinessCategories/BLQRCodeScannerBusinessCategory"]
 	path = iOS_BusinessCategories/BLQRCodeScannerBusinessCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLQRCodeScannerBusinessCategory
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryLogin"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryLogin
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryLogin
