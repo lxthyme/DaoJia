@@ -1510,3 +1510,6 @@
 [submodule "iOS_Tools/TXIM"]
 	path = iOS_Tools/TXIM
 	url = git@gitlab.bl.com:iOS_Tools/TXIM
+[submodule "iOS_Business/ComponentTest"]
+	path = iOS_Business/ComponentTest
+	url = git@gitlab.bl.com:iOS_Business/ComponentTest
