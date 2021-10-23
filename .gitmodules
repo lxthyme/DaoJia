@@ -1549,3 +1549,6 @@
 [submodule "iOS_Modulization_Demo/Demo_test_category"]
 	path = iOS_Modulization_Demo/Demo_test_category
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/Demo_test_category
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryComment"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryComment
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryComment
