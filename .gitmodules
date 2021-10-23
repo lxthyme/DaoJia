@@ -280,3 +280,6 @@
 [submodule "iOS_Tools/ConfigPrivatePodScript"]
 	path = iOS_Tools/ConfigPrivatePodScript
 	url = git@gitlab.bl.com:iOS_Tools/ConfigPrivatePodScript
+[submodule "iOS_Business/BLSeeLikeMoudle"]
+	path = iOS_Business/BLSeeLikeMoudle
+	url = git@gitlab.bl.com:iOS_Business/BLSeeLikeMoudle
