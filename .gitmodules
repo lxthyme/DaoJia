@@ -10,3 +10,6 @@
 [submodule "iOS_ViewComponents/DJNewModuleHome"]
 	path = iOS_ViewComponents/DJNewModuleHome
 	url = git@gitlab.bl.com:iOS_ViewComponents/DJNewModuleHome
+[submodule "iOS_Business/DJOrderListView"]
+	path = iOS_Business/DJOrderListView
+	url = git@gitlab.bl.com:iOS_Business/DJOrderListView
