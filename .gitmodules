@@ -379,3 +379,6 @@
 [submodule "iOS_Business/DJHomePageViewComponents"]
 	path = iOS_Business/DJHomePageViewComponents
 	url = git@gitlab.bl.com:iOS_Business/DJHomePageViewComponents
+[submodule "iOS_Business/DJHomeViewControllers"]
+	path = iOS_Business/DJHomeViewControllers
+	url = git@gitlab.bl.com:iOS_Business/DJHomeViewControllers
