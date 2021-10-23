@@ -484,3 +484,6 @@
 [submodule "iOS_Business/EGOBClientModule"]
 	path = iOS_Business/EGOBClientModule
 	url = git@gitlab.bl.com:iOS_Business/EGOBClientModule
+[submodule "iOS_Foundation/EGOLocationModule"]
+	path = iOS_Foundation/EGOLocationModule
+	url = git@gitlab.bl.com:iOS_Foundation/EGOLocationModule
