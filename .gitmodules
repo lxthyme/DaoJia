@@ -1483,3 +1483,6 @@
 [submodule "iOS_Foundation/CTAppContext_Riso"]
 	path = iOS_Foundation/CTAppContext_Riso
 	url = git@gitlab.bl.com:iOS_Foundation/CTAppContext_Riso
+[submodule "iOS_Business/BLShopCertificateInfo"]
+	path = iOS_Business/BLShopCertificateInfo
+	url = git@gitlab.bl.com:iOS_Business/BLShopCertificateInfo
