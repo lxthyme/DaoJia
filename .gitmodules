@@ -886,3 +886,6 @@
 [submodule "iOS_ViewComponents/RisoDatePickerView"]
 	path = iOS_ViewComponents/RisoDatePickerView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoDatePickerView
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBLStore"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBLStore
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBLStore
