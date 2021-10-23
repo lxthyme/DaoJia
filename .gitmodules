@@ -1381,3 +1381,6 @@
 [submodule "iOS_Tools/RisoLoginPageForDemo"]
 	path = iOS_Tools/RisoLoginPageForDemo
 	url = git@gitlab.bl.com:iOS_Tools/RisoLoginPageForDemo
+[submodule "iOS_Tools/BLCloudStoreCacheManager"]
+	path = iOS_Tools/BLCloudStoreCacheManager
+	url = git@gitlab.bl.com:iOS_Tools/BLCloudStoreCacheManager
