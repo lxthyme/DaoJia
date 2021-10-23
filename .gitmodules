@@ -1771,3 +1771,6 @@
 [submodule "iOS_Modulization_Demo/MJPageBControllerCategory"]
 	path = iOS_Modulization_Demo/MJPageBControllerCategory
 	url = git@gitlab.bl.com:iOS_Modulization_Demo/MJPageBControllerCategory
+[submodule "iOS_Modulization_Demo/MJPageBController"]
+	path = iOS_Modulization_Demo/MJPageBController
+	url = git@gitlab.bl.com:iOS_Modulization_Demo/MJPageBController
