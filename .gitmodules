@@ -811,3 +811,6 @@
 [submodule "iOS_BusinessCategories/EGOBusinessCategoryPersonal"]
 	path = iOS_BusinessCategories/EGOBusinessCategoryPersonal
 	url = git@gitlab.bl.com:iOS_BusinessCategories/EGOBusinessCategoryPersonal
+[submodule "iOS_ViewComponents/BLOrderConfirmTableViewHeaderFooterViews"]
+	path = iOS_ViewComponents/BLOrderConfirmTableViewHeaderFooterViews
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmTableViewHeaderFooterViews
