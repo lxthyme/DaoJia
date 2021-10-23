@@ -508,3 +508,6 @@
 [submodule "iOS_BusinessCategories/DJActivityGoodsListCategory"]
 	path = iOS_BusinessCategories/DJActivityGoodsListCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/DJActivityGoodsListCategory
+[submodule "iOS_Business/BL3DTouchModule"]
+	path = iOS_Business/BL3DTouchModule
+	url = git@gitlab.bl.com:iOS_Business/BL3DTouchModule
