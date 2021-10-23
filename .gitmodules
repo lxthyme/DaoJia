@@ -1378,3 +1378,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryLogin"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryLogin
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryLogin
+[submodule "iOS_Tools/RisoLoginPageForDemo"]
+	path = iOS_Tools/RisoLoginPageForDemo
+	url = git@gitlab.bl.com:iOS_Tools/RisoLoginPageForDemo
