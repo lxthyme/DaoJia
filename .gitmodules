@@ -937,3 +937,6 @@
 [submodule "iOS_Foundation/BLOpenLoginSDK"]
 	path = iOS_Foundation/BLOpenLoginSDK
 	url = git@gitlab.bl.com:iOS_Foundation/BLOpenLoginSDK
+[submodule "iOS/BLVoice"]
+	path = iOS/BLVoice
+	url = git@gitlab.bl.com:iOS/BLVoice
