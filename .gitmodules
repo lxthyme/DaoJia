@@ -1318,3 +1318,6 @@
 [submodule "iOS_ViewComponents/BLAutoScrollBannerSectionView"]
 	path = iOS_ViewComponents/BLAutoScrollBannerSectionView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLAutoScrollBannerSectionView
+[submodule "iOS_Business/BLHomePagePromotionController"]
+	path = iOS_Business/BLHomePagePromotionController
+	url = git@gitlab.bl.com:iOS_Business/BLHomePagePromotionController
