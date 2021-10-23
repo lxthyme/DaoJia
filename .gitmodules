@@ -892,3 +892,6 @@
 [submodule "iOS_Tools/BLUITools"]
 	path = iOS_Tools/BLUITools
 	url = git@gitlab.bl.com:iOS_Tools/BLUITools
+[submodule "iOS_BusinessCategories/BLBusinessCategorySearch"]
+	path = iOS_BusinessCategories/BLBusinessCategorySearch
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySearch
