@@ -85,3 +85,6 @@
 [submodule "IOS_Flutter/BLFlutterPlugins"]
 	path = IOS_Flutter/BLFlutterPlugins
 	url = git@gitlab.bl.com:IOS_Flutter/BLFlutterPlugins
+[submodule "iOS_ViewComponents/BLFlutterRouterManager"]
+	path = iOS_ViewComponents/BLFlutterRouterManager
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLFlutterRouterManager
