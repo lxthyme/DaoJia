@@ -1552,3 +1552,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryComment"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryComment
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryComment
+[submodule "iOS_BusinessCategories/BLBusinessCategoryBindCard"]
+	path = iOS_BusinessCategories/BLBusinessCategoryBindCard
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryBindCard
