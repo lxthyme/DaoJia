@@ -1087,3 +1087,6 @@
 [submodule "iOS_ViewComponents/IBLPopDownMenu"]
 	path = iOS_ViewComponents/IBLPopDownMenu
 	url = git@gitlab.bl.com:iOS_ViewComponents/IBLPopDownMenu
+[submodule "iOS_ViewComponents/IBLBasketListCartCountView"]
+	path = iOS_ViewComponents/IBLBasketListCartCountView
+	url = git@gitlab.bl.com:iOS_ViewComponents/IBLBasketListCartCountView
