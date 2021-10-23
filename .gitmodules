@@ -1468,3 +1468,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryCategory"]
 	path = iOS_BusinessCategories/BLBusinessCategoryCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryCategory
+[submodule "iOS_Foundation/BLBusinessContext"]
+	path = iOS_Foundation/BLBusinessContext
+	url = git@gitlab.bl.com:iOS_Foundation/BLBusinessContext
