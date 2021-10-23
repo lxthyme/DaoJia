@@ -430,3 +430,6 @@
 [submodule "iOS_Business/BLRisoHomePageViewController"]
 	path = iOS_Business/BLRisoHomePageViewController
 	url = git@gitlab.bl.com:iOS_Business/BLRisoHomePageViewController
+[submodule "iOS_Business/BLRealNameInformation"]
+	path = iOS_Business/BLRealNameInformation
+	url = git@gitlab.bl.com:iOS_Business/BLRealNameInformation
