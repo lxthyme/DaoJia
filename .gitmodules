@@ -931,3 +931,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryMyReservation"]
 	path = iOS_BusinessCategories/BLBusinessCategoryMyReservation
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryMyReservation
+[submodule "iOS_BusinessCategories/BLBusinessCategoryJoinGroup"]
+	path = iOS_BusinessCategories/BLBusinessCategoryJoinGroup
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryJoinGroup
