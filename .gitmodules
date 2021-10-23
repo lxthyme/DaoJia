@@ -265,3 +265,6 @@
 [submodule "iOS/RisoPaymentViewController"]
 	path = iOS/RisoPaymentViewController
 	url = git@gitlab.bl.com:iOS/RisoPaymentViewController
+[submodule "iOS_Business/BLInvoiceTitle"]
+	path = iOS_Business/BLInvoiceTitle
+	url = git@gitlab.bl.com:iOS_Business/BLInvoiceTitle
