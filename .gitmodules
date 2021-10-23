@@ -1618,3 +1618,6 @@
 [submodule "iOS_ViewComponents/BLHomePageChannelSectionView"]
 	path = iOS_ViewComponents/BLHomePageChannelSectionView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLHomePageChannelSectionView
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryQRScan"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryQRScan
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryQRScan
