@@ -1078,3 +1078,6 @@
 [submodule "iOS_BusinessCategories/BLHomePageCategory"]
 	path = iOS_BusinessCategories/BLHomePageCategory
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLHomePageCategory
+[submodule "iOS_Business/DJHomeCategory"]
+	path = iOS_Business/DJHomeCategory
+	url = git@gitlab.bl.com:iOS_Business/DJHomeCategory
