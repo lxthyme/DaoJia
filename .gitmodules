@@ -361,3 +361,6 @@
 [submodule "iOS_ViewComponents/BLQRAVCaptureModule"]
 	path = iOS_ViewComponents/BLQRAVCaptureModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLQRAVCaptureModule
+[submodule "iOS_Business/BLFindGoodShopModule"]
+	path = iOS_Business/BLFindGoodShopModule
+	url = git@gitlab.bl.com:iOS_Business/BLFindGoodShopModule
