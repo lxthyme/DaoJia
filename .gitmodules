@@ -1147,3 +1147,6 @@
 [submodule "iOS_BusinessCategories/RisoBusinessCategoryChoseAddress"]
 	path = iOS_BusinessCategories/RisoBusinessCategoryChoseAddress
 	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryChoseAddress
+[submodule "iOS_ViewComponents/BLOrderConfirmCouponActionSheet"]
+	path = iOS_ViewComponents/BLOrderConfirmCouponActionSheet
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmCouponActionSheet
