@@ -1213,3 +1213,6 @@
 [submodule "iOS_Tools/BLCountDownTool"]
 	path = iOS_Tools/BLCountDownTool
 	url = git@gitlab.bl.com:iOS_Tools/BLCountDownTool
+[submodule "iOS_Business/DJPersonalCenter"]
+	path = iOS_Business/DJPersonalCenter
+	url = git@gitlab.bl.com:iOS_Business/DJPersonalCenter
