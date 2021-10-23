@@ -1222,3 +1222,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategoryAPIManager"]
 	path = iOS_BusinessCategories/BLBusinessCategoryAPIManager
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryAPIManager
+[submodule "iOS_BusinessCategories/BLBusinessCategoryResourceRecorder"]
+	path = iOS_BusinessCategories/BLBusinessCategoryResourceRecorder
+	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryResourceRecorder
