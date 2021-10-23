@@ -1522,3 +1522,6 @@
 [submodule "iOS_ViewComponents/RisoScrollTitleView"]
 	path = iOS_ViewComponents/RisoScrollTitleView
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoScrollTitleView
+[submodule "iOS_ViewComponents/RisoSearchTextField"]
+	path = iOS_ViewComponents/RisoSearchTextField
+	url = git@gitlab.bl.com:iOS_ViewComponents/RisoSearchTextField
