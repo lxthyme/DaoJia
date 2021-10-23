@@ -601,3 +601,6 @@
 [submodule "iOS_Business/BLSecondKill"]
 	path = iOS_Business/BLSecondKill
 	url = git@gitlab.bl.com:iOS_Business/BLSecondKill
+[submodule "iOS_Business/BLUnicomFreeFlow"]
+	path = iOS_Business/BLUnicomFreeFlow
+	url = git@gitlab.bl.com:iOS_Business/BLUnicomFreeFlow
