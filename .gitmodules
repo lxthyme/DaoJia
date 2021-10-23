@@ -664,3 +664,6 @@
 [submodule "iOS_Business/FlashSale"]
 	path = iOS_Business/FlashSale
 	url = git@gitlab.bl.com:iOS_Business/FlashSale
+[submodule "iOS_Foundation/RisoPageJumpManager"]
+	path = iOS_Foundation/RisoPageJumpManager
+	url = git@gitlab.bl.com:iOS_Foundation/RisoPageJumpManager
