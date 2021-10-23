@@ -1273,3 +1273,6 @@
 [submodule "iOS_ViewComponents/Test_A"]
 	path = iOS_ViewComponents/Test_A
 	url = git@gitlab.bl.com:iOS_ViewComponents/Test_A
+[submodule "iOS_Foundation/BLExceptionKiller"]
+	path = iOS_Foundation/BLExceptionKiller
+	url = git@gitlab.bl.com:iOS_Foundation/BLExceptionKiller
