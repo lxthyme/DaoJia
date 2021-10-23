@@ -964,3 +964,6 @@
 [submodule "iOS_ViewComponents/RisoAutoScrollLabel"]
 	path = iOS_ViewComponents/RisoAutoScrollLabel
 	url = git@gitlab.bl.com:iOS_ViewComponents/RisoAutoScrollLabel
+[submodule "iOS_Business/RisoSelfServiceOrderGoodList"]
+	path = iOS_Business/RisoSelfServiceOrderGoodList
+	url = git@gitlab.bl.com:iOS_Business/RisoSelfServiceOrderGoodList
