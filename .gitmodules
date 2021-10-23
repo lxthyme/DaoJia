@@ -133,3 +133,6 @@
 [submodule "iOS_Business/BLPanicBuyEveryDay"]
 	path = iOS_Business/BLPanicBuyEveryDay
 	url = git@gitlab.bl.com:iOS_Business/BLPanicBuyEveryDay
+[submodule "iOS_Business/BLOrderInvoice"]
+	path = iOS_Business/BLOrderInvoice
+	url = git@gitlab.bl.com:iOS_Business/BLOrderInvoice
