@@ -895,3 +895,6 @@
 [submodule "iOS_BusinessCategories/BLBusinessCategorySearch"]
 	path = iOS_BusinessCategories/BLBusinessCategorySearch
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategorySearch
+[submodule "iOS_BusinessCategories/RisoBusinessCategoryHomePage"]
+	path = iOS_BusinessCategories/RisoBusinessCategoryHomePage
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategoryHomePage
