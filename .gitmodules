@@ -481,3 +481,6 @@
 [submodule "iOS_ViewComponents/EGOProductAttributePopView"]
 	path = iOS_ViewComponents/EGOProductAttributePopView
 	url = git@gitlab.bl.com:iOS_ViewComponents/EGOProductAttributePopView
+[submodule "iOS_Business/EGOBClientModule"]
+	path = iOS_Business/EGOBClientModule
+	url = git@gitlab.bl.com:iOS_Business/EGOBClientModule
