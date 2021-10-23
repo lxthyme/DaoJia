@@ -118,3 +118,6 @@
 [submodule "iOS_Business/BLGuideModule"]
 	path = iOS_Business/BLGuideModule
 	url = git@gitlab.bl.com:iOS_Business/BLGuideModule
+[submodule "iOS_Business/RisoShopCarViewController"]
+	path = iOS_Business/RisoShopCarViewController
+	url = git@gitlab.bl.com:iOS_Business/RisoShopCarViewController
