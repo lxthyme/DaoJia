@@ -841,3 +841,6 @@
 [submodule "iOS_Foundation/AmapAPIManager"]
 	path = iOS_Foundation/AmapAPIManager
 	url = git@gitlab.bl.com:iOS_Foundation/AmapAPIManager
+[submodule "iOS_BusinessCategories/RisoBusinessCategorySharedRedEnvelope"]
+	path = iOS_BusinessCategories/RisoBusinessCategorySharedRedEnvelope
+	url = git@gitlab.bl.com:iOS_BusinessCategories/RisoBusinessCategorySharedRedEnvelope
