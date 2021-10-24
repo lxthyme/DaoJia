@@ -1,0 +1,3 @@
+[submodule "QuickHome"]
+	path = QuickHome
+	url = git@gitlab.bl.com:DaoJia/QuickHome.git
