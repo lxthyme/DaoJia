@@ -1,3 +1,5 @@
+#!/usr/local/bin/bash -e
+
 # 更新 master 分支
 info_ALL=(
   master master
@@ -34,8 +36,9 @@ info_ALL=(
   DJiOSAppImages
 )
 
-info=(${info_ALL[@]})
-info_str="${info[@]}"
+# info=(${info_ALL[@]})
+# info_str="${info[@]}"
+info_str="${info_ALL[@]}"
 $(
   cd "$(dirname "$0")"
   pwd

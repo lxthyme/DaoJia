@@ -22,11 +22,11 @@ dependencyBranch['BLMapModule']='master'
 dependencyBranch_str="BaiLian=master BLHomePageViewComponents=master BLAPIManagers=master BLMapModule=master"
 
 # info=(${info_ALL[@]})
-info=(${info_NewModuleHome[@]})
+# info=(${info_NewModuleHome[@]})
 # info=(${info_BYT_78838[@]})
-branch=${info[0]}
-devBranch=${info[1]}
-Components=(${info[@]:2})
+# branch=${info[0]}
+# devBranch=${info[1]}
+# Components=(${info[@]:2})
 
 params=""
 for comp in $(echo ${!dependencyBranch[*]}); do
@@ -34,7 +34,8 @@ for comp in $(echo ${!dependencyBranch[*]}); do
   params+="$comp=$cbranch "
 done
 
-info_str="${info[@]}"
+# info_str="${info[@]}"
+info_str="${info_NewModuleHome[@]}"
 dependencyBranch_str="$params"
 $(
   cd "$(dirname "$0")"

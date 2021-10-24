@@ -113,6 +113,7 @@ for comp in $(echo ${!dependencyBranch[*]}); do
   git remote set-branches origin '*'
   git fetch
   git checkout $cbranch
+  git pull origin $cbranch
 
   echo -e "\033[37mDone!\033[0m"
 done
