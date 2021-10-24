@@ -1,39 +1,71 @@
 #!/usr/local/bin/bash -e
+#!/bin/bash -e
 
-info="$1"
-info=(${info[0]})
-dependencyBranch_str="$2"
-dependencyBranch_str=(${dependencyBranch_str[0]})
+# ProjectRoot='/Users/lxthyme/Desktop/Lucky/BL-gitlab/DaoJia'
+ProjectRoot='/Users/lxthyme/Desktop/Lucky/Work/BL/DaoJia'
 
 declare -A dependencyBranch
-for i in "${dependencyBranch_str[@]}"
-do
-  key=`echo $i|awk -F'=' '{print $1}'`
-  value=`echo $i|awk -F'=' '{print $2}'`
-  dependencyBranch[$key]=$value
-done
 
+# 更新 master 分支
+info_ALL=(
+  master master
+  BLAPIManagers
+  BLCouponCenterModule
+  BLCouponFloatingView
+  BLDaoJia
+  BLHomeDataSource
+  BLHomePageViewComponents
+  BLMapModule
+  BLOrder
+  BLOrderConfirmBottomView
+  BLRawAPIManager
+  BLiOSAppImages
+  BaiLian
+  DJActivityGoodsList
+  DJAddressManageModule
+  DJClassifyList
+  DJGlobalStoreManager
+  DJHome
+  DJNavigationView
+  DJNewModuleHome
+  DJOrderChooseDeliveryTimeView
+  DJOrderConfirm
+  DJOrderListView
+  DJPaySuccessful
+  DJProductDetailView
+  DJResourceJumpManager
+  DJScanBarcodeOrderConfirm
+  DJScanBarcodeView
+  DJSearchHistoryManger
+  DJShoppingCartModule
+  DJStoreList
+  DJiOSAppImages
+)
+
+# 新首页
+info_NewModuleHome=(damon_dev master_1015
+DJNewModuleHome BLDaoJia DJHome BLCouponFloatingView DJStoreList BLRawAPIManager
+DJiOSAppImages BLiOSAppImages)
+
+# BYT-78838-集字浏览任务
+info_BYT_78838=(damon/BYT-78838-集字浏览任务 master_1015
+DJNewModuleHome BLDaoJia DJHome
+
+# dependency
+# BLHomePageViewComponents BLAPIManagers
+)
+# dependencyBranch['BaiLian']='develop'
+# dependencyBranch['BaiLian']='master'
+# dependencyBranch['BLHomePageViewComponents']='master'
+# dependencyBranch['BLAPIManagers']='master'
+# dependencyBranch['BLMapModule']='master'
+
+info=(${info_ALL[@]})
+# info=(${info_NewModuleHome[@]})
+# info=(${info_BYT_78838[@]})
 branch=${info[0]}
 devBranch=${info[1]}
-# branch=$1
-# Components=("$2")
 Components=(${info[@]:2})
-
-ProjectRoot=$(cd "$(dirname "$0")"; pwd)
-
-echo "ProjectRoot: $ProjectRoot"
-
-echo -e "\ninfo: ${info[@]}"
-echo -e "\ndependencyBranch_str: ${dependencyBranch_str[@]}"
-echo -e "dependencyBranch: ${dependencyBranch[@]}"
-for comp in $(echo ${!dependencyBranch[*]})
-do
-  value=${dependencyBranch[$comp]}
-  echo "$comp: $value"
-done
-echo -e "\nbranch: ${branch}"
-echo -e "devBranch: ${devBranch}"
-echo -e "Components: ${Components[@]}"
 
 read -n1 -p "❓是否合并到开发分支($branch => $devBranch)?(Y | y)" needMergeToDevBranch
 case $needMergeToDevBranch in
@@ -107,6 +139,7 @@ echo -e "\033[33mcheckout $comp Done!\033[0m"
 
 done
 
+
 for comp in $(echo ${!dependencyBranch[*]})
 do
   cbranch=${dependencyBranch[$comp]}
@@ -118,6 +151,7 @@ do
 
   echo -e "\033[37mDone!\033[0m"
 done
+
 
 echo -e "\033[37m\n########## Congratulations, All done!!!##########\n\033[0m"
 
