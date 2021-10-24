@@ -1,8 +1,8 @@
 # 1116
 ## 1. [【到家/前端】商品列表页、凑单页等更新商品样式（APP/小程序/H5）](http://jira.ibl.cn/browse/BYT-78490) 「`damon/BYT-78490_更新商品样式`」
 info_BYT_78490=(damon/BYT-78490_更新商品样式 damon/BYT-78490_更新商品样式
-  DJNewModuleHome 
-  DJActivityGoodsList 
+  DJNewModuleHome
+  DJActivityGoodsList
   BLCouponFloatingView)
 
 ## 1. [【到家/前端】确认订单页配送时间选择项设计优化（IOS）](http://jira.ibl.cn/browse/BYT-79341?filter=-1)「`damon/BYT-79341_配送时间`」

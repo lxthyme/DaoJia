@@ -36,4 +36,7 @@ info_ALL=(
 
 info=(${info_ALL[@]})
 info_str="${info[@]}"
-$(cd "$(dirname "$0")"; pwd)/switch.branch.sh "$info_str" "$dependencyBranch_str"
+$(
+  cd "$(dirname "$0")"
+  pwd
+)/switch.branch.sh "$info_str" "$dependencyBranch_str"

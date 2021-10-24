@@ -4,15 +4,15 @@ declare -A dependencyBranch
 
 # 新首页
 info_NewModuleHome=(damon_dev master_1015
-DJNewModuleHome BLDaoJia DJHome BLCouponFloatingView DJStoreList BLRawAPIManager
-DJiOSAppImages BLiOSAppImages)
+  DJNewModuleHome BLDaoJia DJHome BLCouponFloatingView DJStoreList BLRawAPIManager
+  DJiOSAppImages BLiOSAppImages)
 
 # BYT-78838-集字浏览任务
 info_BYT_78838=(damon/BYT-78838-集字浏览任务 master_1015
-DJNewModuleHome BLDaoJia DJHome
+  DJNewModuleHome BLDaoJia DJHome
 
-# dependency
-# BLHomePageViewComponents BLAPIManagers
+  # dependency
+  # BLHomePageViewComponents BLAPIManagers
 )
 # dependencyBranch['BaiLian']='develop'
 dependencyBranch['BaiLian']='master'
@@ -29,12 +29,14 @@ devBranch=${info[1]}
 Components=(${info[@]:2})
 
 params=""
-for comp in $(echo ${!dependencyBranch[*]})
-do
+for comp in $(echo ${!dependencyBranch[*]}); do
   cbranch=${dependencyBranch[$comp]}
   params+="$comp=$cbranch "
 done
 
 info_str="${info[@]}"
 dependencyBranch_str="$params"
-$(cd "$(dirname "$0")"; pwd)/switch.branch.sh "$info_str" "$dependencyBranch_str"
+$(
+  cd "$(dirname "$0")"
+  pwd
+)/switch.branch.sh "$info_str" "$dependencyBranch_str"
