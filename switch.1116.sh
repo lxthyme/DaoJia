@@ -20,7 +20,14 @@ dependencyBranch['DJOrderConfirm']='damon/BYT-79341_配送时间'
 ## 1. [线上问题：未进过到家首页，直接从主站进到家商详页，加车后进购物车页面，购物车显示空，预期：应有加车的商品](http://jira.ibl.cn/browse/SIT-43786?filter=-1)
 # info_=(damon/SIT-43786\_购物车
 #   DJProductDetailView)
-dependencyBranch['DJProductDetailView']='damon/SIT-43786_购物车'
+# dependencyBranch['DJProductDetailView']='damon/SIT-43786_购物车'
+dependencyBranch['DJProductDetailView']='master'
+dependencyBranch['BLDaoJia']='bugfix_1016'
+dependencyBranch['DJClassifyList']='bugfix_1016'
+dependencyBranch['DJChooseAddressView']='bugfix_1016'
+dependencyBranch['DJShoppingCartModule']='bugfix_1016'
+dependencyBranch['DJOrderListView']='bugfix_1016'
+dependencyBranch['']='bugfix_1016'
 
 params=""
 for comp in $(echo ${!dependencyBranch[*]}); do
