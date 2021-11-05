@@ -94,3 +94,6 @@
 [submodule "BLNetworking"]
 	path = BLNetworking
 	url = git@gitlab.bl.com:iOS_Foundation/BLNetworking.git
+[submodule "BLAdvertResourceJumpManager"]
+	path = BLAdvertResourceJumpManager
+	url = git@gitlab.bl.com:iOS_Foundation/BLAdvertResourceJumpManager.git
