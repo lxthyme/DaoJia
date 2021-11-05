@@ -97,3 +97,6 @@
 [submodule "BLAdvertResourceJumpManager"]
 	path = BLAdvertResourceJumpManager
 	url = git@gitlab.bl.com:iOS_Foundation/BLAdvertResourceJumpManager.git
+[submodule "DJChooseAddressView"]
+	path = DJChooseAddressView
+	url = git@gitlab.bl.com:iOS_Business/DJChooseAddressView.git
