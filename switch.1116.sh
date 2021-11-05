@@ -28,6 +28,7 @@ dependencyBranch['DJChooseAddressView']='damon/bugfix_1116'
 dependencyBranch['DJShoppingCartModule']='damon/bugfix_1116'
 dependencyBranch['DJOrderListView']='damon/bugfix_1116'
 dependencyBranch['DJHome']='damon/bugfix_1116'
+dependencyBranch['BLRawAPIManager']='damon/bugfix_1116'
 dependencyBranch['DJGlobalStoreManager']='damon/bugfix_1116_进店逻辑_v2'
 
 params=""
