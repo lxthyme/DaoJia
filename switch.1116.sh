@@ -22,12 +22,13 @@ dependencyBranch['DJOrderConfirm']='damon/BYT-79341_配送时间'
 #   DJProductDetailView)
 # dependencyBranch['DJProductDetailView']='damon/SIT-43786_购物车'
 dependencyBranch['DJProductDetailView']='master'
-dependencyBranch['BLDaoJia']='bugfix_1016'
-dependencyBranch['DJClassifyList']='bugfix_1016'
-dependencyBranch['DJChooseAddressView']='bugfix_1016'
-dependencyBranch['DJShoppingCartModule']='bugfix_1016'
-dependencyBranch['DJOrderListView']='bugfix_1016'
-dependencyBranch['']='bugfix_1016'
+dependencyBranch['BLDaoJia']='damon/bugfix_1116'
+dependencyBranch['DJClassifyList']='damon/bugfix_1116'
+dependencyBranch['DJChooseAddressView']='damon/bugfix_1116'
+dependencyBranch['DJShoppingCartModule']='damon/bugfix_1116'
+dependencyBranch['DJOrderListView']='damon/bugfix_1116'
+dependencyBranch['DJHome']='damon/bugfix_1116'
+dependencyBranch['DJGlobalStoreManager']='damon/bugfix_1116_进店逻辑_v2'
 
 params=""
 for comp in $(echo ${!dependencyBranch[*]}); do
