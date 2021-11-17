@@ -100,3 +100,6 @@
 [submodule "DJChooseAddressView"]
 	path = DJChooseAddressView
 	url = git@gitlab.bl.com:iOS_Business/DJChooseAddressView.git
+[submodule "DJHomeDataSource"]
+	path = DJHomeDataSource
+	url = git@gitlab.bl.com:iOS_Business/DJHomeDataSource.git
