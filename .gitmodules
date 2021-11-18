@@ -103,3 +103,6 @@
 [submodule "DJHomeDataSource"]
 	path = DJHomeDataSource
 	url = git@gitlab.bl.com:iOS_Business/DJHomeDataSource.git
+[submodule "djbusinesstools"]
+	path = djbusinesstools
+	url = git@gitlab.bl.com:iOS_Business/djbusinesstools.git
