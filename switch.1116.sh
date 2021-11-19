@@ -30,6 +30,9 @@ dependencyBranch['DJOrderListView']='damon/bugfix_1116'
 dependencyBranch['DJHome']='damon/bugfix_1116'
 dependencyBranch['BLRawAPIManager']='damon/bugfix_1116'
 dependencyBranch['DJGlobalStoreManager']='damon/bugfix_1116_进店逻辑_v2'
+dependencyBranch['DJHomeDataSource']='master'
+dependencyBranch['DJBusinessTools']='master'
+dependencyBranch['BLCategories']='master'
 
 params=""
 for comp in $(echo ${!dependencyBranch[*]}); do
