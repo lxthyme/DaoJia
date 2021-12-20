@@ -100,3 +100,6 @@
 [submodule "BLOrderConfirmRuleAlertView"]
 	path = BLOrderConfirmRuleAlertView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmRuleAlertView.git
+[submodule "DJAMapForStoreList"]
+	path = DJAMapForStoreList
+	url = git@gitlab.bl.com:iOS_Business/DJAMapForStoreList.git
