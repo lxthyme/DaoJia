@@ -94,3 +94,6 @@
 [submodule "djbusinesstools"]
 	path = djbusinesstools
 	url = git@gitlab.bl.com:iOS_Business/djbusinesstools.git
+[submodule "BLCancelOrderView"]
+	path = BLCancelOrderView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLCancelOrderView.git
