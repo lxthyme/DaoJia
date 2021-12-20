@@ -97,3 +97,6 @@
 [submodule "BLCancelOrderView"]
 	path = BLCancelOrderView
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLCancelOrderView.git
+[submodule "BLOrderConfirmRuleAlertView"]
+	path = BLOrderConfirmRuleAlertView
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLOrderConfirmRuleAlertView.git
