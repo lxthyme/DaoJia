@@ -103,3 +103,6 @@
 [submodule "DJAMapForStoreList"]
 	path = DJAMapForStoreList
 	url = git@gitlab.bl.com:iOS_Business/DJAMapForStoreList.git
+[submodule "DJGoodsStatusAlertView"]
+	path = DJGoodsStatusAlertView
+	url = git@gitlab.bl.com:iOS_Business/DJGoodsStatusAlertView.git
