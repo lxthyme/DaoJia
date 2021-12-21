@@ -109,3 +109,6 @@
 [submodule "BLBusinessCategoryRouterCenter"]
 	path = BLBusinessCategoryRouterCenter
 	url = git@gitlab.bl.com:iOS_BusinessCategories/BLBusinessCategoryRouterCenter.git
+[submodule "BLFlutterRouterManager"]
+	path = BLFlutterRouterManager
+	url = git@gitlab.bl.com:iOS_ViewComponents/BLFlutterRouterManager.git
