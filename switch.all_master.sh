@@ -3,23 +3,31 @@
 # 更新 master 分支
 info_ALL=(
   master master
+  BaiLian
   BLAPIManagers
-  BLCouponCenterModule
+  BLBusinessCategoryRouterCenter
+  BLCancelOrderView
   BLCouponFloatingView
   BLDaoJia
-  BLHomeDataSource
-  BLHomePageViewComponents
+  BLFlutterRouterManager
+  BLiOSAppImages
   BLMapModule
+  BLNetworking
   BLOrder
   BLOrderConfirmBottomView
+  BLOrderConfirmRuleAlertView
   BLRawAPIManager
-  BLiOSAppImages
-  BaiLian
   DJActivityGoodsList
   DJAddressManageModule
+  DJAMapForStoreList
+  djbusinesstools
+  DJChooseAddressView
   DJClassifyList
   DJGlobalStoreManager
+  DJGoodsStatusAlertView
   DJHome
+  DJHomeDataSource
+  DJiOSAppImages
   DJNavigationView
   DJNewModuleHome
   DJOrderChooseDeliveryTimeView
@@ -33,7 +41,6 @@ info_ALL=(
   DJSearchHistoryManger
   DJShoppingCartModule
   DJStoreList
-  DJiOSAppImages
 )
 
 # info=(${info_ALL[@]})

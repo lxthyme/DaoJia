@@ -38,6 +38,40 @@ https://wiki.ibl.cn/pages/viewpage.action?pageId=47384977
 
 oneYearAgoFlag: 查询一年前订单标识，传 1 使用历史订单详情接口
 
+### 券适用商品页
+tdType = 1
+
+### 订单确认页券查询优化
+// TODO:「lxthyme」💊orderSubTypeCode
+1. `BLBusinessCategoryRouterCenter`
+1. `BLFlutterRouterManager`
+
+
+#### backup
+https://dj.st.bl.com/dj-api/kdj/djcart/calDelivery.htm 计算运费
+https://dj.st.bl.com/dj-api/kdj/djcart/queryCouponsV2.htm 查券
+
+计算运费的返回：deliveryInfoList 大于等于2
+
+![](media/16400840984152/16400841155754.jpg)
+
+```java
+private String initialWeight;baseGroupFreight
+private String deliveryCharge;groupFreight
+private String groupId;  groupId
+```
+
+### 支付成功后"查看订单"跳转错误
+支付成功
+DJNormalPaySuccessViewController
+DJPaySuccessTopCell
+DJPaySuccessDetailCell
+DJPaySuccessResourceCollectionViewCell
+
+DJPrescriptionMedicinePaySuccessVC
+
+DJPaySuccessViewControllerWithOrderType
+
 ## 优化
 
 ### tabbar 无模板时不隐藏
@@ -48,10 +82,7 @@ oneYearAgoFlag: 查询一年前订单标识，传 1 使用历史订单详情接�
 
 1. `DJClassifyList` `damon/bugfix_20211230`
 
-### 头部四: B2C&O2O, All&O2O, 各间隔调整为 20
-
-- [x] 登录二次不出现
-- [x] 添加托底商品提示已下架
+### 头部四: B2C&O2O, All&O2O, 各间隔调整为 20px
 
 ## iOS15 适配
 
@@ -118,8 +149,15 @@ DJScanBarcideShoppingCartTableView
 - [x] 分类页头部, All + O2O 时, 隐藏顶部 tab
 - [x] tabbar 无模板时也要展示
 - [ ] 药到家半小时达???
+	> DJGoodsDetailDeliveryCell
+- [x] 登录二次不出现
+- [x] 添加托底商品提示已下架
 
 DJNoLocationView
 DJBottomBarView
 shopTempletQueryAPIManager
 templetQueryByIdAPIManager
+
+
+
+## Record
