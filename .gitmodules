@@ -115,3 +115,6 @@
 [submodule "BLPaySuccessful"]
 	path = BLPaySuccessful
 	url = git@gitlab.bl.com:iOS_Business/BLPaySuccessful.git
+[submodule "BLCashier"]
+	path = BLCashier
+	url = git@gitlab.bl.com:iOS_Business/BLCashier.git
