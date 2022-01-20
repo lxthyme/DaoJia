@@ -1,0 +1,8 @@
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/
+*.swp
+Pods/
+.DS_Store
+
+BaiLian-build-temp
