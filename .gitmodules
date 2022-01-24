@@ -2,3 +2,6 @@
 	path = QuickHome
 	url = git@gitlab.bl.com:DaoJia/QuickHome.git
 	branch = dev_20211116
+[submodule "iblAndroid-2020"]
+	path = iblAndroid-2020
+	url = git@gitlab.bl.com:ibl-Android/iblAndroid-2020.git
