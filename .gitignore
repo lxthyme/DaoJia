@@ -5,4 +5,4 @@
 Pods/
 .DS_Store
 
-BaiLian-build-temp
+*-build-temp
