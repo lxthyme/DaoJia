@@ -121,3 +121,6 @@
 [submodule "BLGoStoreModule"]
 	path = BLGoStoreModule
 	url = git@gitlab.bl.com:iOS_ViewComponents/BLGoStoreModule.git
+[submodule "DJBusinessModule"]
+	path = DJBusinessModule
+	url = https://gitlab.bl.com/iOS_Business/DJBusinessModule.git
