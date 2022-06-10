@@ -103,9 +103,6 @@
 [submodule "DJGoodsStatusAlertView"]
 	path = DJGoodsStatusAlertView
 	url = git@gitlab.bl.com:iOS_Business/DJGoodsStatusAlertView.git
-[submodule "BLFlutterRouterManager"]
-	path = BLFlutterRouterManager
-	url = git@gitlab.bl.com:iOS_ViewComponents/BLFlutterRouterManager.git
 [submodule "BLPaySuccessful"]
 	path = BLPaySuccessful
 	url = git@gitlab.bl.com:iOS_Business/BLPaySuccessful.git
