@@ -85,9 +85,6 @@
 [submodule "DJGoodsStatusAlertView"]
 	path = DJGoodsStatusAlertView
 	url = git@gitlab.bl.com:iOS_Business/DJGoodsStatusAlertView.git
-[submodule "BLCashier"]
-	path = BLCashier
-	url = git@gitlab.bl.com:iOS_Business/BLCashier.git
 [submodule "BLImage"]
 	path = BLImage
 	url = git@gitlab.bl.com:iOS_Tools/BLImage.git
