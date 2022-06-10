@@ -1,9 +1,6 @@
 [submodule "BLRawAPIManager"]
 	path = BLRawAPIManager
 	url = git@gitlab.bl.com:iOS_Foundation/BLRawAPIManager.git
-[submodule "BLiOSAppImages"]
-	path = BLiOSAppImages
-	url = git@gitlab.bl.com:iOS/BLiOSAppImages.git
 [submodule "BaiLian"]
 	path = BaiLian
 	url = git@gitlab.bl.com:iOS/BaiLian.git
