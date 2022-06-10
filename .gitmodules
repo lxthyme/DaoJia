@@ -13,9 +13,6 @@
 [submodule "DJGlobalStoreManager"]
 	path = DJGlobalStoreManager
 	url = git@gitlab.bl.com:iOS_DataCenters/DJGlobalStoreManager.git
-[submodule "DJHome"]
-	path = DJHome
-	url = git@gitlab.bl.com:iOS_Business/DJHome.git
 [submodule "DJNavigationView"]
 	path = DJNavigationView
 	url = git@gitlab.bl.com:DaoJia/DJNavigationView.git
