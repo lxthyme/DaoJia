@@ -16,9 +16,6 @@
 [submodule "DJNewModuleHome"]
 	path = DJNewModuleHome
 	url = git@gitlab.bl.com:iOS_ViewComponents/DJNewModuleHome.git
-[submodule "DJScanBarcodeView"]
-	path = DJScanBarcodeView
-	url = git@gitlab.bl.com:iOS_Business/DJScanBarcodeView.git
 [submodule "DJSearchHistoryManger"]
 	path = DJSearchHistoryManger
 	url = git@gitlab.bl.com:iOS_DataCenters/DJSearchHistoryManger.git
